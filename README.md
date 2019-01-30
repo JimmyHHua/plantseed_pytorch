@@ -5,14 +5,14 @@
 </div>
 
 ### Introduction
-In this project, we use the `Resnet` with Pytorch to do the plant seed classification.For this task, the dataset is large and the image resolution is higher, the network is deeper.
+In this project, we use the `Resnet50` with Pytorch to do the plant seed classification.For this task, the dataset is large and the image resolution is higher, the network is deeper.
 
 ### Git Project
 
 open the terminal and run the command
 
 ```
-git clone https://github.com/L1aoXingyu/kaggle-cifar10.git
+git clone https://github.com/JimmyHHua/plantseed_pytorch.git
 ```
 
 or you can download it via the website, and then run the below command
