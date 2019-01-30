@@ -1,0 +1,2469 @@
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0   Batch: 10	Speed: 10.905858 samples/sec	loss=2.513231	acc=0.087500
+Epoch: 0   Batch: 20	Speed: 132.079623 samples/sec	loss=2.498689	acc=0.100000
+Epoch: 0   Batch: 30	Speed: 137.286802 samples/sec	loss=2.472570	acc=0.112500
+Epoch: 0   Batch: 40	Speed: 133.714640 samples/sec	loss=2.462285	acc=0.118750
+Epoch: 0   Batch: 50	Speed: 133.874741 samples/sec	loss=2.451453	acc=0.132500
+Epoch: 0   Batch: 60	Speed: 131.904337 samples/sec	loss=2.432876	acc=0.141667
+Epoch: 0   Batch: 70	Speed: 132.926375 samples/sec	loss=2.429914	acc=0.133929
+Epoch: 0   Batch: 80	Speed: 120.665583 samples/sec	loss=2.426109	acc=0.139063
+Epoch: 0   Batch: 90	Speed: 133.094094 samples/sec	loss=2.419571	acc=0.140278
+Epoch: 0   Batch: 100	Speed: 130.723642 samples/sec	loss=2.423715	acc=0.136250
+Epoch: 0   Batch: 110	Speed: 133.280658 samples/sec	loss=2.421529	acc=0.136364
+Epoch: 0   Batch: 120	Speed: 132.110929 samples/sec	loss=2.414580	acc=0.139583
+Epoch: 0   Batch: 130	Speed: 133.181628 samples/sec	loss=2.405034	acc=0.146154
+Epoch: 0   Batch: 140	Speed: 131.791862 samples/sec	loss=2.401932	acc=0.148214
+Epoch: 0   Batch: 150	Speed: 129.735421 samples/sec	loss=2.400786	acc=0.151667
+Epoch: 0   Batch: 160	Speed: 131.435450 samples/sec	loss=2.399718	acc=0.157031
+Epoch: 0   Batch: 170	Speed: 132.192434 samples/sec	loss=2.396130	acc=0.160294
+Epoch: 0   Batch: 180	Speed: 124.022760 samples/sec	loss=2.396231	acc=0.161806
+Epoch: 0   Batch: 190	Speed: 131.862454 samples/sec	loss=2.388500	acc=0.169079
+Epoch: 0   Batch: 200	Speed: 132.395228 samples/sec	loss=2.383264	acc=0.169375
+Epoch: 0   Batch: 210	Speed: 132.410432 samples/sec	loss=2.379724	acc=0.170238
+Epoch: 0   Batch: 220	Speed: 126.631489 samples/sec	loss=2.376445	acc=0.172727
+Epoch: 0   Batch: 230	Speed: 130.438913 samples/sec	loss=2.371315	acc=0.177174
+Epoch: 0   Batch: 240	Speed: 132.698594 samples/sec	loss=2.365274	acc=0.179167
+Epoch: 0   Batch: 250	Speed: 133.834640 samples/sec	loss=2.362926	acc=0.180000
+Epoch: 0   Batch: 260	Speed: 131.617235 samples/sec	loss=2.356306	acc=0.181731
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0   Batch: 10	Speed: 66.408275 samples/sec	loss=2.462193	acc=0.160938
+Epoch: 0   Batch: 20	Speed: 481.386583 samples/sec	loss=2.460204	acc=0.146094
+Epoch: 0   Batch: 30	Speed: 482.439484 samples/sec	loss=2.450225	acc=0.135937
+Epoch: 0   Batch: 40	Speed: 482.084168 samples/sec	loss=2.431618	acc=0.148047
+Epoch: 0   Batch: 50	Speed: 482.230788 samples/sec	loss=2.418281	acc=0.153438
+Epoch: 0   Batch: 60	Speed: 483.264420 samples/sec	loss=2.405462	acc=0.160417
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0   Batch: 10	Speed: 63.351395 samples/sec	loss=2.501256	acc=0.078125
+Epoch: 0   Batch: 20	Speed: 474.514992 samples/sec	loss=2.484630	acc=0.095312
+Epoch: 0   Batch: 30	Speed: 474.986027 samples/sec	loss=2.459898	acc=0.115625
+Epoch: 0   Batch: 40	Speed: 476.080565 samples/sec	loss=2.440060	acc=0.127734
+Epoch: 0   Batch: 50	Speed: 470.674250 samples/sec	loss=2.426180	acc=0.139687
+Epoch: 0   Batch: 60	Speed: 477.773145 samples/sec	loss=2.414005	acc=0.150781
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0   Batch: 10	Speed: 117.953029 samples/sec	loss=2.550972	acc=0.093750
+Epoch: 0   Batch: 20	Speed: 568.562892 samples/sec	loss=2.521156	acc=0.105469
+Epoch: 0   Batch: 30	Speed: 570.115184 samples/sec	loss=2.496988	acc=0.117969
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0   Batch: 10	Speed: 97.525923 samples/sec	loss=2.543346	acc=0.093750
+Epoch: 0   Batch: 20	Speed: 569.749443 samples/sec	loss=2.518693	acc=0.096875
+Epoch: 0   Batch: 30	Speed: 571.164120 samples/sec	loss=2.490337	acc=0.115625
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0   Batch: 10	Speed: 100.236150 samples/sec	loss=2.544275	acc=0.083594
+Epoch: 0   Batch: 20	Speed: 572.890851 samples/sec	loss=2.510751	acc=0.094531
+Epoch: 0   Batch: 30	Speed: 574.033435 samples/sec	loss=2.482255	acc=0.113021
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0   Batch: 10	Speed: 107.137075 samples/sec	loss=2.526062	acc=0.121094
+Epoch: 0   Batch: 20	Speed: 567.144879 samples/sec	loss=2.508795	acc=0.126562
+Epoch: 0   Batch: 30	Speed: 570.934643 samples/sec	loss=2.483396	acc=0.130469
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0   Batch: 10	Speed: 108.360832 samples/sec	loss=2.486660	acc=0.108594
+Epoch: 0   Batch: 20	Speed: 568.375211 samples/sec	loss=2.468308	acc=0.120313
+Epoch: 0   Batch: 30	Speed: 569.453202 samples/sec	loss=2.449848	acc=0.130990
+Epoch: 1 learning rate update to 2.080e-03 
+Epoch: 1   Batch: 10	Speed: 318.694030 samples/sec	loss=2.288888	acc=0.253125
+Epoch: 1   Batch: 20	Speed: 505.786345 samples/sec	loss=2.180560	acc=0.302734
+Epoch: 0 learning rate update to 1.000e-04 
+Epoch: 0   Batch: 10	Speed: 106.949492 samples/sec	loss=2.492822	acc=0.108594
+Epoch: 0   Batch: 20	Speed: 571.627219 samples/sec	loss=2.462460	acc=0.129688
+Epoch: 0   Batch: 30	Speed: 572.154355 samples/sec	loss=2.446834	acc=0.139063
+Epoch: 1 learning rate update to 2.080e-03 
+Epoch: 1   Batch: 10	Speed: 273.297501 samples/sec	loss=2.302296	acc=0.217188
+Epoch: 1   Batch: 20	Speed: 570.997369 samples/sec	loss=2.192613	acc=0.276562
+Epoch: 1   Batch: 30	Speed: 571.432462 samples/sec	loss=2.069829	acc=0.330729
+Epoch: 2 learning rate update to 4.060e-03 
+Epoch: 2   Batch: 10	Speed: 302.866518 samples/sec	loss=1.278388	acc=0.636719
+Epoch: 2   Batch: 20	Speed: 570.588407 samples/sec	loss=1.102163	acc=0.677734
+Epoch: 2   Batch: 30	Speed: 571.772293 samples/sec	loss=0.956956	acc=0.712240
+Epoch: 3 learning rate update to 6.040e-03 
+Epoch: 3   Batch: 10	Speed: 291.375081 samples/sec	loss=0.498258	acc=0.841406
+Epoch: 3   Batch: 20	Speed: 570.635167 samples/sec	loss=0.487902	acc=0.843359
+Epoch: 3   Batch: 30	Speed: 571.570804 samples/sec	loss=0.463059	acc=0.847656
+Epoch: 4 learning rate update to 8.020e-03 
+Epoch: 4   Batch: 10	Speed: 298.938664 samples/sec	loss=0.442279	acc=0.835156
+Epoch: 4   Batch: 20	Speed: 570.928632 samples/sec	loss=0.394165	acc=0.860156
+Epoch: 4   Batch: 30	Speed: 572.014145 samples/sec	loss=0.388428	acc=0.865885
+Epoch: 5 learning rate update to 1.000e-02 
+Epoch: 5   Batch: 10	Speed: 308.786467 samples/sec	loss=0.370179	acc=0.871875
+Epoch: 5   Batch: 20	Speed: 570.653605 samples/sec	loss=0.367840	acc=0.875000
+Epoch: 5   Batch: 30	Speed: 564.478660 samples/sec	loss=0.347759	acc=0.884375
+Epoch: 6 learning rate update to 1.000e-02 
+Epoch: 6   Batch: 10	Speed: 296.905009 samples/sec	loss=0.311736	acc=0.903125
+Epoch: 6   Batch: 20	Speed: 569.975124 samples/sec	loss=0.288797	acc=0.908203
+Epoch: 6   Batch: 30	Speed: 572.165392 samples/sec	loss=0.283830	acc=0.906771
+Epoch: 7 learning rate update to 1.000e-02 
+Epoch: 7   Batch: 10	Speed: 321.208753 samples/sec	loss=0.263175	acc=0.915625
+Epoch: 7   Batch: 20	Speed: 571.190858 samples/sec	loss=0.281876	acc=0.903516
+Epoch: 7   Batch: 30	Speed: 570.672955 samples/sec	loss=0.276937	acc=0.904687
+Epoch: 8 learning rate update to 1.000e-02 
+Epoch: 8   Batch: 10	Speed: 302.378501 samples/sec	loss=0.276063	acc=0.906250
+Epoch: 8   Batch: 20	Speed: 567.865283 samples/sec	loss=0.261786	acc=0.907813
+Epoch: 8   Batch: 30	Speed: 571.994887 samples/sec	loss=0.260527	acc=0.906250
+Epoch: 9 learning rate update to 1.000e-02 
+Epoch: 9   Batch: 10	Speed: 320.834864 samples/sec	loss=0.238227	acc=0.921875
+Epoch: 9   Batch: 20	Speed: 567.961824 samples/sec	loss=0.236542	acc=0.917969
+Epoch: 9   Batch: 30	Speed: 571.470174 samples/sec	loss=0.237715	acc=0.917448
+Epoch: 10 learning rate update to 1.000e-02 
+Epoch: 10   Batch: 10	Speed: 296.949776 samples/sec	loss=0.207037	acc=0.933594
+Epoch: 10   Batch: 20	Speed: 571.022209 samples/sec	loss=0.207248	acc=0.930859
+Epoch: 10   Batch: 30	Speed: 571.715728 samples/sec	loss=0.218330	acc=0.925260
+Epoch: 11 learning rate update to 1.000e-02 
+Epoch: 11   Batch: 10	Speed: 313.784154 samples/sec	loss=0.206083	acc=0.929688
+Epoch: 11   Batch: 20	Speed: 464.949743 samples/sec	loss=0.216003	acc=0.928516
+Epoch: 11   Batch: 30	Speed: 571.489457 samples/sec	loss=0.222957	acc=0.926562
+Epoch: 12 learning rate update to 1.000e-02 
+Epoch: 12   Batch: 10	Speed: 286.853486 samples/sec	loss=0.232688	acc=0.914062
+Epoch: 12   Batch: 20	Speed: 568.430094 samples/sec	loss=0.218598	acc=0.925000
+Epoch: 12   Batch: 30	Speed: 571.556322 samples/sec	loss=0.214253	acc=0.926042
+Epoch: 13 learning rate update to 1.000e-02 
+Epoch: 13   Batch: 10	Speed: 308.716810 samples/sec	loss=0.187625	acc=0.939063
+Epoch: 13   Batch: 20	Speed: 570.114639 samples/sec	loss=0.185056	acc=0.939063
+Epoch: 13   Batch: 30	Speed: 572.197834 samples/sec	loss=0.182078	acc=0.938281
+Epoch: 14 learning rate update to 1.000e-02 
+Epoch: 14   Batch: 10	Speed: 296.123899 samples/sec	loss=0.226780	acc=0.916406
+Epoch: 14   Batch: 20	Speed: 569.131566 samples/sec	loss=0.203257	acc=0.928516
+Epoch: 14   Batch: 30	Speed: 572.169173 samples/sec	loss=0.195864	acc=0.932031
+Epoch: 15 learning rate update to 1.000e-02 
+Epoch: 15   Batch: 10	Speed: 263.691799 samples/sec	loss=0.177626	acc=0.937500
+Epoch: 15   Batch: 20	Speed: 570.338428 samples/sec	loss=0.175137	acc=0.940625
+Epoch: 15   Batch: 30	Speed: 570.889231 samples/sec	loss=0.177568	acc=0.937500
+Epoch: 16 learning rate update to 1.000e-02 
+Epoch: 16   Batch: 10	Speed: 304.450764 samples/sec	loss=0.155162	acc=0.953125
+Epoch: 16   Batch: 20	Speed: 570.499520 samples/sec	loss=0.160334	acc=0.946484
+Epoch: 16   Batch: 30	Speed: 571.722425 samples/sec	loss=0.168581	acc=0.942708
+Epoch: 17 learning rate update to 1.000e-02 
+Epoch: 17   Batch: 10	Speed: 321.654745 samples/sec	loss=0.170899	acc=0.943750
+Epoch: 17   Batch: 20	Speed: 569.265476 samples/sec	loss=0.183066	acc=0.937891
+Epoch: 17   Batch: 30	Speed: 556.652967 samples/sec	loss=0.178640	acc=0.939323
+Epoch: 18 learning rate update to 1.000e-02 
+Epoch: 18   Batch: 10	Speed: 276.793370 samples/sec	loss=0.190528	acc=0.938281
+Epoch: 18   Batch: 20	Speed: 571.009272 samples/sec	loss=0.177921	acc=0.939844
+Epoch: 18   Batch: 30	Speed: 572.553170 samples/sec	loss=0.170312	acc=0.941146
+Epoch: 19 learning rate update to 1.000e-02 
+Epoch: 19   Batch: 10	Speed: 301.112957 samples/sec	loss=0.169019	acc=0.939844
+Epoch: 19   Batch: 20	Speed: 569.053445 samples/sec	loss=0.149054	acc=0.948047
+Epoch: 19   Batch: 30	Speed: 570.061851 samples/sec	loss=0.156977	acc=0.945573
+Epoch: 20 learning rate update to 1.000e-03 
+Epoch: 20   Batch: 10	Speed: 309.896063 samples/sec	loss=0.115091	acc=0.963281
+Epoch: 20   Batch: 20	Speed: 569.732090 samples/sec	loss=0.124467	acc=0.960156
+Epoch: 20   Batch: 30	Speed: 571.185814 samples/sec	loss=0.123963	acc=0.960156
+Epoch: 21 learning rate update to 1.000e-03 
+Epoch: 21   Batch: 10	Speed: 309.674446 samples/sec	loss=0.145164	acc=0.953906
+Epoch: 21   Batch: 20	Speed: 568.278650 samples/sec	loss=0.126486	acc=0.961328
+Epoch: 21   Batch: 30	Speed: 571.910191 samples/sec	loss=0.121627	acc=0.961719
+Epoch: 22 learning rate update to 1.000e-03 
+Epoch: 22   Batch: 10	Speed: 310.987088 samples/sec	loss=0.127034	acc=0.959375
+Epoch: 22   Batch: 20	Speed: 568.727561 samples/sec	loss=0.117081	acc=0.960156
+Epoch: 22   Batch: 30	Speed: 571.699716 samples/sec	loss=0.119336	acc=0.960417
+Epoch: 23 learning rate update to 1.000e-03 
+Epoch: 23   Batch: 10	Speed: 311.558375 samples/sec	loss=0.130886	acc=0.964063
+Epoch: 23   Batch: 20	Speed: 569.832654 samples/sec	loss=0.124539	acc=0.964844
+Epoch: 23   Batch: 30	Speed: 571.622958 samples/sec	loss=0.123368	acc=0.964063
+Epoch: 24 learning rate update to 1.000e-03 
+Epoch: 24   Batch: 10	Speed: 312.168735 samples/sec	loss=0.106316	acc=0.964063
+Epoch: 24   Batch: 20	Speed: 569.614700 samples/sec	loss=0.117408	acc=0.959375
+Epoch: 24   Batch: 30	Speed: 571.652965 samples/sec	loss=0.125214	acc=0.954948
+Epoch: 25 learning rate update to 1.000e-03 
+Epoch: 25   Batch: 10	Speed: 286.459548 samples/sec	loss=0.131282	acc=0.957031
+Epoch: 25   Batch: 20	Speed: 570.007863 samples/sec	loss=0.121293	acc=0.960156
+Epoch: 25   Batch: 30	Speed: 572.106920 samples/sec	loss=0.117990	acc=0.960417
+Epoch: 26 learning rate update to 1.000e-03 
+Epoch: 26   Batch: 10	Speed: 317.733660 samples/sec	loss=0.100130	acc=0.964063
+Epoch: 26   Batch: 20	Speed: 516.484693 samples/sec	loss=0.106565	acc=0.961719
+Epoch: 26   Batch: 30	Speed: 571.774059 samples/sec	loss=0.109754	acc=0.963281
+Epoch: 27 learning rate update to 1.000e-03 
+Epoch: 27   Batch: 10	Speed: 301.097066 samples/sec	loss=0.104176	acc=0.964844
+Epoch: 27   Batch: 20	Speed: 568.000581 samples/sec	loss=0.104291	acc=0.964844
+Epoch: 27   Batch: 30	Speed: 571.055493 samples/sec	loss=0.105131	acc=0.964063
+Epoch: 28 learning rate update to 1.000e-03 
+Epoch: 28   Batch: 10	Speed: 303.665274 samples/sec	loss=0.124754	acc=0.958594
+Epoch: 28   Batch: 20	Speed: 570.761655 samples/sec	loss=0.112994	acc=0.961719
+Epoch: 28   Batch: 30	Speed: 571.644139 samples/sec	loss=0.113196	acc=0.963021
+Epoch: 29 learning rate update to 1.000e-03 
+Epoch: 29   Batch: 10	Speed: 295.985049 samples/sec	loss=0.084519	acc=0.972656
+Epoch: 29   Batch: 20	Speed: 569.951828 samples/sec	loss=0.097924	acc=0.969531
+Epoch: 29   Batch: 30	Speed: 557.633156 samples/sec	loss=0.100204	acc=0.969010
+Epoch: 30 learning rate update to 1.000e-04 
+Epoch: 30   Batch: 10	Speed: 316.013110 samples/sec	loss=0.102062	acc=0.966406
+Epoch: 30   Batch: 20	Speed: 570.470846 samples/sec	loss=0.099458	acc=0.966406
+Epoch: 30   Batch: 30	Speed: 569.981962 samples/sec	loss=0.099358	acc=0.964323
+Epoch: 31 learning rate update to 1.000e-04 
+Epoch: 31   Batch: 10	Speed: 281.004933 samples/sec	loss=0.112918	acc=0.962500
+Epoch: 31   Batch: 20	Speed: 570.635045 samples/sec	loss=0.109320	acc=0.964844
+Epoch: 31   Batch: 30	Speed: 571.831184 samples/sec	loss=0.104032	acc=0.968229
+Epoch: 32 learning rate update to 1.000e-04 
+Epoch: 32   Batch: 10	Speed: 294.541202 samples/sec	loss=0.081407	acc=0.975000
+Epoch: 32   Batch: 20	Speed: 565.464471 samples/sec	loss=0.098122	acc=0.970313
+Epoch: 32   Batch: 30	Speed: 571.517503 samples/sec	loss=0.095633	acc=0.971094
+Epoch: 33 learning rate update to 1.000e-04 
+Epoch: 33   Batch: 10	Speed: 308.305066 samples/sec	loss=0.130146	acc=0.957812
+Epoch: 33   Batch: 20	Speed: 570.518738 samples/sec	loss=0.125437	acc=0.959766
+Epoch: 33   Batch: 30	Speed: 571.589608 samples/sec	loss=0.123858	acc=0.960156
+Epoch: 34 learning rate update to 1.000e-04 
+Epoch: 34   Batch: 10	Speed: 312.976522 samples/sec	loss=0.118754	acc=0.964063
+Epoch: 34   Batch: 20	Speed: 570.580342 samples/sec	loss=0.115298	acc=0.961328
+Epoch: 34   Batch: 30	Speed: 572.175575 samples/sec	loss=0.112837	acc=0.962240
+Epoch: 35 learning rate update to 1.000e-04 
+Epoch: 35   Batch: 10	Speed: 281.229736 samples/sec	loss=0.087837	acc=0.969531
+Epoch: 35   Batch: 20	Speed: 570.382116 samples/sec	loss=0.088438	acc=0.971484
+Epoch: 35   Batch: 30	Speed: 570.249860 samples/sec	loss=0.089903	acc=0.970573
+Epoch: 36 learning rate update to 1.000e-04 
+Epoch: 36   Batch: 10	Speed: 301.336455 samples/sec	loss=0.106283	acc=0.960156
+Epoch: 36   Batch: 20	Speed: 569.704643 samples/sec	loss=0.110294	acc=0.962109
+Epoch: 36   Batch: 30	Speed: 571.642800 samples/sec	loss=0.104888	acc=0.963542
+Epoch: 37 learning rate update to 1.000e-04 
+Epoch: 37   Batch: 10	Speed: 287.510375 samples/sec	loss=0.114542	acc=0.964844
+Epoch: 37   Batch: 20	Speed: 570.423205 samples/sec	loss=0.110584	acc=0.962500
+Epoch: 37   Batch: 30	Speed: 571.281967 samples/sec	loss=0.110228	acc=0.963281
+Epoch: 38 learning rate update to 1.000e-04 
+Epoch: 38   Batch: 10	Speed: 304.171828 samples/sec	loss=0.088837	acc=0.970313
+Epoch: 38   Batch: 20	Speed: 571.303609 samples/sec	loss=0.087865	acc=0.970703
+Epoch: 38   Batch: 30	Speed: 570.104892 samples/sec	loss=0.090292	acc=0.969010
+Epoch: 39 learning rate update to 1.000e-04 
+Epoch: 39   Batch: 10	Speed: 319.650574 samples/sec	loss=0.113200	acc=0.957812
+Epoch: 39   Batch: 20	Speed: 570.726706 samples/sec	loss=0.115130	acc=0.958594
+Epoch: 39   Batch: 30	Speed: 571.405397 samples/sec	loss=0.109163	acc=0.958854
+Epoch: 40 learning rate update to 1.000e-04 
+Epoch: 40   Batch: 10	Speed: 305.088602 samples/sec	loss=0.091964	acc=0.971094
+Epoch: 40   Batch: 20	Speed: 570.706685 samples/sec	loss=0.096220	acc=0.969531
+Epoch: 40   Batch: 30	Speed: 571.358451 samples/sec	loss=0.101648	acc=0.967969
+Epoch: 41 learning rate update to 1.000e-04 
+Epoch: 41   Batch: 10	Speed: 317.763393 samples/sec	loss=0.116691	acc=0.960938
+Epoch: 41   Batch: 20	Speed: 570.136858 samples/sec	loss=0.112880	acc=0.961719
+Epoch: 41   Batch: 30	Speed: 570.384661 samples/sec	loss=0.104129	acc=0.964323
+Epoch: 42 learning rate update to 1.000e-04 
+Epoch: 42   Batch: 10	Speed: 325.070193 samples/sec	loss=0.095725	acc=0.962500
+Epoch: 42   Batch: 20	Speed: 569.171690 samples/sec	loss=0.104076	acc=0.964063
+Epoch: 42   Batch: 30	Speed: 571.345256 samples/sec	loss=0.107726	acc=0.961979
+Epoch: 43 learning rate update to 1.000e-04 
+Epoch: 43   Batch: 10	Speed: 318.384755 samples/sec	loss=0.101600	acc=0.967969
+Epoch: 43   Batch: 20	Speed: 570.116637 samples/sec	loss=0.106511	acc=0.966016
+Epoch: 43   Batch: 30	Speed: 572.212044 samples/sec	loss=0.107584	acc=0.964844
+Epoch: 44 learning rate update to 1.000e-04 
+Epoch: 44   Batch: 10	Speed: 298.092020 samples/sec	loss=0.132795	acc=0.955469
+Epoch: 44   Batch: 20	Speed: 563.420704 samples/sec	loss=0.111942	acc=0.964844
+Epoch: 44   Batch: 30	Speed: 570.832658 samples/sec	loss=0.106334	acc=0.963281
+Epoch: 45 learning rate update to 1.000e-04 
+Epoch: 45   Batch: 10	Speed: 317.981186 samples/sec	loss=0.105644	acc=0.969531
+Epoch: 45   Batch: 20	Speed: 570.372360 samples/sec	loss=0.106482	acc=0.969141
+Epoch: 45   Batch: 30	Speed: 569.737411 samples/sec	loss=0.117733	acc=0.963281
+Epoch: 46 learning rate update to 1.000e-04 
+Epoch: 46   Batch: 10	Speed: 312.841035 samples/sec	loss=0.103444	acc=0.968750
+Epoch: 46   Batch: 20	Speed: 571.187029 samples/sec	loss=0.099969	acc=0.968750
+Epoch: 46   Batch: 30	Speed: 572.042121 samples/sec	loss=0.097294	acc=0.967969
+Epoch: 47 learning rate update to 1.000e-04 
+Epoch: 47   Batch: 10	Speed: 329.655498 samples/sec	loss=0.134192	acc=0.957812
+Epoch: 47   Batch: 20	Speed: 569.351867 samples/sec	loss=0.123761	acc=0.959766
+Epoch: 47   Batch: 30	Speed: 571.682610 samples/sec	loss=0.109490	acc=0.964583
+Epoch: 48 learning rate update to 1.000e-04 
+Epoch: 48   Batch: 10	Speed: 332.061452 samples/sec	loss=0.107136	acc=0.964844
+Epoch: 48   Batch: 20	Speed: 534.965952 samples/sec	loss=0.100058	acc=0.967187
+Epoch: 48   Batch: 30	Speed: 507.138450 samples/sec	loss=0.104559	acc=0.966667
+Epoch: 49 learning rate update to 1.000e-04 
+Epoch: 49   Batch: 10	Speed: 304.818847 samples/sec	loss=0.096767	acc=0.969531
+Epoch: 49   Batch: 20	Speed: 568.812100 samples/sec	loss=0.091883	acc=0.969531
+Epoch: 49   Batch: 30	Speed: 569.755429 samples/sec	loss=0.094749	acc=0.968490
+Epoch: 50 learning rate update to 1.000e-04 
+Epoch: 50   Batch: 10	Speed: 303.111092 samples/sec	loss=0.116505	acc=0.964063
+Epoch: 50   Batch: 20	Speed: 570.786170 samples/sec	loss=0.109504	acc=0.965234
+Epoch: 50   Batch: 30	Speed: 571.293882 samples/sec	loss=0.106667	acc=0.966406
+Epoch: 51 learning rate update to 1.000e-04 
+Epoch: 51   Batch: 10	Speed: 306.939496 samples/sec	loss=0.102896	acc=0.964063
+Epoch: 51   Batch: 20	Speed: 568.858509 samples/sec	loss=0.099680	acc=0.967187
+Epoch: 51   Batch: 30	Speed: 572.027127 samples/sec	loss=0.100762	acc=0.967969
+Epoch: 52 learning rate update to 1.000e-04 
+Epoch: 52   Batch: 10	Speed: 318.251734 samples/sec	loss=0.093672	acc=0.971875
+Epoch: 52   Batch: 20	Speed: 567.308547 samples/sec	loss=0.094598	acc=0.970703
+Epoch: 52   Batch: 30	Speed: 570.939682 samples/sec	loss=0.093605	acc=0.970573
+Epoch: 53 learning rate update to 1.000e-04 
+Epoch: 53   Batch: 10	Speed: 313.562089 samples/sec	loss=0.112713	acc=0.966406
+Epoch: 53   Batch: 20	Speed: 546.528508 samples/sec	loss=0.106610	acc=0.966016
+Epoch: 53   Batch: 30	Speed: 572.219850 samples/sec	loss=0.102492	acc=0.964844
+Epoch: 54 learning rate update to 1.000e-04 
+Epoch: 54   Batch: 10	Speed: 292.797033 samples/sec	loss=0.084325	acc=0.971875
+Epoch: 54   Batch: 20	Speed: 570.760198 samples/sec	loss=0.097810	acc=0.969531
+Epoch: 54   Batch: 30	Speed: 571.098684 samples/sec	loss=0.094470	acc=0.969792
+Epoch: 55 learning rate update to 1.000e-04 
+Epoch: 55   Batch: 10	Speed: 303.178106 samples/sec	loss=0.084512	acc=0.970313
+Epoch: 55   Batch: 20	Speed: 566.390864 samples/sec	loss=0.091692	acc=0.968750
+Epoch: 55   Batch: 30	Speed: 571.732227 samples/sec	loss=0.095117	acc=0.968490
+Epoch: 56 learning rate update to 1.000e-04 
+Epoch: 56   Batch: 10	Speed: 313.198690 samples/sec	loss=0.111408	acc=0.962500
+Epoch: 56   Batch: 20	Speed: 569.589560 samples/sec	loss=0.106597	acc=0.961328
+Epoch: 56   Batch: 30	Speed: 571.057376 samples/sec	loss=0.109582	acc=0.960417
+Epoch: 57 learning rate update to 1.000e-04 
+Epoch: 57   Batch: 10	Speed: 293.164465 samples/sec	loss=0.107648	acc=0.959375
+Epoch: 57   Batch: 20	Speed: 525.912062 samples/sec	loss=0.110393	acc=0.961328
+Epoch: 57   Batch: 30	Speed: 570.756558 samples/sec	loss=0.110308	acc=0.963281
+Epoch: 58 learning rate update to 1.000e-04 
+Epoch: 58   Batch: 10	Speed: 334.099112 samples/sec	loss=0.109467	acc=0.964063
+Epoch: 58   Batch: 20	Speed: 570.392479 samples/sec	loss=0.100567	acc=0.966016
+Epoch: 58   Batch: 30	Speed: 570.328855 samples/sec	loss=0.098555	acc=0.967187
+Epoch: 59 learning rate update to 1.000e-04 
+Epoch: 59   Batch: 10	Speed: 272.441725 samples/sec	loss=0.084534	acc=0.974219
+Epoch: 59   Batch: 20	Speed: 569.041141 samples/sec	loss=0.084126	acc=0.971875
+Epoch: 59   Batch: 30	Speed: 571.707509 samples/sec	loss=0.094805	acc=0.966406
+Epoch: 60 learning rate update to 1.000e-04 
+Epoch: 60   Batch: 10	Speed: 322.142700 samples/sec	loss=0.096390	acc=0.967187
+Epoch: 60   Batch: 20	Speed: 570.105921 samples/sec	loss=0.084592	acc=0.971484
+Epoch: 60   Batch: 30	Speed: 571.686628 samples/sec	loss=0.094242	acc=0.967969
+Epoch: 61 learning rate update to 1.000e-04 
+Epoch: 61   Batch: 10	Speed: 299.894477 samples/sec	loss=0.106883	acc=0.963281
+Epoch: 61   Batch: 20	Speed: 571.124929 samples/sec	loss=0.101942	acc=0.964063
+Epoch: 61   Batch: 30	Speed: 571.435259 samples/sec	loss=0.103715	acc=0.965365
+Epoch: 62 learning rate update to 1.000e-04 
+Epoch: 62   Batch: 10	Speed: 290.290687 samples/sec	loss=0.113592	acc=0.965625
+Epoch: 62   Batch: 20	Speed: 571.003321 samples/sec	loss=0.109686	acc=0.966016
+Epoch: 62   Batch: 30	Speed: 572.084912 samples/sec	loss=0.106998	acc=0.966667
+Epoch: 63 learning rate update to 1.000e-04 
+Epoch: 63   Batch: 10	Speed: 316.452261 samples/sec	loss=0.071851	acc=0.973437
+Epoch: 63   Batch: 20	Speed: 562.476001 samples/sec	loss=0.080735	acc=0.971875
+Epoch: 63   Batch: 30	Speed: 571.770892 samples/sec	loss=0.081661	acc=0.971615
+Epoch: 64 learning rate update to 1.000e-04 
+Epoch: 64   Batch: 10	Speed: 300.018275 samples/sec	loss=0.108047	acc=0.963281
+Epoch: 64   Batch: 20	Speed: 570.506552 samples/sec	loss=0.107447	acc=0.963281
+Epoch: 64   Batch: 30	Speed: 571.683219 samples/sec	loss=0.108347	acc=0.963281
+Epoch: 65 learning rate update to 1.000e-04 
+Epoch: 65   Batch: 10	Speed: 325.069051 samples/sec	loss=0.107741	acc=0.960938
+Epoch: 65   Batch: 20	Speed: 569.834771 samples/sec	loss=0.115043	acc=0.963281
+Epoch: 65   Batch: 30	Speed: 572.035233 samples/sec	loss=0.110652	acc=0.963281
+Epoch: 66 learning rate update to 1.000e-04 
+Epoch: 66   Batch: 10	Speed: 277.434817 samples/sec	loss=0.087812	acc=0.975000
+Epoch: 66   Batch: 20	Speed: 570.143337 samples/sec	loss=0.090195	acc=0.974219
+Epoch: 66   Batch: 30	Speed: 569.439008 samples/sec	loss=0.085950	acc=0.974219
+Epoch: 67 learning rate update to 1.000e-04 
+Epoch: 67   Batch: 10	Speed: 298.146848 samples/sec	loss=0.090430	acc=0.969531
+Epoch: 67   Batch: 20	Speed: 558.400025 samples/sec	loss=0.098267	acc=0.969531
+Epoch: 67   Batch: 30	Speed: 571.057072 samples/sec	loss=0.095738	acc=0.969271
+Epoch: 68 learning rate update to 1.000e-04 
+Epoch: 68   Batch: 10	Speed: 297.954361 samples/sec	loss=0.090949	acc=0.970313
+Epoch: 68   Batch: 20	Speed: 569.141219 samples/sec	loss=0.094242	acc=0.968359
+Epoch: 68   Batch: 30	Speed: 571.841721 samples/sec	loss=0.099082	acc=0.966927
+Epoch: 69 learning rate update to 1.000e-04 
+Epoch: 69   Batch: 10	Speed: 304.383877 samples/sec	loss=0.083206	acc=0.974219
+Epoch: 69   Batch: 20	Speed: 570.058522 samples/sec	loss=0.093779	acc=0.969141
+Epoch: 69   Batch: 30	Speed: 571.623324 samples/sec	loss=0.101806	acc=0.965885
+Epoch: 70 learning rate update to 1.000e-04 
+Epoch: 70   Batch: 10	Speed: 287.854957 samples/sec	loss=0.089347	acc=0.971094
+Epoch: 70   Batch: 20	Speed: 546.487062 samples/sec	loss=0.091483	acc=0.970313
+Epoch: 70   Batch: 30	Speed: 572.161977 samples/sec	loss=0.091137	acc=0.970573
+Epoch: 71 learning rate update to 1.000e-04 
+Epoch: 71   Batch: 10	Speed: 335.333018 samples/sec	loss=0.075061	acc=0.977344
+Epoch: 71   Batch: 20	Speed: 571.410567 samples/sec	loss=0.087856	acc=0.973437
+Epoch: 71   Batch: 30	Speed: 569.788566 samples/sec	loss=0.093690	acc=0.969792
+Epoch: 72 learning rate update to 1.000e-04 
+Epoch: 72   Batch: 10	Speed: 263.856737 samples/sec	loss=0.113573	acc=0.957812
+Epoch: 72   Batch: 20	Speed: 569.799028 samples/sec	loss=0.093990	acc=0.966797
+Epoch: 72   Batch: 30	Speed: 571.029436 samples/sec	loss=0.095625	acc=0.966927
+Epoch: 73 learning rate update to 1.000e-04 
+Epoch: 73   Batch: 10	Speed: 299.609595 samples/sec	loss=0.092619	acc=0.971875
+Epoch: 73   Batch: 20	Speed: 570.733258 samples/sec	loss=0.095207	acc=0.971875
+Epoch: 73   Batch: 30	Speed: 571.240633 samples/sec	loss=0.095650	acc=0.969271
+Epoch: 74 learning rate update to 1.000e-04 
+Epoch: 74   Batch: 10	Speed: 305.804907 samples/sec	loss=0.087807	acc=0.972656
+Epoch: 74   Batch: 20	Speed: 570.515949 samples/sec	loss=0.095193	acc=0.970703
+Epoch: 74   Batch: 30	Speed: 559.902443 samples/sec	loss=0.092735	acc=0.970573
+Epoch: 75 learning rate update to 1.000e-04 
+Epoch: 75   Batch: 10	Speed: 301.728427 samples/sec	loss=0.115391	acc=0.961719
+Epoch: 75   Batch: 20	Speed: 570.104649 samples/sec	loss=0.108180	acc=0.964063
+Epoch: 75   Batch: 30	Speed: 571.293639 samples/sec	loss=0.105997	acc=0.964844
+Epoch: 76 learning rate update to 1.000e-04 
+Epoch: 76   Batch: 10	Speed: 294.213066 samples/sec	loss=0.091388	acc=0.969531
+Epoch: 76   Batch: 20	Speed: 570.283661 samples/sec	loss=0.108432	acc=0.964063
+Epoch: 76   Batch: 30	Speed: 563.827623 samples/sec	loss=0.101900	acc=0.966146
+Epoch: 77 learning rate update to 1.000e-04 
+Epoch: 77   Batch: 10	Speed: 311.475950 samples/sec	loss=0.091313	acc=0.966406
+Epoch: 77   Batch: 20	Speed: 570.884556 samples/sec	loss=0.101576	acc=0.964063
+Epoch: 77   Batch: 30	Speed: 571.714023 samples/sec	loss=0.106749	acc=0.962500
+Epoch: 78 learning rate update to 1.000e-04 
+Epoch: 78   Batch: 10	Speed: 306.006681 samples/sec	loss=0.088631	acc=0.970313
+Epoch: 78   Batch: 20	Speed: 557.518209 samples/sec	loss=0.091297	acc=0.970703
+Epoch: 78   Batch: 30	Speed: 570.769361 samples/sec	loss=0.093727	acc=0.969792
+Epoch: 79 learning rate update to 1.000e-04 
+Epoch: 79   Batch: 10	Speed: 313.092734 samples/sec	loss=0.081827	acc=0.976562
+Epoch: 79   Batch: 20	Speed: 571.299657 samples/sec	loss=0.086585	acc=0.973047
+Epoch: 79   Batch: 30	Speed: 571.474067 samples/sec	loss=0.086834	acc=0.973177
+Epoch: 80 learning rate update to 1.000e-04 
+Epoch: 80   Batch: 10	Speed: 298.971426 samples/sec	loss=0.085682	acc=0.973437
+Epoch: 80   Batch: 20	Speed: 514.516113 samples/sec	loss=0.094803	acc=0.969531
+Epoch: 80   Batch: 30	Speed: 571.609386 samples/sec	loss=0.098512	acc=0.967969
+Epoch: 81 learning rate update to 1.000e-04 
+Epoch: 81   Batch: 10	Speed: 294.045463 samples/sec	loss=0.095014	acc=0.967969
+Epoch: 81   Batch: 20	Speed: 560.916564 samples/sec	loss=0.093587	acc=0.967578
+Epoch: 81   Batch: 30	Speed: 570.242834 samples/sec	loss=0.098174	acc=0.966406
+Epoch: 82 learning rate update to 1.000e-04 
+Epoch: 82   Batch: 10	Speed: 312.403263 samples/sec	loss=0.089504	acc=0.973437
+Epoch: 82   Batch: 20	Speed: 570.230600 samples/sec	loss=0.106870	acc=0.966016
+Epoch: 82   Batch: 30	Speed: 559.532423 samples/sec	loss=0.100489	acc=0.967187
+Epoch: 83 learning rate update to 1.000e-04 
+Epoch: 83   Batch: 10	Speed: 279.268272 samples/sec	loss=0.099633	acc=0.969531
+Epoch: 83   Batch: 20	Speed: 568.588544 samples/sec	loss=0.102408	acc=0.967578
+Epoch: 83   Batch: 30	Speed: 571.668183 samples/sec	loss=0.109770	acc=0.964063
+Epoch: 84 learning rate update to 1.000e-04 
+Epoch: 84   Batch: 10	Speed: 317.660998 samples/sec	loss=0.083302	acc=0.968750
+Epoch: 84   Batch: 20	Speed: 570.003264 samples/sec	loss=0.087973	acc=0.966797
+Epoch: 84   Batch: 30	Speed: 571.870776 samples/sec	loss=0.095831	acc=0.965365
+Epoch: 85 learning rate update to 1.000e-04 
+Epoch: 85   Batch: 10	Speed: 315.163985 samples/sec	loss=0.093796	acc=0.969531
+Epoch: 85   Batch: 20	Speed: 476.804129 samples/sec	loss=0.111120	acc=0.962109
+Epoch: 85   Batch: 30	Speed: 571.932673 samples/sec	loss=0.111642	acc=0.961979
+Epoch: 86 learning rate update to 1.000e-04 
+Epoch: 86   Batch: 10	Speed: 298.057994 samples/sec	loss=0.117953	acc=0.967187
+Epoch: 86   Batch: 20	Speed: 567.680343 samples/sec	loss=0.106740	acc=0.966406
+Epoch: 86   Batch: 30	Speed: 563.694720 samples/sec	loss=0.102899	acc=0.966667
+Epoch: 87 learning rate update to 1.000e-04 
+Epoch: 87   Batch: 10	Speed: 299.024346 samples/sec	loss=0.084418	acc=0.968750
+Epoch: 87   Batch: 20	Speed: 569.716190 samples/sec	loss=0.092399	acc=0.965625
+Epoch: 87   Batch: 30	Speed: 570.267547 samples/sec	loss=0.092306	acc=0.968490
+Epoch: 88 learning rate update to 1.000e-04 
+Epoch: 88   Batch: 10	Speed: 317.646057 samples/sec	loss=0.101587	acc=0.966406
+Epoch: 88   Batch: 20	Speed: 570.253252 samples/sec	loss=0.097166	acc=0.969141
+Epoch: 88   Batch: 30	Speed: 572.032247 samples/sec	loss=0.097583	acc=0.969531
+Epoch: 89 learning rate update to 1.000e-04 
+Epoch: 89   Batch: 10	Speed: 317.532169 samples/sec	loss=0.103885	acc=0.962500
+Epoch: 89   Batch: 20	Speed: 569.702769 samples/sec	loss=0.105398	acc=0.962500
+Epoch: 89   Batch: 30	Speed: 571.767909 samples/sec	loss=0.103873	acc=0.963542
+Epoch: 90 learning rate update to 1.000e-04 
+Epoch: 90   Batch: 10	Speed: 317.688386 samples/sec	loss=0.115096	acc=0.959375
+Epoch: 90   Batch: 20	Speed: 567.785348 samples/sec	loss=0.105998	acc=0.963281
+Epoch: 90   Batch: 30	Speed: 571.535938 samples/sec	loss=0.097359	acc=0.967187
+Epoch: 91 learning rate update to 1.000e-04 
+Epoch: 91   Batch: 10	Speed: 306.688112 samples/sec	loss=0.117030	acc=0.962500
+Epoch: 91   Batch: 20	Speed: 570.516192 samples/sec	loss=0.120275	acc=0.962109
+Epoch: 91   Batch: 30	Speed: 571.104698 samples/sec	loss=0.109961	acc=0.965365
+Epoch: 92 learning rate update to 1.000e-04 
+Epoch: 92   Batch: 10	Speed: 319.816351 samples/sec	loss=0.106018	acc=0.966406
+Epoch: 92   Batch: 20	Speed: 570.288870 samples/sec	loss=0.106957	acc=0.966016
+Epoch: 92   Batch: 30	Speed: 570.579736 samples/sec	loss=0.094004	acc=0.969792
+Epoch: 93 learning rate update to 1.000e-04 
+Epoch: 93   Batch: 10	Speed: 307.380188 samples/sec	loss=0.096122	acc=0.969531
+Epoch: 93   Batch: 20	Speed: 570.090362 samples/sec	loss=0.098804	acc=0.968359
+Epoch: 93   Batch: 30	Speed: 565.125313 samples/sec	loss=0.099143	acc=0.967708
+Epoch: 94 learning rate update to 1.000e-04 
+Epoch: 94   Batch: 10	Speed: 327.803847 samples/sec	loss=0.096844	acc=0.966406
+Epoch: 94   Batch: 20	Speed: 568.902272 samples/sec	loss=0.094112	acc=0.969922
+Epoch: 94   Batch: 30	Speed: 570.851838 samples/sec	loss=0.096215	acc=0.969792
+Epoch: 95 learning rate update to 1.000e-04 
+Epoch: 95   Batch: 10	Speed: 277.852948 samples/sec	loss=0.083436	acc=0.967969
+Epoch: 95   Batch: 20	Speed: 569.599048 samples/sec	loss=0.096081	acc=0.966797
+Epoch: 95   Batch: 30	Speed: 565.637958 samples/sec	loss=0.096678	acc=0.966927
+Epoch: 96 learning rate update to 1.000e-04 
+Epoch: 96   Batch: 10	Speed: 307.006686 samples/sec	loss=0.088976	acc=0.966406
+Epoch: 96   Batch: 20	Speed: 569.754643 samples/sec	loss=0.093185	acc=0.968359
+Epoch: 96   Batch: 30	Speed: 570.960691 samples/sec	loss=0.093112	acc=0.969271
+Epoch: 97 learning rate update to 1.000e-04 
+Epoch: 97   Batch: 10	Speed: 303.126957 samples/sec	loss=0.094019	acc=0.969531
+Epoch: 97   Batch: 20	Speed: 499.293114 samples/sec	loss=0.103031	acc=0.964453
+Epoch: 97   Batch: 30	Speed: 571.782767 samples/sec	loss=0.108624	acc=0.963021
+Epoch: 98 learning rate update to 1.000e-04 
+Epoch: 98   Batch: 10	Speed: 291.695218 samples/sec	loss=0.069207	acc=0.979688
+Epoch: 98   Batch: 20	Speed: 568.371541 samples/sec	loss=0.080703	acc=0.972656
+Epoch: 98   Batch: 30	Speed: 571.896057 samples/sec	loss=0.089053	acc=0.969531
+Epoch: 99 learning rate update to 1.000e-04 
+Epoch: 99   Batch: 10	Speed: 271.378735 samples/sec	loss=0.081963	acc=0.970313
+Epoch: 99   Batch: 20	Speed: 562.049905 samples/sec	loss=0.087142	acc=0.970313
+Epoch: 99   Batch: 30	Speed: 572.101189 samples/sec	loss=0.086683	acc=0.970573
+Epoch: 100 learning rate update to 1.000e-04 
+Epoch: 100   Batch: 10	Speed: 310.522351 samples/sec	loss=0.113125	acc=0.963281
+Epoch: 100   Batch: 20	Speed: 569.644920 samples/sec	loss=0.111379	acc=0.964063
+Epoch: 100   Batch: 30	Speed: 572.278346 samples/sec	loss=0.102315	acc=0.967969
+Epoch: 101 learning rate update to 1.000e-04 
+Epoch: 101   Batch: 10	Speed: 290.422721 samples/sec	loss=0.099127	acc=0.965625
+Epoch: 101   Batch: 20	Speed: 571.188001 samples/sec	loss=0.095429	acc=0.967187
+Epoch: 101   Batch: 30	Speed: 571.694420 samples/sec	loss=0.099580	acc=0.965885
+Epoch: 102 learning rate update to 1.000e-04 
+Epoch: 102   Batch: 10	Speed: 309.758637 samples/sec	loss=0.086499	acc=0.971094
+Epoch: 102   Batch: 20	Speed: 569.942934 samples/sec	loss=0.085127	acc=0.973437
+Epoch: 102   Batch: 30	Speed: 571.970329 samples/sec	loss=0.094590	acc=0.969792
+Epoch: 103 learning rate update to 1.000e-04 
+Epoch: 103   Batch: 10	Speed: 306.985919 samples/sec	loss=0.098768	acc=0.965625
+Epoch: 103   Batch: 20	Speed: 569.363822 samples/sec	loss=0.103550	acc=0.965234
+Epoch: 103   Batch: 30	Speed: 572.017741 samples/sec	loss=0.104999	acc=0.965365
+Epoch: 104 learning rate update to 1.000e-04 
+Epoch: 104   Batch: 10	Speed: 278.559709 samples/sec	loss=0.094812	acc=0.970313
+Epoch: 104   Batch: 20	Speed: 569.223709 samples/sec	loss=0.100250	acc=0.967969
+Epoch: 104   Batch: 30	Speed: 571.695820 samples/sec	loss=0.107288	acc=0.964323
+Epoch: 105 learning rate update to 1.000e-04 
+Epoch: 105   Batch: 10	Speed: 308.998029 samples/sec	loss=0.113462	acc=0.962500
+Epoch: 105   Batch: 20	Speed: 571.103240 samples/sec	loss=0.100918	acc=0.968359
+Epoch: 105   Batch: 30	Speed: 572.200395 samples/sec	loss=0.097018	acc=0.969010
+Epoch: 106 learning rate update to 1.000e-04 
+Epoch: 106   Batch: 10	Speed: 279.913286 samples/sec	loss=0.106734	acc=0.965625
+Epoch: 106   Batch: 20	Speed: 570.374420 samples/sec	loss=0.102273	acc=0.966016
+Epoch: 106   Batch: 30	Speed: 571.811390 samples/sec	loss=0.101752	acc=0.967187
+Epoch: 107 learning rate update to 1.000e-04 
+Epoch: 107   Batch: 10	Speed: 278.455799 samples/sec	loss=0.083365	acc=0.973437
+Epoch: 107   Batch: 20	Speed: 570.915457 samples/sec	loss=0.087149	acc=0.970313
+Epoch: 107   Batch: 30	Speed: 570.731256 samples/sec	loss=0.094973	acc=0.967187
+Epoch: 108 learning rate update to 1.000e-04 
+Epoch: 108   Batch: 10	Speed: 278.996419 samples/sec	loss=0.099872	acc=0.964063
+Epoch: 108   Batch: 20	Speed: 570.455632 samples/sec	loss=0.094418	acc=0.967187
+Epoch: 108   Batch: 30	Speed: 571.763037 samples/sec	loss=0.091058	acc=0.966667
+Epoch: 109 learning rate update to 1.000e-04 
+Epoch: 109   Batch: 10	Speed: 307.880983 samples/sec	loss=0.082051	acc=0.970313
+Epoch: 109   Batch: 20	Speed: 534.582631 samples/sec	loss=0.083576	acc=0.972266
+Epoch: 109   Batch: 30	Speed: 572.116979 samples/sec	loss=0.085680	acc=0.970052
+Epoch: 110 learning rate update to 1.000e-04 
+Epoch: 110   Batch: 10	Speed: 308.192611 samples/sec	loss=0.099691	acc=0.969531
+Epoch: 110   Batch: 20	Speed: 571.055372 samples/sec	loss=0.095373	acc=0.967578
+Epoch: 110   Batch: 30	Speed: 571.598432 samples/sec	loss=0.090987	acc=0.969271
+Epoch: 111 learning rate update to 1.000e-04 
+Epoch: 111   Batch: 10	Speed: 313.405859 samples/sec	loss=0.113909	acc=0.961719
+Epoch: 111   Batch: 20	Speed: 569.827997 samples/sec	loss=0.106323	acc=0.962891
+Epoch: 111   Batch: 30	Speed: 571.293517 samples/sec	loss=0.100513	acc=0.964583
+Epoch: 112 learning rate update to 1.000e-04 
+Epoch: 112   Batch: 10	Speed: 305.194570 samples/sec	loss=0.101837	acc=0.967969
+Epoch: 112   Batch: 20	Speed: 570.681266 samples/sec	loss=0.099656	acc=0.967578
+Epoch: 112   Batch: 30	Speed: 571.424859 samples/sec	loss=0.096594	acc=0.967969
+Epoch: 113 learning rate update to 1.000e-04 
+Epoch: 113   Batch: 10	Speed: 315.678625 samples/sec	loss=0.105837	acc=0.962500
+Epoch: 113   Batch: 20	Speed: 570.434539 samples/sec	loss=0.100226	acc=0.964453
+Epoch: 113   Batch: 30	Speed: 571.942299 samples/sec	loss=0.096424	acc=0.967969
+Epoch: 114 learning rate update to 1.000e-04 
+Epoch: 114   Batch: 10	Speed: 282.751921 samples/sec	loss=0.108894	acc=0.966406
+Epoch: 114   Batch: 20	Speed: 570.264398 samples/sec	loss=0.102806	acc=0.968750
+Epoch: 114   Batch: 30	Speed: 569.924904 samples/sec	loss=0.098984	acc=0.969531
+Epoch: 115 learning rate update to 1.000e-04 
+Epoch: 115   Batch: 10	Speed: 317.935709 samples/sec	loss=0.089518	acc=0.969531
+Epoch: 115   Batch: 20	Speed: 570.956137 samples/sec	loss=0.090841	acc=0.968359
+Epoch: 115   Batch: 30	Speed: 571.877050 samples/sec	loss=0.100421	acc=0.965625
+Epoch: 116 learning rate update to 1.000e-04 
+Epoch: 116   Batch: 10	Speed: 266.590397 samples/sec	loss=0.076842	acc=0.975000
+Epoch: 116   Batch: 20	Speed: 571.046200 samples/sec	loss=0.089261	acc=0.972656
+Epoch: 116   Batch: 30	Speed: 571.961737 samples/sec	loss=0.093223	acc=0.969792
+Epoch: 117 learning rate update to 1.000e-04 
+Epoch: 117   Batch: 10	Speed: 313.632778 samples/sec	loss=0.110731	acc=0.962500
+Epoch: 117   Batch: 20	Speed: 570.778099 samples/sec	loss=0.096859	acc=0.969531
+Epoch: 117   Batch: 30	Speed: 571.801524 samples/sec	loss=0.095876	acc=0.969792
+Epoch: 118 learning rate update to 1.000e-04 
+Epoch: 118   Batch: 10	Speed: 317.187921 samples/sec	loss=0.099655	acc=0.968750
+Epoch: 118   Batch: 20	Speed: 571.283244 samples/sec	loss=0.095363	acc=0.969141
+Epoch: 118   Batch: 30	Speed: 571.760845 samples/sec	loss=0.097169	acc=0.967708
+Epoch: 119 learning rate update to 1.000e-04 
+Epoch: 119   Batch: 10	Speed: 312.412462 samples/sec	loss=0.104270	acc=0.961719
+Epoch: 119   Batch: 20	Speed: 570.520496 samples/sec	loss=0.094524	acc=0.964453
+Epoch: 119   Batch: 30	Speed: 571.623019 samples/sec	loss=0.092472	acc=0.967187
+Epoch: 120 learning rate update to 1.000e-04 
+Epoch: 120   Batch: 10	Speed: 312.142254 samples/sec	loss=0.077240	acc=0.971875
+Epoch: 120   Batch: 20	Speed: 565.529278 samples/sec	loss=0.091265	acc=0.967578
+Epoch: 120   Batch: 30	Speed: 570.714086 samples/sec	loss=0.092562	acc=0.968229
+Epoch: 121 learning rate update to 1.000e-04 
+Epoch: 121   Batch: 10	Speed: 312.749732 samples/sec	loss=0.088779	acc=0.974219
+Epoch: 121   Batch: 20	Speed: 569.120525 samples/sec	loss=0.103291	acc=0.966406
+Epoch: 121   Batch: 30	Speed: 571.110166 samples/sec	loss=0.096274	acc=0.969531
+Epoch: 122 learning rate update to 1.000e-04 
+Epoch: 122   Batch: 10	Speed: 294.558510 samples/sec	loss=0.099905	acc=0.964844
+Epoch: 122   Batch: 20	Speed: 507.215206 samples/sec	loss=0.092064	acc=0.968750
+Epoch: 122   Batch: 30	Speed: 570.937861 samples/sec	loss=0.091967	acc=0.968229
+Epoch: 123 learning rate update to 1.000e-04 
+Epoch: 123   Batch: 10	Speed: 297.047173 samples/sec	loss=0.085905	acc=0.974219
+Epoch: 123   Batch: 20	Speed: 569.762866 samples/sec	loss=0.100319	acc=0.967969
+Epoch: 123   Batch: 30	Speed: 561.394945 samples/sec	loss=0.103831	acc=0.967708
+Epoch: 124 learning rate update to 1.000e-04 
+Epoch: 124   Batch: 10	Speed: 299.963729 samples/sec	loss=0.077393	acc=0.978125
+Epoch: 124   Batch: 20	Speed: 570.153751 samples/sec	loss=0.077424	acc=0.976953
+Epoch: 124   Batch: 30	Speed: 571.919269 samples/sec	loss=0.081749	acc=0.974219
+Epoch: 125 learning rate update to 1.000e-04 
+Epoch: 125   Batch: 10	Speed: 279.026188 samples/sec	loss=0.105482	acc=0.964844
+Epoch: 125   Batch: 20	Speed: 570.673623 samples/sec	loss=0.099809	acc=0.967187
+Epoch: 125   Batch: 30	Speed: 572.246565 samples/sec	loss=0.106430	acc=0.962760
+Epoch: 126 learning rate update to 1.000e-04 
+Epoch: 126   Batch: 10	Speed: 286.731599 samples/sec	loss=0.066818	acc=0.978125
+Epoch: 126   Batch: 20	Speed: 570.599202 samples/sec	loss=0.087852	acc=0.972266
+Epoch: 126   Batch: 30	Speed: 572.185698 samples/sec	loss=0.089669	acc=0.972917
+Epoch: 127 learning rate update to 1.000e-04 
+Epoch: 127   Batch: 10	Speed: 296.007488 samples/sec	loss=0.107914	acc=0.964844
+Epoch: 127   Batch: 20	Speed: 571.250723 samples/sec	loss=0.088768	acc=0.970703
+Epoch: 127   Batch: 30	Speed: 571.680662 samples/sec	loss=0.084900	acc=0.972917
+Epoch: 128 learning rate update to 1.000e-04 
+Epoch: 128   Batch: 10	Speed: 286.229774 samples/sec	loss=0.093468	acc=0.970313
+Epoch: 128   Batch: 20	Speed: 569.673813 samples/sec	loss=0.091698	acc=0.968750
+Epoch: 128   Batch: 30	Speed: 569.658399 samples/sec	loss=0.088547	acc=0.971094
+Epoch: 129 learning rate update to 1.000e-04 
+Epoch: 129   Batch: 10	Speed: 300.037121 samples/sec	loss=0.098086	acc=0.965625
+Epoch: 129   Batch: 20	Speed: 571.016682 samples/sec	loss=0.094698	acc=0.969141
+Epoch: 129   Batch: 30	Speed: 571.798722 samples/sec	loss=0.094588	acc=0.969792
+Epoch: 130 learning rate update to 1.000e-04 
+Epoch: 130   Batch: 10	Speed: 321.543377 samples/sec	loss=0.083613	acc=0.975000
+Epoch: 130   Batch: 20	Speed: 569.226184 samples/sec	loss=0.090861	acc=0.971094
+Epoch: 130   Batch: 30	Speed: 572.021947 samples/sec	loss=0.093120	acc=0.969271
+Epoch: 131 learning rate update to 1.000e-04 
+Epoch: 131   Batch: 10	Speed: 317.584706 samples/sec	loss=0.093923	acc=0.966406
+Epoch: 131   Batch: 20	Speed: 570.416720 samples/sec	loss=0.089955	acc=0.969531
+Epoch: 131   Batch: 30	Speed: 571.188184 samples/sec	loss=0.090186	acc=0.971875
+Epoch: 132 learning rate update to 1.000e-04 
+Epoch: 132   Batch: 10	Speed: 275.955931 samples/sec	loss=0.101314	acc=0.971094
+Epoch: 132   Batch: 20	Speed: 571.101903 samples/sec	loss=0.101995	acc=0.970703
+Epoch: 132   Batch: 30	Speed: 571.163087 samples/sec	loss=0.096691	acc=0.970573
+Epoch: 133 learning rate update to 1.000e-04 
+Epoch: 133   Batch: 10	Speed: 315.093788 samples/sec	loss=0.085680	acc=0.971875
+Epoch: 133   Batch: 20	Speed: 569.727314 samples/sec	loss=0.097161	acc=0.965234
+Epoch: 133   Batch: 30	Speed: 571.745196 samples/sec	loss=0.090728	acc=0.967969
+Epoch: 134 learning rate update to 1.000e-04 
+Epoch: 134   Batch: 10	Speed: 298.383143 samples/sec	loss=0.082423	acc=0.972656
+Epoch: 134   Batch: 20	Speed: 562.415781 samples/sec	loss=0.090409	acc=0.969531
+Epoch: 134   Batch: 30	Speed: 569.863985 samples/sec	loss=0.088309	acc=0.970833
+Epoch: 135 learning rate update to 1.000e-04 
+Epoch: 135   Batch: 10	Speed: 327.067128 samples/sec	loss=0.097505	acc=0.968750
+Epoch: 135   Batch: 20	Speed: 486.421599 samples/sec	loss=0.092642	acc=0.969531
+Epoch: 135   Batch: 30	Speed: 558.506156 samples/sec	loss=0.096566	acc=0.967448
+Epoch: 136 learning rate update to 1.000e-04 
+Epoch: 136   Batch: 10	Speed: 310.828392 samples/sec	loss=0.077568	acc=0.971875
+Epoch: 136   Batch: 20	Speed: 570.641596 samples/sec	loss=0.087132	acc=0.971094
+Epoch: 136   Batch: 30	Speed: 571.854390 samples/sec	loss=0.093546	acc=0.969271
+Epoch: 137 learning rate update to 1.000e-04 
+Epoch: 137   Batch: 10	Speed: 333.352341 samples/sec	loss=0.079682	acc=0.977344
+Epoch: 137   Batch: 20	Speed: 570.999313 samples/sec	loss=0.092128	acc=0.971875
+Epoch: 137   Batch: 30	Speed: 571.618576 samples/sec	loss=0.093830	acc=0.969531
+Epoch: 138 learning rate update to 1.000e-04 
+Epoch: 138   Batch: 10	Speed: 312.411298 samples/sec	loss=0.093954	acc=0.971875
+Epoch: 138   Batch: 20	Speed: 570.389570 samples/sec	loss=0.095519	acc=0.970313
+Epoch: 138   Batch: 30	Speed: 571.624480 samples/sec	loss=0.092423	acc=0.970573
+Epoch: 139 learning rate update to 1.000e-04 
+Epoch: 139   Batch: 10	Speed: 282.457107 samples/sec	loss=0.106764	acc=0.960938
+Epoch: 139   Batch: 20	Speed: 569.117931 samples/sec	loss=0.113018	acc=0.960156
+Epoch: 139   Batch: 30	Speed: 571.107250 samples/sec	loss=0.106288	acc=0.962500
+Epoch: 140 learning rate update to 1.000e-04 
+Epoch: 140   Batch: 10	Speed: 286.275990 samples/sec	loss=0.084457	acc=0.976562
+Epoch: 140   Batch: 20	Speed: 570.442964 samples/sec	loss=0.088975	acc=0.973437
+Epoch: 140   Batch: 30	Speed: 572.367606 samples/sec	loss=0.098314	acc=0.969792
+Epoch: 141 learning rate update to 1.000e-04 
+Epoch: 141   Batch: 10	Speed: 282.001238 samples/sec	loss=0.098021	acc=0.964063
+Epoch: 141   Batch: 20	Speed: 570.416235 samples/sec	loss=0.093264	acc=0.966406
+Epoch: 141   Batch: 30	Speed: 570.785685 samples/sec	loss=0.092196	acc=0.968490
+Epoch: 142 learning rate update to 1.000e-04 
+Epoch: 142   Batch: 10	Speed: 310.189937 samples/sec	loss=0.107603	acc=0.957031
+Epoch: 142   Batch: 20	Speed: 568.544227 samples/sec	loss=0.099891	acc=0.963281
+Epoch: 142   Batch: 30	Speed: 572.645814 samples/sec	loss=0.094761	acc=0.965365
+Epoch: 143 learning rate update to 1.000e-04 
+Epoch: 143   Batch: 10	Speed: 315.873533 samples/sec	loss=0.094538	acc=0.967969
+Epoch: 143   Batch: 20	Speed: 570.701710 samples/sec	loss=0.095103	acc=0.968750
+Epoch: 143   Batch: 30	Speed: 571.727113 samples/sec	loss=0.091960	acc=0.969792
+Epoch: 144 learning rate update to 1.000e-04 
+Epoch: 144   Batch: 10	Speed: 292.368397 samples/sec	loss=0.107914	acc=0.967187
+Epoch: 144   Batch: 20	Speed: 570.750368 samples/sec	loss=0.091564	acc=0.971875
+Epoch: 144   Batch: 30	Speed: 571.566240 samples/sec	loss=0.089757	acc=0.972396
+Epoch: 145 learning rate update to 1.000e-04 
+Epoch: 145   Batch: 10	Speed: 315.829196 samples/sec	loss=0.098145	acc=0.965625
+Epoch: 145   Batch: 20	Speed: 570.987835 samples/sec	loss=0.093997	acc=0.968359
+Epoch: 145   Batch: 30	Speed: 571.155370 samples/sec	loss=0.099838	acc=0.965885
+Epoch: 146 learning rate update to 1.000e-04 
+Epoch: 146   Batch: 10	Speed: 315.419455 samples/sec	loss=0.099336	acc=0.967969
+Epoch: 146   Batch: 20	Speed: 569.061588 samples/sec	loss=0.097432	acc=0.969141
+Epoch: 146   Batch: 30	Speed: 572.175271 samples/sec	loss=0.093339	acc=0.970833
+Epoch: 147 learning rate update to 1.000e-04 
+Epoch: 147   Batch: 10	Speed: 296.303807 samples/sec	loss=0.093237	acc=0.966406
+Epoch: 147   Batch: 20	Speed: 571.292119 samples/sec	loss=0.095224	acc=0.967578
+Epoch: 147   Batch: 30	Speed: 571.843670 samples/sec	loss=0.093204	acc=0.968229
+Epoch: 148 learning rate update to 1.000e-04 
+Epoch: 148   Batch: 10	Speed: 279.292418 samples/sec	loss=0.075957	acc=0.976562
+Epoch: 148   Batch: 20	Speed: 570.539776 samples/sec	loss=0.080569	acc=0.972656
+Epoch: 148   Batch: 30	Speed: 571.716276 samples/sec	loss=0.082391	acc=0.971354
+Epoch: 149 learning rate update to 1.000e-04 
+Epoch: 149   Batch: 10	Speed: 297.753617 samples/sec	loss=0.099911	acc=0.969531
+Epoch: 149   Batch: 20	Speed: 570.066209 samples/sec	loss=0.097745	acc=0.967969
+Epoch: 149   Batch: 30	Speed: 571.320632 samples/sec	loss=0.089343	acc=0.971354
+Epoch: 150 learning rate update to 1.000e-04 
+Epoch: 150   Batch: 10	Speed: 305.493915 samples/sec	loss=0.084911	acc=0.971094
+Epoch: 150   Batch: 20	Speed: 571.026946 samples/sec	loss=0.081751	acc=0.973828
+Epoch: 150   Batch: 30	Speed: 572.288350 samples/sec	loss=0.083347	acc=0.972917
+Epoch: 151 learning rate update to 1.000e-04 
+Epoch: 151   Batch: 10	Speed: 318.779734 samples/sec	loss=0.100181	acc=0.970313
+Epoch: 151   Batch: 20	Speed: 554.012388 samples/sec	loss=0.085462	acc=0.976172
+Epoch: 151   Batch: 30	Speed: 571.882777 samples/sec	loss=0.084003	acc=0.974479
+Epoch: 152 learning rate update to 1.000e-04 
+Epoch: 152   Batch: 10	Speed: 298.369843 samples/sec	loss=0.089893	acc=0.970313
+Epoch: 152   Batch: 20	Speed: 569.212906 samples/sec	loss=0.100833	acc=0.964063
+Epoch: 152   Batch: 30	Speed: 572.385607 samples/sec	loss=0.094593	acc=0.966667
+Epoch: 153 learning rate update to 1.000e-04 
+Epoch: 153   Batch: 10	Speed: 301.076009 samples/sec	loss=0.104003	acc=0.965625
+Epoch: 153   Batch: 20	Speed: 562.459972 samples/sec	loss=0.100139	acc=0.967578
+Epoch: 153   Batch: 30	Speed: 570.099867 samples/sec	loss=0.095934	acc=0.970052
+Epoch: 154 learning rate update to 1.000e-04 
+Epoch: 154   Batch: 10	Speed: 324.264437 samples/sec	loss=0.107462	acc=0.966406
+Epoch: 154   Batch: 20	Speed: 569.516993 samples/sec	loss=0.102541	acc=0.969141
+Epoch: 154   Batch: 30	Speed: 571.691985 samples/sec	loss=0.096215	acc=0.971354
+Epoch: 155 learning rate update to 1.000e-04 
+Epoch: 155   Batch: 10	Speed: 294.500196 samples/sec	loss=0.087400	acc=0.974219
+Epoch: 155   Batch: 20	Speed: 569.188767 samples/sec	loss=0.088152	acc=0.972266
+Epoch: 155   Batch: 30	Speed: 571.790623 samples/sec	loss=0.091194	acc=0.972917
+Epoch: 156 learning rate update to 1.000e-04 
+Epoch: 156   Batch: 10	Speed: 297.817522 samples/sec	loss=0.079078	acc=0.973437
+Epoch: 156   Batch: 20	Speed: 570.465633 samples/sec	loss=0.091539	acc=0.969531
+Epoch: 156   Batch: 30	Speed: 572.168929 samples/sec	loss=0.099950	acc=0.966667
+Epoch: 157 learning rate update to 1.000e-04 
+Epoch: 157   Batch: 10	Speed: 287.003553 samples/sec	loss=0.078161	acc=0.978125
+Epoch: 157   Batch: 20	Speed: 569.188767 samples/sec	loss=0.081466	acc=0.976953
+Epoch: 157   Batch: 30	Speed: 571.982029 samples/sec	loss=0.087875	acc=0.973958
+Epoch: 158 learning rate update to 1.000e-04 
+Epoch: 158   Batch: 10	Speed: 312.124125 samples/sec	loss=0.092338	acc=0.968750
+Epoch: 158   Batch: 20	Speed: 570.294141 samples/sec	loss=0.093280	acc=0.967578
+Epoch: 158   Batch: 30	Speed: 571.189399 samples/sec	loss=0.089851	acc=0.968490
+Epoch: 159 learning rate update to 1.000e-04 
+Epoch: 159   Batch: 10	Speed: 299.852803 samples/sec	loss=0.094923	acc=0.967187
+Epoch: 159   Batch: 20	Speed: 570.115002 samples/sec	loss=0.093701	acc=0.967187
+Epoch: 159   Batch: 30	Speed: 571.861882 samples/sec	loss=0.094368	acc=0.968490
+Epoch: 160 learning rate update to 1.000e-04 
+Epoch: 160   Batch: 10	Speed: 291.395640 samples/sec	loss=0.110041	acc=0.961719
+Epoch: 160   Batch: 20	Speed: 570.805104 samples/sec	loss=0.101938	acc=0.964063
+Epoch: 160   Batch: 30	Speed: 572.006466 samples/sec	loss=0.098538	acc=0.965365
+Epoch: 161 learning rate update to 1.000e-04 
+Epoch: 161   Batch: 10	Speed: 302.607891 samples/sec	loss=0.098341	acc=0.969531
+Epoch: 161   Batch: 20	Speed: 568.557051 samples/sec	loss=0.098885	acc=0.966406
+Epoch: 161   Batch: 30	Speed: 572.077902 samples/sec	loss=0.098364	acc=0.964323
+Epoch: 162 learning rate update to 1.000e-04 
+Epoch: 162   Batch: 10	Speed: 325.030360 samples/sec	loss=0.091371	acc=0.967187
+Epoch: 162   Batch: 20	Speed: 569.927505 samples/sec	loss=0.102359	acc=0.964063
+Epoch: 162   Batch: 30	Speed: 571.257409 samples/sec	loss=0.097581	acc=0.965104
+Epoch: 163 learning rate update to 1.000e-04 
+Epoch: 163   Batch: 10	Speed: 277.472485 samples/sec	loss=0.096405	acc=0.970313
+Epoch: 163   Batch: 20	Speed: 570.355212 samples/sec	loss=0.089491	acc=0.971484
+Epoch: 163   Batch: 30	Speed: 571.830514 samples/sec	loss=0.095613	acc=0.969271
+Epoch: 164 learning rate update to 1.000e-04 
+Epoch: 164   Batch: 10	Speed: 293.601317 samples/sec	loss=0.107035	acc=0.965625
+Epoch: 164   Batch: 20	Speed: 570.329037 samples/sec	loss=0.098396	acc=0.966406
+Epoch: 164   Batch: 30	Speed: 562.914016 samples/sec	loss=0.099421	acc=0.967448
+Epoch: 165 learning rate update to 1.000e-04 
+Epoch: 165   Batch: 10	Speed: 297.005400 samples/sec	loss=0.098266	acc=0.963281
+Epoch: 165   Batch: 20	Speed: 571.107493 samples/sec	loss=0.090422	acc=0.967578
+Epoch: 165   Batch: 30	Speed: 572.262973 samples/sec	loss=0.089339	acc=0.968490
+Epoch: 166 learning rate update to 1.000e-04 
+Epoch: 166   Batch: 10	Speed: 297.043032 samples/sec	loss=0.077878	acc=0.971875
+Epoch: 166   Batch: 20	Speed: 570.753706 samples/sec	loss=0.069410	acc=0.976172
+Epoch: 166   Batch: 30	Speed: 564.245805 samples/sec	loss=0.076955	acc=0.973437
+Epoch: 167 learning rate update to 1.000e-04 
+Epoch: 167   Batch: 10	Speed: 310.993412 samples/sec	loss=0.080476	acc=0.974219
+Epoch: 167   Batch: 20	Speed: 570.567608 samples/sec	loss=0.092191	acc=0.971094
+Epoch: 167   Batch: 30	Speed: 572.118687 samples/sec	loss=0.092197	acc=0.971875
+Epoch: 168 learning rate update to 1.000e-04 
+Epoch: 168   Batch: 10	Speed: 301.846209 samples/sec	loss=0.093325	acc=0.967969
+Epoch: 168   Batch: 20	Speed: 560.104027 samples/sec	loss=0.098970	acc=0.964844
+Epoch: 168   Batch: 30	Speed: 572.405929 samples/sec	loss=0.093416	acc=0.966146
+Epoch: 169 learning rate update to 1.000e-04 
+Epoch: 169   Batch: 10	Speed: 299.810891 samples/sec	loss=0.098829	acc=0.967187
+Epoch: 169   Batch: 20	Speed: 571.217659 samples/sec	loss=0.092346	acc=0.968750
+Epoch: 169   Batch: 30	Speed: 570.105315 samples/sec	loss=0.094512	acc=0.966667
+Epoch: 170 learning rate update to 1.000e-04 
+Epoch: 170   Batch: 10	Speed: 307.940266 samples/sec	loss=0.122414	acc=0.966406
+Epoch: 170   Batch: 20	Speed: 571.028282 samples/sec	loss=0.099936	acc=0.969141
+Epoch: 170   Batch: 30	Speed: 571.140544 samples/sec	loss=0.098509	acc=0.968750
+Epoch: 171 learning rate update to 1.000e-04 
+Epoch: 171   Batch: 10	Speed: 304.112282 samples/sec	loss=0.079763	acc=0.976562
+Epoch: 171   Batch: 20	Speed: 568.667621 samples/sec	loss=0.089126	acc=0.970703
+Epoch: 171   Batch: 30	Speed: 572.195883 samples/sec	loss=0.086312	acc=0.970833
+Epoch: 172 learning rate update to 1.000e-04 
+Epoch: 172   Batch: 10	Speed: 303.050403 samples/sec	loss=0.103336	acc=0.962500
+Epoch: 172   Batch: 20	Speed: 571.077239 samples/sec	loss=0.092933	acc=0.969531
+Epoch: 172   Batch: 30	Speed: 572.020179 samples/sec	loss=0.084690	acc=0.972917
+Epoch: 173 learning rate update to 1.000e-04 
+Epoch: 173   Batch: 10	Speed: 322.452487 samples/sec	loss=0.082873	acc=0.974219
+Epoch: 173   Batch: 20	Speed: 566.232144 samples/sec	loss=0.076140	acc=0.976953
+Epoch: 173   Batch: 30	Speed: 571.771562 samples/sec	loss=0.082742	acc=0.973437
+Epoch: 174 learning rate update to 1.000e-04 
+Epoch: 174   Batch: 10	Speed: 315.533890 samples/sec	loss=0.102223	acc=0.965625
+Epoch: 174   Batch: 20	Speed: 568.764917 samples/sec	loss=0.098354	acc=0.965234
+Epoch: 174   Batch: 30	Speed: 570.470664 samples/sec	loss=0.093147	acc=0.969531
+Epoch: 175 learning rate update to 1.000e-04 
+Epoch: 175   Batch: 10	Speed: 299.508438 samples/sec	loss=0.094920	acc=0.967969
+Epoch: 175   Batch: 20	Speed: 570.408599 samples/sec	loss=0.090642	acc=0.969531
+Epoch: 175   Batch: 30	Speed: 572.108017 samples/sec	loss=0.087575	acc=0.970573
+Epoch: 176 learning rate update to 1.000e-04 
+Epoch: 176   Batch: 10	Speed: 292.002019 samples/sec	loss=0.097070	acc=0.966406
+Epoch: 176   Batch: 20	Speed: 568.984693 samples/sec	loss=0.083873	acc=0.973047
+Epoch: 176   Batch: 30	Speed: 561.574343 samples/sec	loss=0.085133	acc=0.972656
+Epoch: 177 learning rate update to 1.000e-04 
+Epoch: 177   Batch: 10	Speed: 295.835976 samples/sec	loss=0.086874	acc=0.969531
+Epoch: 177   Batch: 20	Speed: 509.302954 samples/sec	loss=0.089929	acc=0.969531
+Epoch: 177   Batch: 30	Speed: 571.741787 samples/sec	loss=0.091192	acc=0.970313
+Epoch: 178 learning rate update to 1.000e-04 
+Epoch: 178   Batch: 10	Speed: 280.530442 samples/sec	loss=0.107699	acc=0.964844
+Epoch: 178   Batch: 20	Speed: 570.632498 samples/sec	loss=0.102043	acc=0.967578
+Epoch: 178   Batch: 30	Speed: 571.456974 samples/sec	loss=0.093507	acc=0.969271
+Epoch: 179 learning rate update to 1.000e-04 
+Epoch: 179   Batch: 10	Speed: 267.458111 samples/sec	loss=0.079926	acc=0.969531
+Epoch: 179   Batch: 20	Speed: 567.582518 samples/sec	loss=0.085103	acc=0.971484
+Epoch: 179   Batch: 30	Speed: 570.795819 samples/sec	loss=0.090532	acc=0.970313
+Epoch: 180 learning rate update to 1.000e-04 
+Epoch: 180   Batch: 10	Speed: 299.292865 samples/sec	loss=0.095104	acc=0.969531
+Epoch: 180   Batch: 20	Speed: 571.310783 samples/sec	loss=0.083543	acc=0.972656
+Epoch: 180   Batch: 30	Speed: 572.030297 samples/sec	loss=0.078742	acc=0.973437
+Epoch: 181 learning rate update to 1.000e-04 
+Epoch: 181   Batch: 10	Speed: 274.356172 samples/sec	loss=0.109431	acc=0.967969
+Epoch: 181   Batch: 20	Speed: 570.629223 samples/sec	loss=0.111335	acc=0.964063
+Epoch: 181   Batch: 30	Speed: 569.535178 samples/sec	loss=0.112230	acc=0.962500
+Epoch: 182 learning rate update to 1.000e-04 
+Epoch: 182   Batch: 10	Speed: 315.258629 samples/sec	loss=0.081438	acc=0.974219
+Epoch: 182   Batch: 20	Speed: 570.053982 samples/sec	loss=0.095179	acc=0.969531
+Epoch: 182   Batch: 30	Speed: 571.760602 samples/sec	loss=0.097675	acc=0.968490
+Epoch: 183 learning rate update to 1.000e-04 
+Epoch: 183   Batch: 10	Speed: 303.881381 samples/sec	loss=0.095275	acc=0.969531
+Epoch: 183   Batch: 20	Speed: 570.601325 samples/sec	loss=0.094170	acc=0.970313
+Epoch: 183   Batch: 30	Speed: 565.105445 samples/sec	loss=0.095203	acc=0.969531
+Epoch: 184 learning rate update to 1.000e-04 
+Epoch: 184   Batch: 10	Speed: 297.582007 samples/sec	loss=0.089504	acc=0.971875
+Epoch: 184   Batch: 20	Speed: 570.756011 samples/sec	loss=0.106349	acc=0.966797
+Epoch: 184   Batch: 30	Speed: 571.411114 samples/sec	loss=0.103248	acc=0.967448
+Epoch: 185 learning rate update to 1.000e-04 
+Epoch: 185   Batch: 10	Speed: 242.593926 samples/sec	loss=0.094130	acc=0.974219
+Epoch: 185   Batch: 20	Speed: 571.199183 samples/sec	loss=0.095836	acc=0.968359
+Epoch: 185   Batch: 30	Speed: 563.502372 samples/sec	loss=0.095582	acc=0.967448
+Epoch: 186 learning rate update to 1.000e-04 
+Epoch: 186   Batch: 10	Speed: 298.501879 samples/sec	loss=0.099993	acc=0.967969
+Epoch: 186   Batch: 20	Speed: 570.814329 samples/sec	loss=0.094553	acc=0.970313
+Epoch: 186   Batch: 30	Speed: 569.857150 samples/sec	loss=0.091987	acc=0.969792
+Epoch: 187 learning rate update to 1.000e-04 
+Epoch: 187   Batch: 10	Speed: 271.325054 samples/sec	loss=0.095681	acc=0.968750
+Epoch: 187   Batch: 20	Speed: 561.577104 samples/sec	loss=0.078511	acc=0.975391
+Epoch: 187   Batch: 30	Speed: 572.047790 samples/sec	loss=0.088186	acc=0.972135
+Epoch: 188 learning rate update to 1.000e-04 
+Epoch: 188   Batch: 10	Speed: 255.240517 samples/sec	loss=0.074835	acc=0.979688
+Epoch: 188   Batch: 20	Speed: 571.214620 samples/sec	loss=0.083239	acc=0.975000
+Epoch: 188   Batch: 30	Speed: 570.477696 samples/sec	loss=0.084683	acc=0.972656
+Epoch: 189 learning rate update to 1.000e-04 
+Epoch: 189   Batch: 10	Speed: 311.561684 samples/sec	loss=0.089994	acc=0.971875
+Epoch: 189   Batch: 20	Speed: 556.681365 samples/sec	loss=0.088507	acc=0.973437
+Epoch: 189   Batch: 30	Speed: 571.941507 samples/sec	loss=0.090652	acc=0.971094
+Epoch: 190 learning rate update to 1.000e-04 
+Epoch: 190   Batch: 10	Speed: 321.763742 samples/sec	loss=0.082871	acc=0.972656
+Epoch: 190   Batch: 20	Speed: 569.437075 samples/sec	loss=0.098318	acc=0.966016
+Epoch: 190   Batch: 30	Speed: 571.228234 samples/sec	loss=0.097140	acc=0.967708
+Epoch: 191 learning rate update to 1.000e-04 
+Epoch: 191   Batch: 10	Speed: 307.844668 samples/sec	loss=0.085390	acc=0.972656
+Epoch: 191   Batch: 20	Speed: 569.510408 samples/sec	loss=0.087925	acc=0.969922
+Epoch: 191   Batch: 30	Speed: 570.151571 samples/sec	loss=0.093359	acc=0.968229
+Epoch: 192 learning rate update to 1.000e-04 
+Epoch: 192   Batch: 10	Speed: 320.557725 samples/sec	loss=0.085968	acc=0.971875
+Epoch: 192   Batch: 20	Speed: 570.497095 samples/sec	loss=0.099766	acc=0.966406
+Epoch: 192   Batch: 30	Speed: 571.279231 samples/sec	loss=0.100453	acc=0.965885
+Epoch: 193 learning rate update to 1.000e-04 
+Epoch: 193   Batch: 10	Speed: 315.912844 samples/sec	loss=0.075101	acc=0.971875
+Epoch: 193   Batch: 20	Speed: 571.266405 samples/sec	loss=0.092053	acc=0.966016
+Epoch: 193   Batch: 30	Speed: 572.173197 samples/sec	loss=0.085968	acc=0.967969
+Epoch: 194 learning rate update to 1.000e-04 
+Epoch: 194   Batch: 10	Speed: 313.232166 samples/sec	loss=0.091148	acc=0.969531
+Epoch: 194   Batch: 20	Speed: 569.683666 samples/sec	loss=0.098385	acc=0.969531
+Epoch: 194   Batch: 30	Speed: 571.792023 samples/sec	loss=0.095165	acc=0.969271
+Epoch: 195 learning rate update to 1.000e-04 
+Epoch: 195   Batch: 10	Speed: 306.998242 samples/sec	loss=0.099054	acc=0.964063
+Epoch: 195   Batch: 20	Speed: 570.435024 samples/sec	loss=0.096425	acc=0.966016
+Epoch: 195   Batch: 30	Speed: 571.967709 samples/sec	loss=0.093230	acc=0.969010
+Epoch: 196 learning rate update to 1.000e-04 
+Epoch: 196   Batch: 10	Speed: 294.473074 samples/sec	loss=0.098665	acc=0.973437
+Epoch: 196   Batch: 20	Speed: 567.770036 samples/sec	loss=0.093095	acc=0.971094
+Epoch: 196   Batch: 30	Speed: 572.329409 samples/sec	loss=0.090405	acc=0.971094
+Epoch: 197 learning rate update to 1.000e-04 
+Epoch: 197   Batch: 10	Speed: 307.593421 samples/sec	loss=0.110862	acc=0.962500
+Epoch: 197   Batch: 20	Speed: 570.512796 samples/sec	loss=0.102132	acc=0.966406
+Epoch: 197   Batch: 30	Speed: 572.196066 samples/sec	loss=0.098316	acc=0.967448
+Epoch: 198 learning rate update to 1.000e-04 
+Epoch: 198   Batch: 10	Speed: 303.676129 samples/sec	loss=0.100603	acc=0.967969
+Epoch: 198   Batch: 20	Speed: 570.071112 samples/sec	loss=0.090845	acc=0.971094
+Epoch: 198   Batch: 30	Speed: 572.308055 samples/sec	loss=0.087281	acc=0.972396
+Epoch: 199 learning rate update to 1.000e-04 
+Epoch: 199   Batch: 10	Speed: 280.771958 samples/sec	loss=0.107703	acc=0.956250
+Epoch: 199   Batch: 20	Speed: 568.772690 samples/sec	loss=0.102073	acc=0.961719
+Epoch: 199   Batch: 30	Speed: 571.341730 samples/sec	loss=0.094199	acc=0.965365
+Epoch: 200 learning rate update to 1.000e-04 
+Epoch: 200   Batch: 10	Speed: 301.013213 samples/sec	loss=0.093818	acc=0.968750
+Epoch: 200   Batch: 20	Speed: 569.282801 samples/sec	loss=0.087575	acc=0.971094
+Epoch: 200   Batch: 30	Speed: 571.691680 samples/sec	loss=0.093264	acc=0.967448
+Epoch: 201 learning rate update to 1.000e-04 
+Epoch: 201   Batch: 10	Speed: 297.339765 samples/sec	loss=0.093024	acc=0.971875
+Epoch: 201   Batch: 20	Speed: 570.040848 samples/sec	loss=0.100454	acc=0.969141
+Epoch: 201   Batch: 30	Speed: 571.728879 samples/sec	loss=0.101248	acc=0.967187
+Epoch: 202 learning rate update to 1.000e-04 
+Epoch: 202   Batch: 10	Speed: 328.355269 samples/sec	loss=0.087700	acc=0.971094
+Epoch: 202   Batch: 20	Speed: 564.125211 samples/sec	loss=0.094237	acc=0.968359
+Epoch: 202   Batch: 30	Speed: 571.985137 samples/sec	loss=0.093636	acc=0.968750
+Epoch: 203 learning rate update to 1.000e-04 
+Epoch: 203   Batch: 10	Speed: 322.881260 samples/sec	loss=0.116578	acc=0.964844
+Epoch: 203   Batch: 20	Speed: 571.307074 samples/sec	loss=0.099957	acc=0.968750
+Epoch: 203   Batch: 30	Speed: 572.335327 samples/sec	loss=0.098381	acc=0.967969
+Epoch: 204 learning rate update to 1.000e-04 
+Epoch: 204   Batch: 10	Speed: 302.282445 samples/sec	loss=0.095469	acc=0.968750
+Epoch: 204   Batch: 20	Speed: 569.729672 samples/sec	loss=0.087250	acc=0.971875
+Epoch: 204   Batch: 30	Speed: 571.314978 samples/sec	loss=0.096794	acc=0.969792
+Epoch: 205 learning rate update to 1.000e-04 
+Epoch: 205   Batch: 10	Speed: 302.443283 samples/sec	loss=0.115868	acc=0.959375
+Epoch: 205   Batch: 20	Speed: 569.964716 samples/sec	loss=0.102673	acc=0.963281
+Epoch: 205   Batch: 30	Speed: 572.240161 samples/sec	loss=0.096011	acc=0.966146
+Epoch: 206 learning rate update to 1.000e-04 
+Epoch: 206   Batch: 10	Speed: 295.536020 samples/sec	loss=0.091560	acc=0.967969
+Epoch: 206   Batch: 20	Speed: 569.467819 samples/sec	loss=0.094213	acc=0.967969
+Epoch: 206   Batch: 30	Speed: 572.177466 samples/sec	loss=0.094813	acc=0.967708
+Epoch: 207 learning rate update to 1.000e-04 
+Epoch: 207   Batch: 10	Speed: 301.105239 samples/sec	loss=0.083303	acc=0.971875
+Epoch: 207   Batch: 20	Speed: 571.296557 samples/sec	loss=0.080649	acc=0.971875
+Epoch: 207   Batch: 30	Speed: 572.396409 samples/sec	loss=0.081595	acc=0.972135
+Epoch: 208 learning rate update to 1.000e-04 
+Epoch: 208   Batch: 10	Speed: 311.251221 samples/sec	loss=0.090767	acc=0.970313
+Epoch: 208   Batch: 20	Speed: 569.809974 samples/sec	loss=0.074288	acc=0.976562
+Epoch: 208   Batch: 30	Speed: 572.428877 samples/sec	loss=0.078588	acc=0.975000
+Epoch: 209 learning rate update to 1.000e-04 
+Epoch: 209   Batch: 10	Speed: 295.013616 samples/sec	loss=0.092901	acc=0.967969
+Epoch: 209   Batch: 20	Speed: 571.167280 samples/sec	loss=0.100247	acc=0.964844
+Epoch: 209   Batch: 30	Speed: 572.111492 samples/sec	loss=0.092778	acc=0.968750
+Epoch: 210 learning rate update to 1.000e-04 
+Epoch: 210   Batch: 10	Speed: 321.320640 samples/sec	loss=0.101197	acc=0.966406
+Epoch: 210   Batch: 20	Speed: 570.824586 samples/sec	loss=0.102094	acc=0.964844
+Epoch: 210   Batch: 30	Speed: 572.265718 samples/sec	loss=0.098742	acc=0.966667
+Epoch: 211 learning rate update to 1.000e-04 
+Epoch: 211   Batch: 10	Speed: 287.494963 samples/sec	loss=0.100528	acc=0.964063
+Epoch: 211   Batch: 20	Speed: 570.604114 samples/sec	loss=0.099276	acc=0.967578
+Epoch: 211   Batch: 30	Speed: 571.124990 samples/sec	loss=0.092055	acc=0.970313
+Epoch: 212 learning rate update to 1.000e-04 
+Epoch: 212   Batch: 10	Speed: 294.147652 samples/sec	loss=0.075549	acc=0.977344
+Epoch: 212   Batch: 20	Speed: 570.144851 samples/sec	loss=0.084479	acc=0.973047
+Epoch: 212   Batch: 30	Speed: 572.650700 samples/sec	loss=0.091559	acc=0.969531
+Epoch: 213 learning rate update to 1.000e-04 
+Epoch: 213   Batch: 10	Speed: 304.477095 samples/sec	loss=0.083600	acc=0.971094
+Epoch: 213   Batch: 20	Speed: 570.377935 samples/sec	loss=0.080706	acc=0.970703
+Epoch: 213   Batch: 30	Speed: 565.780126 samples/sec	loss=0.086047	acc=0.968490
+Epoch: 214 learning rate update to 1.000e-04 
+Epoch: 214   Batch: 10	Speed: 316.538405 samples/sec	loss=0.099552	acc=0.968750
+Epoch: 214   Batch: 20	Speed: 570.816453 samples/sec	loss=0.087152	acc=0.971094
+Epoch: 214   Batch: 30	Speed: 572.042548 samples/sec	loss=0.094015	acc=0.971094
+Epoch: 215 learning rate update to 1.000e-04 
+Epoch: 215   Batch: 10	Speed: 280.452876 samples/sec	loss=0.104535	acc=0.962500
+Epoch: 215   Batch: 20	Speed: 567.385290 samples/sec	loss=0.091057	acc=0.969141
+Epoch: 215   Batch: 30	Speed: 570.487213 samples/sec	loss=0.089540	acc=0.969271
+Epoch: 216 learning rate update to 1.000e-04 
+Epoch: 216   Batch: 10	Speed: 289.067598 samples/sec	loss=0.085229	acc=0.968750
+Epoch: 216   Batch: 20	Speed: 570.714814 samples/sec	loss=0.084067	acc=0.972266
+Epoch: 216   Batch: 30	Speed: 572.316474 samples/sec	loss=0.083342	acc=0.973698
+Epoch: 217 learning rate update to 1.000e-04 
+Epoch: 217   Batch: 10	Speed: 312.928909 samples/sec	loss=0.106955	acc=0.964844
+Epoch: 217   Batch: 20	Speed: 569.759601 samples/sec	loss=0.094919	acc=0.967578
+Epoch: 217   Batch: 30	Speed: 571.189824 samples/sec	loss=0.092380	acc=0.968750
+Epoch: 218 learning rate update to 1.000e-04 
+Epoch: 218   Batch: 10	Speed: 305.251192 samples/sec	loss=0.079138	acc=0.974219
+Epoch: 218   Batch: 20	Speed: 568.943087 samples/sec	loss=0.068738	acc=0.977734
+Epoch: 218   Batch: 30	Speed: 567.824442 samples/sec	loss=0.071622	acc=0.977083
+Epoch: 219 learning rate update to 1.000e-04 
+Epoch: 219   Batch: 10	Speed: 320.878565 samples/sec	loss=0.102629	acc=0.962500
+Epoch: 219   Batch: 20	Speed: 570.552024 samples/sec	loss=0.093761	acc=0.966797
+Epoch: 219   Batch: 30	Speed: 572.021947 samples/sec	loss=0.092769	acc=0.967708
+Epoch: 220 learning rate update to 1.000e-04 
+Epoch: 220   Batch: 10	Speed: 296.850375 samples/sec	loss=0.074613	acc=0.973437
+Epoch: 220   Batch: 20	Speed: 570.410175 samples/sec	loss=0.088660	acc=0.968359
+Epoch: 220   Batch: 30	Speed: 570.936768 samples/sec	loss=0.088412	acc=0.968490
+Epoch: 221 learning rate update to 1.000e-04 
+Epoch: 221   Batch: 10	Speed: 302.360007 samples/sec	loss=0.081871	acc=0.971094
+Epoch: 221   Batch: 20	Speed: 567.040770 samples/sec	loss=0.085073	acc=0.968359
+Epoch: 221   Batch: 30	Speed: 569.013398 samples/sec	loss=0.090931	acc=0.969010
+Epoch: 222 learning rate update to 1.000e-04 
+Epoch: 222   Batch: 10	Speed: 309.260217 samples/sec	loss=0.103066	acc=0.968750
+Epoch: 222   Batch: 20	Speed: 571.117517 samples/sec	loss=0.102495	acc=0.965625
+Epoch: 222   Batch: 30	Speed: 569.691101 samples/sec	loss=0.091094	acc=0.968750
+Epoch: 223 learning rate update to 1.000e-04 
+Epoch: 223   Batch: 10	Speed: 294.444666 samples/sec	loss=0.089463	acc=0.971875
+Epoch: 223   Batch: 20	Speed: 568.167931 samples/sec	loss=0.095794	acc=0.967969
+Epoch: 223   Batch: 30	Speed: 569.310570 samples/sec	loss=0.086545	acc=0.971875
+Epoch: 224 learning rate update to 1.000e-04 
+Epoch: 224   Batch: 10	Speed: 312.502532 samples/sec	loss=0.070609	acc=0.973437
+Epoch: 224   Batch: 20	Speed: 561.891314 samples/sec	loss=0.076770	acc=0.972656
+Epoch: 224   Batch: 30	Speed: 570.824950 samples/sec	loss=0.083050	acc=0.970833
+Epoch: 225 learning rate update to 1.000e-04 
+Epoch: 225   Batch: 10	Speed: 328.305010 samples/sec	loss=0.086483	acc=0.970313
+Epoch: 225   Batch: 20	Speed: 569.040658 samples/sec	loss=0.088818	acc=0.969141
+Epoch: 225   Batch: 30	Speed: 571.356566 samples/sec	loss=0.094098	acc=0.966667
+Epoch: 226 learning rate update to 1.000e-04 
+Epoch: 226   Batch: 10	Speed: 318.373842 samples/sec	loss=0.087406	acc=0.967969
+Epoch: 226   Batch: 20	Speed: 570.587195 samples/sec	loss=0.080155	acc=0.974609
+Epoch: 226   Batch: 30	Speed: 569.996607 samples/sec	loss=0.081119	acc=0.972396
+Epoch: 227 learning rate update to 1.000e-04 
+Epoch: 227   Batch: 10	Speed: 287.808509 samples/sec	loss=0.088843	acc=0.969531
+Epoch: 227   Batch: 20	Speed: 570.714814 samples/sec	loss=0.082719	acc=0.973437
+Epoch: 227   Batch: 30	Speed: 571.436476 samples/sec	loss=0.080776	acc=0.972917
+Epoch: 228 learning rate update to 1.000e-04 
+Epoch: 228   Batch: 10	Speed: 318.889385 samples/sec	loss=0.083768	acc=0.974219
+Epoch: 228   Batch: 20	Speed: 569.796488 samples/sec	loss=0.095581	acc=0.969922
+Epoch: 228   Batch: 30	Speed: 571.849456 samples/sec	loss=0.089925	acc=0.969531
+Epoch: 229 learning rate update to 1.000e-04 
+Epoch: 229   Batch: 10	Speed: 291.366811 samples/sec	loss=0.065890	acc=0.979688
+Epoch: 229   Batch: 20	Speed: 570.764749 samples/sec	loss=0.077279	acc=0.975391
+Epoch: 229   Batch: 30	Speed: 571.287134 samples/sec	loss=0.083006	acc=0.973437
+Epoch: 230 learning rate update to 1.000e-04 
+Epoch: 230   Batch: 10	Speed: 302.614697 samples/sec	loss=0.104218	acc=0.966406
+Epoch: 230   Batch: 20	Speed: 571.021115 samples/sec	loss=0.095967	acc=0.971094
+Epoch: 230   Batch: 30	Speed: 569.827876 samples/sec	loss=0.089720	acc=0.972917
+Epoch: 231 learning rate update to 1.000e-04 
+Epoch: 231   Batch: 10	Speed: 269.181533 samples/sec	loss=0.090996	acc=0.967969
+Epoch: 231   Batch: 20	Speed: 570.461208 samples/sec	loss=0.087242	acc=0.969922
+Epoch: 231   Batch: 30	Speed: 572.191675 samples/sec	loss=0.092426	acc=0.968750
+Epoch: 232 learning rate update to 1.000e-04 
+Epoch: 232   Batch: 10	Speed: 321.489541 samples/sec	loss=0.108149	acc=0.957812
+Epoch: 232   Batch: 20	Speed: 570.499641 samples/sec	loss=0.100182	acc=0.964063
+Epoch: 232   Batch: 30	Speed: 571.609569 samples/sec	loss=0.096568	acc=0.966667
+Epoch: 233 learning rate update to 1.000e-04 
+Epoch: 233   Batch: 10	Speed: 303.638739 samples/sec	loss=0.071671	acc=0.974219
+Epoch: 233   Batch: 20	Speed: 570.905440 samples/sec	loss=0.077945	acc=0.972656
+Epoch: 233   Batch: 30	Speed: 571.740873 samples/sec	loss=0.081768	acc=0.971615
+Epoch: 234 learning rate update to 1.000e-04 
+Epoch: 234   Batch: 10	Speed: 290.737871 samples/sec	loss=0.089285	acc=0.971094
+Epoch: 234   Batch: 20	Speed: 568.839342 samples/sec	loss=0.090795	acc=0.968750
+Epoch: 234   Batch: 30	Speed: 571.735941 samples/sec	loss=0.090697	acc=0.968229
+Epoch: 235 learning rate update to 1.000e-04 
+Epoch: 235   Batch: 10	Speed: 293.823303 samples/sec	loss=0.095496	acc=0.973437
+Epoch: 235   Batch: 20	Speed: 569.882011 samples/sec	loss=0.087197	acc=0.974219
+Epoch: 235   Batch: 30	Speed: 572.204055 samples/sec	loss=0.089351	acc=0.973437
+Epoch: 236 learning rate update to 1.000e-04 
+Epoch: 236   Batch: 10	Speed: 326.638203 samples/sec	loss=0.084549	acc=0.974219
+Epoch: 236   Batch: 20	Speed: 571.726322 samples/sec	loss=0.087149	acc=0.972656
+Epoch: 236   Batch: 30	Speed: 571.573968 samples/sec	loss=0.083605	acc=0.974479
+Epoch: 237 learning rate update to 1.000e-04 
+Epoch: 237   Batch: 10	Speed: 302.443214 samples/sec	loss=0.078561	acc=0.972656
+Epoch: 237   Batch: 20	Speed: 571.162783 samples/sec	loss=0.084230	acc=0.971484
+Epoch: 237   Batch: 30	Speed: 571.554557 samples/sec	loss=0.084333	acc=0.970833
+Epoch: 238 learning rate update to 1.000e-04 
+Epoch: 238   Batch: 10	Speed: 301.777018 samples/sec	loss=0.106581	acc=0.963281
+Epoch: 238   Batch: 20	Speed: 569.362977 samples/sec	loss=0.110945	acc=0.962891
+Epoch: 238   Batch: 30	Speed: 571.780088 samples/sec	loss=0.101347	acc=0.965625
+Epoch: 239 learning rate update to 1.000e-04 
+Epoch: 239   Batch: 10	Speed: 305.737146 samples/sec	loss=0.079856	acc=0.974219
+Epoch: 239   Batch: 20	Speed: 569.732272 samples/sec	loss=0.087146	acc=0.973437
+Epoch: 239   Batch: 30	Speed: 571.812242 samples/sec	loss=0.087120	acc=0.972656
+Epoch: 240 learning rate update to 1.000e-04 
+Epoch: 240   Batch: 10	Speed: 310.804820 samples/sec	loss=0.096501	acc=0.966406
+Epoch: 240   Batch: 20	Speed: 570.688606 samples/sec	loss=0.102152	acc=0.964844
+Epoch: 240   Batch: 30	Speed: 571.922132 samples/sec	loss=0.093579	acc=0.970573
+Epoch: 241 learning rate update to 1.000e-04 
+Epoch: 241   Batch: 10	Speed: 316.329274 samples/sec	loss=0.085639	acc=0.970313
+Epoch: 241   Batch: 20	Speed: 569.471565 samples/sec	loss=0.084461	acc=0.969141
+Epoch: 241   Batch: 30	Speed: 572.261936 samples/sec	loss=0.085871	acc=0.968490
+Epoch: 242 learning rate update to 1.000e-04 
+Epoch: 242   Batch: 10	Speed: 292.598839 samples/sec	loss=0.080845	acc=0.971094
+Epoch: 242   Batch: 20	Speed: 569.897800 samples/sec	loss=0.081067	acc=0.971094
+Epoch: 242   Batch: 30	Speed: 571.372619 samples/sec	loss=0.079945	acc=0.973177
+Epoch: 243 learning rate update to 1.000e-04 
+Epoch: 243   Batch: 10	Speed: 308.559180 samples/sec	loss=0.085304	acc=0.975781
+Epoch: 243   Batch: 20	Speed: 560.198297 samples/sec	loss=0.088481	acc=0.972656
+Epoch: 243   Batch: 30	Speed: 571.815288 samples/sec	loss=0.087474	acc=0.971615
+Epoch: 244 learning rate update to 1.000e-04 
+Epoch: 244   Batch: 10	Speed: 310.717632 samples/sec	loss=0.089819	acc=0.971094
+Epoch: 244   Batch: 20	Speed: 571.026035 samples/sec	loss=0.084692	acc=0.973437
+Epoch: 244   Batch: 30	Speed: 570.859243 samples/sec	loss=0.088987	acc=0.970833
+Epoch: 245 learning rate update to 1.000e-04 
+Epoch: 245   Batch: 10	Speed: 313.523415 samples/sec	loss=0.091413	acc=0.976562
+Epoch: 245   Batch: 20	Speed: 569.997999 samples/sec	loss=0.097269	acc=0.971875
+Epoch: 245   Batch: 30	Speed: 571.972218 samples/sec	loss=0.089780	acc=0.972396
+Epoch: 246 learning rate update to 1.000e-04 
+Epoch: 246   Batch: 10	Speed: 298.392247 samples/sec	loss=0.082433	acc=0.972656
+Epoch: 246   Batch: 20	Speed: 571.098441 samples/sec	loss=0.088115	acc=0.967969
+Epoch: 246   Batch: 30	Speed: 571.944615 samples/sec	loss=0.093621	acc=0.967448
+Epoch: 247 learning rate update to 1.000e-04 
+Epoch: 247   Batch: 10	Speed: 314.611469 samples/sec	loss=0.089570	acc=0.969531
+Epoch: 247   Batch: 20	Speed: 568.721958 samples/sec	loss=0.093747	acc=0.968750
+Epoch: 247   Batch: 30	Speed: 571.901174 samples/sec	loss=0.086934	acc=0.970573
+Epoch: 248 learning rate update to 1.000e-04 
+Epoch: 248   Batch: 10	Speed: 292.478155 samples/sec	loss=0.112630	acc=0.962500
+Epoch: 248   Batch: 20	Speed: 571.378396 samples/sec	loss=0.110930	acc=0.966406
+Epoch: 248   Batch: 30	Speed: 571.357052 samples/sec	loss=0.102428	acc=0.967448
+Epoch: 249 learning rate update to 1.000e-04 
+Epoch: 249   Batch: 10	Speed: 299.723118 samples/sec	loss=0.100335	acc=0.958594
+Epoch: 249   Batch: 20	Speed: 570.942718 samples/sec	loss=0.096095	acc=0.963672
+Epoch: 249   Batch: 30	Speed: 572.146245 samples/sec	loss=0.091234	acc=0.966667
+Epoch: 250 learning rate update to 1.000e-04 
+Epoch: 250   Batch: 10	Speed: 319.882207 samples/sec	loss=0.086049	acc=0.973437
+Epoch: 250   Batch: 20	Speed: 567.807867 samples/sec	loss=0.089471	acc=0.970703
+Epoch: 250   Batch: 30	Speed: 572.075585 samples/sec	loss=0.094275	acc=0.968750
+Epoch: 251 learning rate update to 1.000e-04 
+Epoch: 251   Batch: 10	Speed: 321.890509 samples/sec	loss=0.098714	acc=0.969531
+Epoch: 251   Batch: 20	Speed: 570.511341 samples/sec	loss=0.104563	acc=0.966406
+Epoch: 251   Batch: 30	Speed: 572.056079 samples/sec	loss=0.099555	acc=0.967187
+Epoch: 252 learning rate update to 1.000e-04 
+Epoch: 252   Batch: 10	Speed: 284.862191 samples/sec	loss=0.094421	acc=0.967969
+Epoch: 252   Batch: 20	Speed: 570.447025 samples/sec	loss=0.090033	acc=0.968750
+Epoch: 252   Batch: 30	Speed: 572.537233 samples/sec	loss=0.088285	acc=0.967448
+Epoch: 253 learning rate update to 1.000e-04 
+Epoch: 253   Batch: 10	Speed: 306.728360 samples/sec	loss=0.071221	acc=0.975781
+Epoch: 253   Batch: 20	Speed: 569.373785 samples/sec	loss=0.082127	acc=0.972656
+Epoch: 253   Batch: 30	Speed: 570.881885 samples/sec	loss=0.092728	acc=0.968490
+Epoch: 254 learning rate update to 1.000e-04 
+Epoch: 254   Batch: 10	Speed: 315.293473 samples/sec	loss=0.101127	acc=0.966406
+Epoch: 254   Batch: 20	Speed: 569.711776 samples/sec	loss=0.102165	acc=0.966406
+Epoch: 254   Batch: 30	Speed: 565.923799 samples/sec	loss=0.096318	acc=0.968490
+Epoch: 255 learning rate update to 1.000e-04 
+Epoch: 255   Batch: 10	Speed: 304.414045 samples/sec	loss=0.093920	acc=0.971094
+Epoch: 255   Batch: 20	Speed: 570.360483 samples/sec	loss=0.102193	acc=0.970703
+Epoch: 255   Batch: 30	Speed: 571.739229 samples/sec	loss=0.093688	acc=0.973177
+Epoch: 256 learning rate update to 1.000e-04 
+Epoch: 256   Batch: 10	Speed: 300.392889 samples/sec	loss=0.089582	acc=0.967969
+Epoch: 256   Batch: 20	Speed: 571.459468 samples/sec	loss=0.092068	acc=0.968359
+Epoch: 256   Batch: 30	Speed: 563.518460 samples/sec	loss=0.088918	acc=0.969531
+Epoch: 257 learning rate update to 1.000e-04 
+Epoch: 257   Batch: 10	Speed: 310.461352 samples/sec	loss=0.097902	acc=0.964844
+Epoch: 257   Batch: 20	Speed: 570.605994 samples/sec	loss=0.083797	acc=0.970313
+Epoch: 257   Batch: 30	Speed: 571.850492 samples/sec	loss=0.084074	acc=0.970573
+Epoch: 258 learning rate update to 1.000e-04 
+Epoch: 258   Batch: 10	Speed: 310.383651 samples/sec	loss=0.071615	acc=0.973437
+Epoch: 258   Batch: 20	Speed: 563.886725 samples/sec	loss=0.073773	acc=0.975000
+Epoch: 258   Batch: 30	Speed: 572.181308 samples/sec	loss=0.079931	acc=0.971615
+Epoch: 259 learning rate update to 1.000e-04 
+Epoch: 259   Batch: 10	Speed: 305.098901 samples/sec	loss=0.074886	acc=0.973437
+Epoch: 259   Batch: 20	Speed: 571.144858 samples/sec	loss=0.081277	acc=0.970313
+Epoch: 259   Batch: 30	Speed: 569.925448 samples/sec	loss=0.083495	acc=0.971615
+Epoch: 260 learning rate update to 1.000e-04 
+Epoch: 260   Batch: 10	Speed: 337.343181 samples/sec	loss=0.084689	acc=0.971094
+Epoch: 260   Batch: 20	Speed: 569.275678 samples/sec	loss=0.085215	acc=0.971094
+Epoch: 260   Batch: 30	Speed: 489.726776 samples/sec	loss=0.081259	acc=0.972656
+Epoch: 261 learning rate update to 1.000e-04 
+Epoch: 261   Batch: 10	Speed: 310.102807 samples/sec	loss=0.096072	acc=0.968750
+Epoch: 261   Batch: 20	Speed: 570.342790 samples/sec	loss=0.088723	acc=0.968750
+Epoch: 261   Batch: 30	Speed: 572.277674 samples/sec	loss=0.090035	acc=0.967969
+Epoch: 262 learning rate update to 1.000e-04 
+Epoch: 262   Batch: 10	Speed: 310.269675 samples/sec	loss=0.078571	acc=0.977344
+Epoch: 262   Batch: 20	Speed: 569.999270 samples/sec	loss=0.087062	acc=0.973047
+Epoch: 262   Batch: 30	Speed: 572.231866 samples/sec	loss=0.085782	acc=0.971875
+Epoch: 263 learning rate update to 1.000e-04 
+Epoch: 263   Batch: 10	Speed: 303.794904 samples/sec	loss=0.088216	acc=0.969531
+Epoch: 263   Batch: 20	Speed: 569.400899 samples/sec	loss=0.087159	acc=0.971094
+Epoch: 263   Batch: 30	Speed: 572.413741 samples/sec	loss=0.095452	acc=0.968490
+Epoch: 264 learning rate update to 1.000e-04 
+Epoch: 264   Batch: 10	Speed: 295.577218 samples/sec	loss=0.085981	acc=0.971094
+Epoch: 264   Batch: 20	Speed: 569.888061 samples/sec	loss=0.088297	acc=0.970703
+Epoch: 264   Batch: 30	Speed: 572.831070 samples/sec	loss=0.088253	acc=0.970573
+Epoch: 265 learning rate update to 1.000e-04 
+Epoch: 265   Batch: 10	Speed: 299.172098 samples/sec	loss=0.102782	acc=0.965625
+Epoch: 265   Batch: 20	Speed: 570.041877 samples/sec	loss=0.101264	acc=0.966797
+Epoch: 265   Batch: 30	Speed: 571.084529 samples/sec	loss=0.089637	acc=0.969531
+Epoch: 266 learning rate update to 1.000e-04 
+Epoch: 266   Batch: 10	Speed: 289.935789 samples/sec	loss=0.092006	acc=0.969531
+Epoch: 266   Batch: 20	Speed: 568.342720 samples/sec	loss=0.088666	acc=0.973828
+Epoch: 266   Batch: 30	Speed: 560.891131 samples/sec	loss=0.093533	acc=0.971094
+Epoch: 267 learning rate update to 1.000e-04 
+Epoch: 267   Batch: 10	Speed: 299.988300 samples/sec	loss=0.071962	acc=0.977344
+Epoch: 267   Batch: 20	Speed: 569.503098 samples/sec	loss=0.075329	acc=0.977734
+Epoch: 267   Batch: 30	Speed: 571.687480 samples/sec	loss=0.083692	acc=0.973958
+Epoch: 268 learning rate update to 1.000e-04 
+Epoch: 268   Batch: 10	Speed: 310.168038 samples/sec	loss=0.077046	acc=0.970313
+Epoch: 268   Batch: 20	Speed: 569.237832 samples/sec	loss=0.080671	acc=0.967969
+Epoch: 268   Batch: 30	Speed: 570.609815 samples/sec	loss=0.087486	acc=0.967448
+Epoch: 269 learning rate update to 1.000e-04 
+Epoch: 269   Batch: 10	Speed: 324.005297 samples/sec	loss=0.092398	acc=0.968750
+Epoch: 269   Batch: 20	Speed: 568.186451 samples/sec	loss=0.095589	acc=0.964844
+Epoch: 269   Batch: 30	Speed: 570.417993 samples/sec	loss=0.093667	acc=0.966146
+Epoch: 270 learning rate update to 1.000e-04 
+Epoch: 270   Batch: 10	Speed: 301.605874 samples/sec	loss=0.103611	acc=0.962500
+Epoch: 270   Batch: 20	Speed: 569.961933 samples/sec	loss=0.094944	acc=0.965625
+Epoch: 270   Batch: 30	Speed: 569.908266 samples/sec	loss=0.093998	acc=0.966667
+Epoch: 271 learning rate update to 1.000e-04 
+Epoch: 271   Batch: 10	Speed: 305.405962 samples/sec	loss=0.093523	acc=0.970313
+Epoch: 271   Batch: 20	Speed: 569.476337 samples/sec	loss=0.094348	acc=0.968750
+Epoch: 271   Batch: 30	Speed: 572.256325 samples/sec	loss=0.094572	acc=0.968229
+Epoch: 272 learning rate update to 1.000e-04 
+Epoch: 272   Batch: 10	Speed: 295.695213 samples/sec	loss=0.071537	acc=0.972656
+Epoch: 272   Batch: 20	Speed: 567.483827 samples/sec	loss=0.079287	acc=0.971875
+Epoch: 272   Batch: 30	Speed: 498.886122 samples/sec	loss=0.081165	acc=0.973177
+Epoch: 273 learning rate update to 1.000e-04 
+Epoch: 273   Batch: 10	Speed: 287.307508 samples/sec	loss=0.067111	acc=0.978125
+Epoch: 273   Batch: 20	Speed: 570.718879 samples/sec	loss=0.073397	acc=0.976172
+Epoch: 273   Batch: 30	Speed: 565.792231 samples/sec	loss=0.078636	acc=0.974740
+Epoch: 274 learning rate update to 1.000e-04 
+Epoch: 274   Batch: 10	Speed: 298.011421 samples/sec	loss=0.108104	acc=0.964844
+Epoch: 274   Batch: 20	Speed: 505.403623 samples/sec	loss=0.098041	acc=0.969531
+Epoch: 274   Batch: 30	Speed: 571.670557 samples/sec	loss=0.094811	acc=0.969010
+Epoch: 275 learning rate update to 1.000e-04 
+Epoch: 275   Batch: 10	Speed: 290.275070 samples/sec	loss=0.090147	acc=0.970313
+Epoch: 275   Batch: 20	Speed: 571.120190 samples/sec	loss=0.095023	acc=0.967969
+Epoch: 275   Batch: 30	Speed: 563.802932 samples/sec	loss=0.094145	acc=0.968750
+Epoch: 276 learning rate update to 1.000e-04 
+Epoch: 276   Batch: 10	Speed: 286.338819 samples/sec	loss=0.080391	acc=0.975000
+Epoch: 276   Batch: 20	Speed: 570.573429 samples/sec	loss=0.081004	acc=0.974219
+Epoch: 276   Batch: 30	Speed: 572.092959 samples/sec	loss=0.078885	acc=0.973958
+Epoch: 277 learning rate update to 1.000e-04 
+Epoch: 277   Batch: 10	Speed: 305.502033 samples/sec	loss=0.077209	acc=0.975781
+Epoch: 277   Batch: 20	Speed: 563.610452 samples/sec	loss=0.086077	acc=0.971484
+Epoch: 277   Batch: 30	Speed: 570.994697 samples/sec	loss=0.087024	acc=0.970052
+Epoch: 278 learning rate update to 1.000e-04 
+Epoch: 278   Batch: 10	Speed: 320.193599 samples/sec	loss=0.100354	acc=0.968750
+Epoch: 278   Batch: 20	Speed: 571.525169 samples/sec	loss=0.095918	acc=0.969531
+Epoch: 278   Batch: 30	Speed: 571.696855 samples/sec	loss=0.091061	acc=0.970313
+Epoch: 279 learning rate update to 1.000e-04 
+Epoch: 279   Batch: 10	Speed: 305.335929 samples/sec	loss=0.087582	acc=0.974219
+Epoch: 279   Batch: 20	Speed: 547.481151 samples/sec	loss=0.082626	acc=0.972266
+Epoch: 279   Batch: 30	Speed: 570.427993 samples/sec	loss=0.090465	acc=0.969792
+Epoch: 280 learning rate update to 1.000e-04 
+Epoch: 280   Batch: 10	Speed: 303.173072 samples/sec	loss=0.087146	acc=0.972656
+Epoch: 280   Batch: 20	Speed: 504.464515 samples/sec	loss=0.078941	acc=0.973047
+Epoch: 280   Batch: 30	Speed: 571.002106 samples/sec	loss=0.084206	acc=0.973437
+Epoch: 281 learning rate update to 1.000e-04 
+Epoch: 281   Batch: 10	Speed: 292.849419 samples/sec	loss=0.082632	acc=0.971875
+Epoch: 281   Batch: 20	Speed: 571.272606 samples/sec	loss=0.082985	acc=0.973828
+Epoch: 281   Batch: 30	Speed: 571.810294 samples/sec	loss=0.088236	acc=0.971615
+Epoch: 282 learning rate update to 1.000e-04 
+Epoch: 282   Batch: 10	Speed: 276.331576 samples/sec	loss=0.103351	acc=0.967187
+Epoch: 282   Batch: 20	Speed: 571.355958 samples/sec	loss=0.098428	acc=0.969141
+Epoch: 282   Batch: 30	Speed: 572.468125 samples/sec	loss=0.090215	acc=0.971094
+Epoch: 283 learning rate update to 1.000e-04 
+Epoch: 283   Batch: 10	Speed: 310.864406 samples/sec	loss=0.077693	acc=0.976562
+Epoch: 283   Batch: 20	Speed: 571.085379 samples/sec	loss=0.086620	acc=0.969922
+Epoch: 283   Batch: 30	Speed: 572.076805 samples/sec	loss=0.085240	acc=0.971354
+Epoch: 284 learning rate update to 1.000e-04 
+Epoch: 284   Batch: 10	Speed: 307.141119 samples/sec	loss=0.100939	acc=0.966406
+Epoch: 284   Batch: 20	Speed: 570.287538 samples/sec	loss=0.090946	acc=0.968359
+Epoch: 284   Batch: 30	Speed: 570.036308 samples/sec	loss=0.089345	acc=0.970313
+Epoch: 285 learning rate update to 1.000e-04 
+Epoch: 285   Batch: 10	Speed: 314.179137 samples/sec	loss=0.082916	acc=0.975781
+Epoch: 285   Batch: 20	Speed: 569.156665 samples/sec	loss=0.094543	acc=0.971094
+Epoch: 285   Batch: 30	Speed: 572.706657 samples/sec	loss=0.093706	acc=0.970052
+Epoch: 286 learning rate update to 1.000e-04 
+Epoch: 286   Batch: 10	Speed: 291.496565 samples/sec	loss=0.083039	acc=0.974219
+Epoch: 286   Batch: 20	Speed: 571.402052 samples/sec	loss=0.075281	acc=0.978125
+Epoch: 286   Batch: 30	Speed: 572.661512 samples/sec	loss=0.077899	acc=0.976562
+Epoch: 287 learning rate update to 1.000e-04 
+Epoch: 287   Batch: 10	Speed: 297.371667 samples/sec	loss=0.105079	acc=0.966406
+Epoch: 287   Batch: 20	Speed: 570.367876 samples/sec	loss=0.103570	acc=0.965625
+Epoch: 287   Batch: 30	Speed: 572.439131 samples/sec	loss=0.100288	acc=0.966406
+Epoch: 288 learning rate update to 1.000e-04 
+Epoch: 288   Batch: 10	Speed: 305.934175 samples/sec	loss=0.109786	acc=0.968750
+Epoch: 288   Batch: 20	Speed: 571.728026 samples/sec	loss=0.094417	acc=0.970313
+Epoch: 288   Batch: 30	Speed: 571.898067 samples/sec	loss=0.089212	acc=0.971354
+Epoch: 289 learning rate update to 1.000e-04 
+Epoch: 289   Batch: 10	Speed: 297.746516 samples/sec	loss=0.096664	acc=0.967969
+Epoch: 289   Batch: 20	Speed: 569.830658 samples/sec	loss=0.088869	acc=0.972656
+Epoch: 289   Batch: 30	Speed: 553.373848 samples/sec	loss=0.087254	acc=0.971875
+Epoch: 290 learning rate update to 1.000e-04 
+Epoch: 290   Batch: 10	Speed: 271.313317 samples/sec	loss=0.097115	acc=0.970313
+Epoch: 290   Batch: 20	Speed: 570.996580 samples/sec	loss=0.087228	acc=0.973437
+Epoch: 290   Batch: 30	Speed: 572.066442 samples/sec	loss=0.088485	acc=0.972917
+Epoch: 291 learning rate update to 1.000e-04 
+Epoch: 291   Batch: 10	Speed: 272.083773 samples/sec	loss=0.072518	acc=0.974219
+Epoch: 291   Batch: 20	Speed: 570.279360 samples/sec	loss=0.077637	acc=0.974219
+Epoch: 291   Batch: 30	Speed: 571.851040 samples/sec	loss=0.079805	acc=0.971875
+Epoch: 292 learning rate update to 1.000e-04 
+Epoch: 292   Batch: 10	Speed: 314.818149 samples/sec	loss=0.086539	acc=0.977344
+Epoch: 292   Batch: 20	Speed: 571.076207 samples/sec	loss=0.094241	acc=0.971875
+Epoch: 292   Batch: 30	Speed: 571.418534 samples/sec	loss=0.091260	acc=0.973437
+Epoch: 293 learning rate update to 1.000e-04 
+Epoch: 293   Batch: 10	Speed: 316.744243 samples/sec	loss=0.099456	acc=0.967969
+Epoch: 293   Batch: 20	Speed: 570.237989 samples/sec	loss=0.099140	acc=0.965625
+Epoch: 293   Batch: 30	Speed: 570.556451 samples/sec	loss=0.095662	acc=0.966406
+Epoch: 294 learning rate update to 1.000e-04 
+Epoch: 294   Batch: 10	Speed: 308.510792 samples/sec	loss=0.077324	acc=0.976562
+Epoch: 294   Batch: 20	Speed: 570.879032 samples/sec	loss=0.078380	acc=0.973047
+Epoch: 294   Batch: 30	Speed: 570.320009 samples/sec	loss=0.079303	acc=0.974219
+Epoch: 295 learning rate update to 1.000e-04 
+Epoch: 295   Batch: 10	Speed: 297.992497 samples/sec	loss=0.072391	acc=0.977344
+Epoch: 295   Batch: 20	Speed: 570.069175 samples/sec	loss=0.090899	acc=0.971875
+Epoch: 295   Batch: 30	Speed: 572.530823 samples/sec	loss=0.090935	acc=0.971615
+Epoch: 296 learning rate update to 1.000e-04 
+Epoch: 296   Batch: 10	Speed: 299.259482 samples/sec	loss=0.089878	acc=0.969531
+Epoch: 296   Batch: 20	Speed: 569.791771 samples/sec	loss=0.081282	acc=0.973828
+Epoch: 296   Batch: 30	Speed: 571.820343 samples/sec	loss=0.078301	acc=0.974479
+Epoch: 297 learning rate update to 1.000e-04 
+Epoch: 297   Batch: 10	Speed: 291.453586 samples/sec	loss=0.100450	acc=0.964844
+Epoch: 297   Batch: 20	Speed: 570.365997 samples/sec	loss=0.092386	acc=0.966016
+Epoch: 297   Batch: 30	Speed: 570.633286 samples/sec	loss=0.088545	acc=0.967969
+Epoch: 298 learning rate update to 1.000e-04 
+Epoch: 298   Batch: 10	Speed: 254.119122 samples/sec	loss=0.068270	acc=0.978125
+Epoch: 298   Batch: 20	Speed: 570.897487 samples/sec	loss=0.067981	acc=0.978906
+Epoch: 298   Batch: 30	Speed: 571.696246 samples/sec	loss=0.073224	acc=0.976302
+Epoch: 299 learning rate update to 1.000e-04 
+Epoch: 299   Batch: 10	Speed: 311.480504 samples/sec	loss=0.084301	acc=0.971875
+Epoch: 299   Batch: 20	Speed: 570.342790 samples/sec	loss=0.084326	acc=0.971875
+Epoch: 299   Batch: 30	Speed: 571.804934 samples/sec	loss=0.079806	acc=0.973177
+Epoch: 300 learning rate update to 1.000e-04 
+Epoch: 300   Batch: 10	Speed: 264.396170 samples/sec	loss=0.097730	acc=0.964844
+Epoch: 300   Batch: 20	Speed: 571.503693 samples/sec	loss=0.093716	acc=0.966406
+Epoch: 300   Batch: 30	Speed: 571.849883 samples/sec	loss=0.088264	acc=0.968229
+Epoch: 301 learning rate update to 1.000e-04 
+Epoch: 301   Batch: 10	Speed: 314.541757 samples/sec	loss=0.101839	acc=0.967969
+Epoch: 301   Batch: 20	Speed: 569.301635 samples/sec	loss=0.096944	acc=0.969141
+Epoch: 301   Batch: 30	Speed: 572.398423 samples/sec	loss=0.091079	acc=0.971615
+Epoch: 302 learning rate update to 1.000e-04 
+Epoch: 302   Batch: 10	Speed: 291.392477 samples/sec	loss=0.075907	acc=0.974219
+Epoch: 302   Batch: 20	Speed: 571.401991 samples/sec	loss=0.072408	acc=0.975781
+Epoch: 302   Batch: 30	Speed: 570.879275 samples/sec	loss=0.072267	acc=0.976042
+Epoch: 303 learning rate update to 1.000e-04 
+Epoch: 303   Batch: 10	Speed: 298.865908 samples/sec	loss=0.071333	acc=0.977344
+Epoch: 303   Batch: 20	Speed: 570.430963 samples/sec	loss=0.075048	acc=0.974609
+Epoch: 303   Batch: 30	Speed: 565.365741 samples/sec	loss=0.075411	acc=0.974219
+Epoch: 304 learning rate update to 1.000e-04 
+Epoch: 304   Batch: 10	Speed: 286.236733 samples/sec	loss=0.100789	acc=0.967969
+Epoch: 304   Batch: 20	Speed: 570.784956 samples/sec	loss=0.094525	acc=0.966406
+Epoch: 304   Batch: 30	Speed: 570.828531 samples/sec	loss=0.095983	acc=0.967187
+Epoch: 305 learning rate update to 1.000e-04 
+Epoch: 305   Batch: 10	Speed: 305.290751 samples/sec	loss=0.069057	acc=0.976562
+Epoch: 305   Batch: 20	Speed: 569.025037 samples/sec	loss=0.081222	acc=0.971875
+Epoch: 305   Batch: 30	Speed: 571.850187 samples/sec	loss=0.074708	acc=0.973437
+Epoch: 306 learning rate update to 1.000e-04 
+Epoch: 306   Batch: 10	Speed: 272.356615 samples/sec	loss=0.090785	acc=0.969531
+Epoch: 306   Batch: 20	Speed: 571.110166 samples/sec	loss=0.086219	acc=0.970703
+Epoch: 306   Batch: 30	Speed: 571.699777 samples/sec	loss=0.086124	acc=0.972135
+Epoch: 307 learning rate update to 1.000e-04 
+Epoch: 307   Batch: 10	Speed: 299.000731 samples/sec	loss=0.074950	acc=0.975000
+Epoch: 307   Batch: 20	Speed: 569.691645 samples/sec	loss=0.083299	acc=0.971094
+Epoch: 307   Batch: 30	Speed: 571.659113 samples/sec	loss=0.084359	acc=0.971094
+Epoch: 308 learning rate update to 1.000e-04 
+Epoch: 308   Batch: 10	Speed: 305.717403 samples/sec	loss=0.111477	acc=0.964063
+Epoch: 308   Batch: 20	Speed: 570.928753 samples/sec	loss=0.108044	acc=0.964063
+Epoch: 308   Batch: 30	Speed: 571.249933 samples/sec	loss=0.101970	acc=0.965104
+Epoch: 309 learning rate update to 1.000e-04 
+Epoch: 309   Batch: 10	Speed: 317.302744 samples/sec	loss=0.116440	acc=0.964844
+Epoch: 309   Batch: 20	Speed: 571.009090 samples/sec	loss=0.099525	acc=0.969141
+Epoch: 309   Batch: 30	Speed: 571.503632 samples/sec	loss=0.097364	acc=0.969271
+Epoch: 310 learning rate update to 1.000e-04 
+Epoch: 310   Batch: 10	Speed: 307.590901 samples/sec	loss=0.092098	acc=0.970313
+Epoch: 310   Batch: 20	Speed: 570.742299 samples/sec	loss=0.090231	acc=0.968359
+Epoch: 310   Batch: 30	Speed: 571.783254 samples/sec	loss=0.084939	acc=0.969792
+Epoch: 311 learning rate update to 1.000e-04 
+Epoch: 311   Batch: 10	Speed: 312.867343 samples/sec	loss=0.096248	acc=0.969531
+Epoch: 311   Batch: 20	Speed: 569.969739 samples/sec	loss=0.093627	acc=0.970703
+Epoch: 311   Batch: 30	Speed: 572.745026 samples/sec	loss=0.083339	acc=0.973698
+Epoch: 312 learning rate update to 1.000e-04 
+Epoch: 312   Batch: 10	Speed: 304.078263 samples/sec	loss=0.072435	acc=0.978125
+Epoch: 312   Batch: 20	Speed: 570.389691 samples/sec	loss=0.082006	acc=0.973437
+Epoch: 312   Batch: 30	Speed: 571.869009 samples/sec	loss=0.092526	acc=0.970313
+Epoch: 313 learning rate update to 1.000e-04 
+Epoch: 313   Batch: 10	Speed: 284.351822 samples/sec	loss=0.072279	acc=0.975781
+Epoch: 313   Batch: 20	Speed: 569.615788 samples/sec	loss=0.065468	acc=0.977344
+Epoch: 313   Batch: 30	Speed: 571.181074 samples/sec	loss=0.073686	acc=0.974219
+Epoch: 314 learning rate update to 1.000e-04 
+Epoch: 314   Batch: 10	Speed: 294.261492 samples/sec	loss=0.099814	acc=0.968750
+Epoch: 314   Batch: 20	Speed: 562.324473 samples/sec	loss=0.090387	acc=0.971484
+Epoch: 314   Batch: 30	Speed: 572.417708 samples/sec	loss=0.087795	acc=0.972396
+Epoch: 315 learning rate update to 1.000e-04 
+Epoch: 315   Batch: 10	Speed: 298.998200 samples/sec	loss=0.091840	acc=0.968750
+Epoch: 315   Batch: 20	Speed: 571.198697 samples/sec	loss=0.093509	acc=0.969531
+Epoch: 315   Batch: 30	Speed: 571.851893 samples/sec	loss=0.089426	acc=0.971094
+Epoch: 316 learning rate update to 1.000e-04 
+Epoch: 316   Batch: 10	Speed: 312.084227 samples/sec	loss=0.106747	acc=0.963281
+Epoch: 316   Batch: 20	Speed: 569.631683 samples/sec	loss=0.092105	acc=0.968359
+Epoch: 316   Batch: 30	Speed: 571.873456 samples/sec	loss=0.095418	acc=0.967969
+Epoch: 317 learning rate update to 1.000e-04 
+Epoch: 317   Batch: 10	Speed: 294.466485 samples/sec	loss=0.103794	acc=0.967187
+Epoch: 317   Batch: 20	Speed: 571.241058 samples/sec	loss=0.096775	acc=0.967969
+Epoch: 317   Batch: 30	Speed: 571.117152 samples/sec	loss=0.094334	acc=0.968229
+Epoch: 318 learning rate update to 1.000e-04 
+Epoch: 318   Batch: 10	Speed: 309.547496 samples/sec	loss=0.099359	acc=0.962500
+Epoch: 318   Batch: 20	Speed: 570.899490 samples/sec	loss=0.087263	acc=0.967578
+Epoch: 318   Batch: 30	Speed: 571.026217 samples/sec	loss=0.087617	acc=0.969271
+Epoch: 319 learning rate update to 1.000e-04 
+Epoch: 319   Batch: 10	Speed: 324.591429 samples/sec	loss=0.099568	acc=0.970313
+Epoch: 319   Batch: 20	Speed: 568.295132 samples/sec	loss=0.087196	acc=0.972266
+Epoch: 319   Batch: 30	Speed: 570.811537 samples/sec	loss=0.085972	acc=0.971875
+Epoch: 320 learning rate update to 1.000e-04 
+Epoch: 320   Batch: 10	Speed: 303.529301 samples/sec	loss=0.078612	acc=0.977344
+Epoch: 320   Batch: 20	Speed: 568.109792 samples/sec	loss=0.086518	acc=0.973828
+Epoch: 320   Batch: 30	Speed: 572.052849 samples/sec	loss=0.088847	acc=0.971875
+Epoch: 321 learning rate update to 1.000e-04 
+Epoch: 321   Batch: 10	Speed: 300.872860 samples/sec	loss=0.084792	acc=0.969531
+Epoch: 321   Batch: 20	Speed: 570.453025 samples/sec	loss=0.082817	acc=0.972266
+Epoch: 321   Batch: 30	Speed: 571.521336 samples/sec	loss=0.088340	acc=0.970313
+Epoch: 322 learning rate update to 1.000e-04 
+Epoch: 322   Batch: 10	Speed: 326.363253 samples/sec	loss=0.084073	acc=0.968750
+Epoch: 322   Batch: 20	Speed: 571.022209 samples/sec	loss=0.081414	acc=0.971484
+Epoch: 322   Batch: 30	Speed: 571.797200 samples/sec	loss=0.079896	acc=0.972917
+Epoch: 323 learning rate update to 1.000e-04 
+Epoch: 323   Batch: 10	Speed: 290.280877 samples/sec	loss=0.085846	acc=0.972656
+Epoch: 323   Batch: 20	Speed: 571.091333 samples/sec	loss=0.078594	acc=0.973437
+Epoch: 323   Batch: 30	Speed: 572.433516 samples/sec	loss=0.081926	acc=0.973437
+Epoch: 324 learning rate update to 1.000e-04 
+Epoch: 324   Batch: 10	Speed: 299.309934 samples/sec	loss=0.074028	acc=0.976562
+Epoch: 324   Batch: 20	Speed: 571.213040 samples/sec	loss=0.085110	acc=0.974609
+Epoch: 324   Batch: 30	Speed: 571.948453 samples/sec	loss=0.084945	acc=0.973698
+Epoch: 325 learning rate update to 1.000e-04 
+Epoch: 325   Batch: 10	Speed: 320.203586 samples/sec	loss=0.075508	acc=0.977344
+Epoch: 325   Batch: 20	Speed: 570.542080 samples/sec	loss=0.076843	acc=0.975391
+Epoch: 325   Batch: 30	Speed: 571.533140 samples/sec	loss=0.078906	acc=0.974740
+Epoch: 326 learning rate update to 1.000e-04 
+Epoch: 326   Batch: 10	Speed: 297.730863 samples/sec	loss=0.096041	acc=0.966406
+Epoch: 326   Batch: 20	Speed: 571.432644 samples/sec	loss=0.093202	acc=0.967578
+Epoch: 326   Batch: 30	Speed: 572.050289 samples/sec	loss=0.094710	acc=0.966667
+Epoch: 327 learning rate update to 1.000e-04 
+Epoch: 327   Batch: 10	Speed: 293.222459 samples/sec	loss=0.083349	acc=0.971875
+Epoch: 327   Batch: 20	Speed: 570.960327 samples/sec	loss=0.072835	acc=0.976172
+Epoch: 327   Batch: 30	Speed: 572.060285 samples/sec	loss=0.069195	acc=0.978385
+Epoch: 328 learning rate update to 1.000e-04 
+Epoch: 328   Batch: 10	Speed: 305.863254 samples/sec	loss=0.087298	acc=0.975000
+Epoch: 328   Batch: 20	Speed: 570.234476 samples/sec	loss=0.080884	acc=0.976172
+Epoch: 328   Batch: 30	Speed: 571.275280 samples/sec	loss=0.084648	acc=0.974740
+Epoch: 329 learning rate update to 1.000e-04 
+Epoch: 329   Batch: 10	Speed: 287.858739 samples/sec	loss=0.083378	acc=0.973437
+Epoch: 329   Batch: 20	Speed: 571.696124 samples/sec	loss=0.077131	acc=0.977344
+Epoch: 329   Batch: 30	Speed: 570.868956 samples/sec	loss=0.080031	acc=0.976042
+Epoch: 330 learning rate update to 1.000e-04 
+Epoch: 330   Batch: 10	Speed: 275.431795 samples/sec	loss=0.087942	acc=0.968750
+Epoch: 330   Batch: 20	Speed: 570.053559 samples/sec	loss=0.088226	acc=0.971875
+Epoch: 330   Batch: 30	Speed: 572.469895 samples/sec	loss=0.086075	acc=0.972656
+Epoch: 331 learning rate update to 1.000e-04 
+Epoch: 331   Batch: 10	Speed: 307.082810 samples/sec	loss=0.084340	acc=0.973437
+Epoch: 331   Batch: 20	Speed: 571.010183 samples/sec	loss=0.078628	acc=0.973828
+Epoch: 331   Batch: 30	Speed: 571.214924 samples/sec	loss=0.087397	acc=0.970573
+Epoch: 332 learning rate update to 1.000e-04 
+Epoch: 332   Batch: 10	Speed: 295.752193 samples/sec	loss=0.063293	acc=0.977344
+Epoch: 332   Batch: 20	Speed: 525.750912 samples/sec	loss=0.073181	acc=0.976562
+Epoch: 332   Batch: 30	Speed: 572.494497 samples/sec	loss=0.078025	acc=0.974479
+Epoch: 333 learning rate update to 1.000e-04 
+Epoch: 333   Batch: 10	Speed: 292.197211 samples/sec	loss=0.081401	acc=0.972656
+Epoch: 333   Batch: 20	Speed: 552.989505 samples/sec	loss=0.080694	acc=0.973828
+Epoch: 333   Batch: 30	Speed: 571.475892 samples/sec	loss=0.076366	acc=0.975260
+Epoch: 334 learning rate update to 1.000e-04 
+Epoch: 334   Batch: 10	Speed: 290.020241 samples/sec	loss=0.061857	acc=0.975000
+Epoch: 334   Batch: 20	Speed: 569.624431 samples/sec	loss=0.074751	acc=0.973047
+Epoch: 334   Batch: 30	Speed: 572.451644 samples/sec	loss=0.080898	acc=0.972135
+Epoch: 335 learning rate update to 1.000e-04 
+Epoch: 335   Batch: 10	Speed: 293.172566 samples/sec	loss=0.079873	acc=0.976562
+Epoch: 335   Batch: 20	Speed: 570.598232 samples/sec	loss=0.074867	acc=0.975781
+Epoch: 335   Batch: 30	Speed: 571.545674 samples/sec	loss=0.076856	acc=0.976042
+Epoch: 336 learning rate update to 1.000e-04 
+Epoch: 336   Batch: 10	Speed: 309.995910 samples/sec	loss=0.086268	acc=0.968750
+Epoch: 336   Batch: 20	Speed: 570.615455 samples/sec	loss=0.080215	acc=0.969922
+Epoch: 336   Batch: 30	Speed: 572.257972 samples/sec	loss=0.080635	acc=0.971354
+Epoch: 337 learning rate update to 1.000e-04 
+Epoch: 337   Batch: 10	Speed: 309.171881 samples/sec	loss=0.090037	acc=0.969531
+Epoch: 337   Batch: 20	Speed: 570.324250 samples/sec	loss=0.085094	acc=0.971875
+Epoch: 337   Batch: 30	Speed: 572.116614 samples/sec	loss=0.081631	acc=0.972917
+Epoch: 338 learning rate update to 1.000e-04 
+Epoch: 338   Batch: 10	Speed: 304.916626 samples/sec	loss=0.078684	acc=0.976562
+Epoch: 338   Batch: 20	Speed: 569.449216 samples/sec	loss=0.084699	acc=0.971484
+Epoch: 338   Batch: 30	Speed: 571.473398 samples/sec	loss=0.079784	acc=0.973437
+Epoch: 339 learning rate update to 1.000e-04 
+Epoch: 339   Batch: 10	Speed: 308.681310 samples/sec	loss=0.072401	acc=0.976562
+Epoch: 339   Batch: 20	Speed: 569.859267 samples/sec	loss=0.080718	acc=0.971875
+Epoch: 339   Batch: 30	Speed: 518.416928 samples/sec	loss=0.081525	acc=0.971875
+Epoch: 340 learning rate update to 1.000e-04 
+Epoch: 340   Batch: 10	Speed: 301.046127 samples/sec	loss=0.088408	acc=0.976562
+Epoch: 340   Batch: 20	Speed: 570.698495 samples/sec	loss=0.093871	acc=0.972656
+Epoch: 340   Batch: 30	Speed: 571.898616 samples/sec	loss=0.085214	acc=0.974740
+Epoch: 341 learning rate update to 1.000e-04 
+Epoch: 341   Batch: 10	Speed: 276.184545 samples/sec	loss=0.085228	acc=0.971875
+Epoch: 341   Batch: 20	Speed: 570.166649 samples/sec	loss=0.083010	acc=0.971094
+Epoch: 341   Batch: 30	Speed: 570.871384 samples/sec	loss=0.080283	acc=0.973698
+Epoch: 342 learning rate update to 1.000e-04 
+Epoch: 342   Batch: 10	Speed: 299.483076 samples/sec	loss=0.064790	acc=0.978125
+Epoch: 342   Batch: 20	Speed: 570.327219 samples/sec	loss=0.077361	acc=0.974609
+Epoch: 342   Batch: 30	Speed: 572.056262 samples/sec	loss=0.074384	acc=0.975521
+Epoch: 343 learning rate update to 1.000e-04 
+Epoch: 343   Batch: 10	Speed: 296.438652 samples/sec	loss=0.084932	acc=0.975781
+Epoch: 343   Batch: 20	Speed: 570.714147 samples/sec	loss=0.089851	acc=0.971875
+Epoch: 343   Batch: 30	Speed: 572.269378 samples/sec	loss=0.088356	acc=0.971875
+Epoch: 344 learning rate update to 1.000e-04 
+Epoch: 344   Batch: 10	Speed: 272.263342 samples/sec	loss=0.088228	acc=0.972656
+Epoch: 344   Batch: 20	Speed: 568.293448 samples/sec	loss=0.083219	acc=0.973047
+Epoch: 344   Batch: 30	Speed: 565.635335 samples/sec	loss=0.082750	acc=0.972917
+Epoch: 345 learning rate update to 1.000e-04 
+Epoch: 345   Batch: 10	Speed: 314.481637 samples/sec	loss=0.101869	acc=0.967969
+Epoch: 345   Batch: 20	Speed: 567.359027 samples/sec	loss=0.092632	acc=0.971875
+Epoch: 345   Batch: 30	Speed: 571.920000 samples/sec	loss=0.092232	acc=0.971615
+Epoch: 346 learning rate update to 1.000e-04 
+Epoch: 346   Batch: 10	Speed: 309.792383 samples/sec	loss=0.083764	acc=0.976562
+Epoch: 346   Batch: 20	Speed: 570.961238 samples/sec	loss=0.087646	acc=0.973047
+Epoch: 346   Batch: 30	Speed: 557.436761 samples/sec	loss=0.085249	acc=0.973958
+Epoch: 347 learning rate update to 1.000e-04 
+Epoch: 347   Batch: 10	Speed: 298.689673 samples/sec	loss=0.071309	acc=0.976562
+Epoch: 347   Batch: 20	Speed: 569.248394 samples/sec	loss=0.079470	acc=0.976172
+Epoch: 347   Batch: 30	Speed: 571.095160 samples/sec	loss=0.086307	acc=0.973437
+Epoch: 348 learning rate update to 1.000e-04 
+Epoch: 348   Batch: 10	Speed: 333.899718 samples/sec	loss=0.066303	acc=0.982031
+Epoch: 348   Batch: 20	Speed: 561.263010 samples/sec	loss=0.076870	acc=0.976562
+Epoch: 348   Batch: 30	Speed: 571.527238 samples/sec	loss=0.084061	acc=0.975000
+Epoch: 349 learning rate update to 1.000e-04 
+Epoch: 349   Batch: 10	Speed: 325.803053 samples/sec	loss=0.078579	acc=0.975781
+Epoch: 349   Batch: 20	Speed: 544.183486 samples/sec	loss=0.085838	acc=0.971484
+Epoch: 349   Batch: 30	Speed: 572.357293 samples/sec	loss=0.092146	acc=0.970573
+Epoch: 350 learning rate update to 1.000e-04 
+Epoch: 350   Batch: 10	Speed: 320.677663 samples/sec	loss=0.087715	acc=0.974219
+Epoch: 350   Batch: 20	Speed: 571.160899 samples/sec	loss=0.085383	acc=0.973047
+Epoch: 350   Batch: 30	Speed: 572.226193 samples/sec	loss=0.082542	acc=0.973958
+Epoch: 351 learning rate update to 1.000e-04 
+Epoch: 351   Batch: 10	Speed: 277.258501 samples/sec	loss=0.088030	acc=0.972656
+Epoch: 351   Batch: 20	Speed: 569.058934 samples/sec	loss=0.093156	acc=0.969141
+Epoch: 351   Batch: 30	Speed: 571.705804 samples/sec	loss=0.084495	acc=0.973437
+Epoch: 352 learning rate update to 1.000e-04 
+Epoch: 352   Batch: 10	Speed: 291.629953 samples/sec	loss=0.078248	acc=0.975000
+Epoch: 352   Batch: 20	Speed: 570.593198 samples/sec	loss=0.077402	acc=0.975391
+Epoch: 352   Batch: 30	Speed: 571.373653 samples/sec	loss=0.079539	acc=0.974219
+Epoch: 353 learning rate update to 1.000e-04 
+Epoch: 353   Batch: 10	Speed: 327.361230 samples/sec	loss=0.083073	acc=0.970313
+Epoch: 353   Batch: 20	Speed: 571.159016 samples/sec	loss=0.085107	acc=0.968750
+Epoch: 353   Batch: 30	Speed: 570.983341 samples/sec	loss=0.084381	acc=0.970313
+Epoch: 354 learning rate update to 1.000e-04 
+Epoch: 354   Batch: 10	Speed: 333.697222 samples/sec	loss=0.086205	acc=0.965625
+Epoch: 354   Batch: 20	Speed: 571.095889 samples/sec	loss=0.097250	acc=0.964844
+Epoch: 354   Batch: 30	Speed: 571.066791 samples/sec	loss=0.089009	acc=0.967448
+Epoch: 355 learning rate update to 1.000e-04 
+Epoch: 355   Batch: 10	Speed: 327.313630 samples/sec	loss=0.088378	acc=0.969531
+Epoch: 355   Batch: 20	Speed: 570.876422 samples/sec	loss=0.086401	acc=0.973047
+Epoch: 355   Batch: 30	Speed: 572.005004 samples/sec	loss=0.085802	acc=0.972656
+Epoch: 356 learning rate update to 1.000e-04 
+Epoch: 356   Batch: 10	Speed: 301.034851 samples/sec	loss=0.076456	acc=0.975781
+Epoch: 356   Batch: 20	Speed: 546.303887 samples/sec	loss=0.095525	acc=0.969141
+Epoch: 356   Batch: 30	Speed: 565.146015 samples/sec	loss=0.095044	acc=0.969792
+Epoch: 357 learning rate update to 1.000e-04 
+Epoch: 357   Batch: 10	Speed: 296.855447 samples/sec	loss=0.076866	acc=0.976562
+Epoch: 357   Batch: 20	Speed: 570.308317 samples/sec	loss=0.078851	acc=0.976172
+Epoch: 357   Batch: 30	Speed: 572.211312 samples/sec	loss=0.079346	acc=0.975781
+Epoch: 358 learning rate update to 1.000e-04 
+Epoch: 358   Batch: 10	Speed: 319.293764 samples/sec	loss=0.082598	acc=0.970313
+Epoch: 358   Batch: 20	Speed: 531.734990 samples/sec	loss=0.078674	acc=0.972266
+Epoch: 358   Batch: 30	Speed: 569.658399 samples/sec	loss=0.076884	acc=0.972917
+Epoch: 359 learning rate update to 1.000e-04 
+Epoch: 359   Batch: 10	Speed: 298.779236 samples/sec	loss=0.077360	acc=0.973437
+Epoch: 359   Batch: 20	Speed: 510.396347 samples/sec	loss=0.073928	acc=0.974609
+Epoch: 359   Batch: 30	Speed: 572.140331 samples/sec	loss=0.075199	acc=0.974740
+Epoch: 360 learning rate update to 1.000e-04 
+Epoch: 360   Batch: 10	Speed: 322.944596 samples/sec	loss=0.076498	acc=0.975781
+Epoch: 360   Batch: 20	Speed: 569.746843 samples/sec	loss=0.076418	acc=0.975781
+Epoch: 360   Batch: 30	Speed: 569.707605 samples/sec	loss=0.082890	acc=0.973958
+Epoch: 361 learning rate update to 1.000e-04 
+Epoch: 361   Batch: 10	Speed: 278.586031 samples/sec	loss=0.093145	acc=0.970313
+Epoch: 361   Batch: 20	Speed: 534.700616 samples/sec	loss=0.089163	acc=0.972266
+Epoch: 361   Batch: 30	Speed: 570.083885 samples/sec	loss=0.085673	acc=0.972396
+Epoch: 362 learning rate update to 1.000e-04 
+Epoch: 362   Batch: 10	Speed: 300.462842 samples/sec	loss=0.084855	acc=0.968750
+Epoch: 362   Batch: 20	Speed: 571.136291 samples/sec	loss=0.087905	acc=0.970703
+Epoch: 362   Batch: 30	Speed: 572.141855 samples/sec	loss=0.088765	acc=0.970052
+Epoch: 363 learning rate update to 1.000e-04 
+Epoch: 363   Batch: 10	Speed: 300.316752 samples/sec	loss=0.083934	acc=0.971875
+Epoch: 363   Batch: 20	Speed: 569.878321 samples/sec	loss=0.099806	acc=0.967969
+Epoch: 363   Batch: 30	Speed: 560.689507 samples/sec	loss=0.090944	acc=0.969271
+Epoch: 364 learning rate update to 1.000e-04 
+Epoch: 364   Batch: 10	Speed: 280.706572 samples/sec	loss=0.071793	acc=0.979688
+Epoch: 364   Batch: 20	Speed: 570.295352 samples/sec	loss=0.079047	acc=0.976562
+Epoch: 364   Batch: 30	Speed: 572.342344 samples/sec	loss=0.088278	acc=0.972656
+Epoch: 365 learning rate update to 1.000e-04 
+Epoch: 365   Batch: 10	Speed: 332.467150 samples/sec	loss=0.078489	acc=0.977344
+Epoch: 365   Batch: 20	Speed: 529.287806 samples/sec	loss=0.083974	acc=0.974609
+Epoch: 365   Batch: 30	Speed: 564.460796 samples/sec	loss=0.094445	acc=0.970313
+Epoch: 366 learning rate update to 1.000e-04 
+Epoch: 366   Batch: 10	Speed: 322.582996 samples/sec	loss=0.076149	acc=0.975781
+Epoch: 366   Batch: 20	Speed: 567.623625 samples/sec	loss=0.087728	acc=0.973828
+Epoch: 366   Batch: 30	Speed: 571.140969 samples/sec	loss=0.083807	acc=0.973698
+Epoch: 367 learning rate update to 1.000e-04 
+Epoch: 367   Batch: 10	Speed: 280.025983 samples/sec	loss=0.100968	acc=0.962500
+Epoch: 367   Batch: 20	Speed: 562.177030 samples/sec	loss=0.084979	acc=0.971094
+Epoch: 367   Batch: 30	Speed: 572.213874 samples/sec	loss=0.079409	acc=0.973437
+Epoch: 368 learning rate update to 1.000e-04 
+Epoch: 368   Batch: 10	Speed: 313.316676 samples/sec	loss=0.063472	acc=0.981250
+Epoch: 368   Batch: 20	Speed: 571.170865 samples/sec	loss=0.070438	acc=0.978125
+Epoch: 368   Batch: 30	Speed: 572.517391 samples/sec	loss=0.079176	acc=0.976042
+Epoch: 369 learning rate update to 1.000e-04 
+Epoch: 369   Batch: 10	Speed: 310.324966 samples/sec	loss=0.081988	acc=0.973437
+Epoch: 369   Batch: 20	Speed: 563.542357 samples/sec	loss=0.087238	acc=0.969922
+Epoch: 369   Batch: 30	Speed: 572.042974 samples/sec	loss=0.084664	acc=0.971354
+Epoch: 370 learning rate update to 1.000e-04 
+Epoch: 370   Batch: 10	Speed: 296.641690 samples/sec	loss=0.075384	acc=0.974219
+Epoch: 370   Batch: 20	Speed: 569.515120 samples/sec	loss=0.078223	acc=0.974609
+Epoch: 370   Batch: 30	Speed: 572.306835 samples/sec	loss=0.081170	acc=0.973177
+Epoch: 371 learning rate update to 1.000e-04 
+Epoch: 371   Batch: 10	Speed: 317.490576 samples/sec	loss=0.068059	acc=0.980469
+Epoch: 371   Batch: 20	Speed: 569.929683 samples/sec	loss=0.072836	acc=0.978516
+Epoch: 371   Batch: 30	Speed: 571.389829 samples/sec	loss=0.075576	acc=0.975260
+Epoch: 372 learning rate update to 1.000e-04 
+Epoch: 372   Batch: 10	Speed: 304.758580 samples/sec	loss=0.090129	acc=0.966406
+Epoch: 372   Batch: 20	Speed: 570.885163 samples/sec	loss=0.096019	acc=0.966406
+Epoch: 372   Batch: 30	Speed: 571.225742 samples/sec	loss=0.092841	acc=0.968229
+Epoch: 373 learning rate update to 1.000e-04 
+Epoch: 373   Batch: 10	Speed: 310.467977 samples/sec	loss=0.073202	acc=0.974219
+Epoch: 373   Batch: 20	Speed: 570.199349 samples/sec	loss=0.062570	acc=0.979688
+Epoch: 373   Batch: 30	Speed: 571.227079 samples/sec	loss=0.071430	acc=0.976042
+Epoch: 374 learning rate update to 1.000e-04 
+Epoch: 374   Batch: 10	Speed: 305.472760 samples/sec	loss=0.068716	acc=0.977344
+Epoch: 374   Batch: 20	Speed: 570.630375 samples/sec	loss=0.068459	acc=0.977734
+Epoch: 374   Batch: 30	Speed: 571.995436 samples/sec	loss=0.070570	acc=0.976823
+Epoch: 375 learning rate update to 1.000e-04 
+Epoch: 375   Batch: 10	Speed: 315.679534 samples/sec	loss=0.098013	acc=0.967969
+Epoch: 375   Batch: 20	Speed: 570.617093 samples/sec	loss=0.088280	acc=0.970703
+Epoch: 375   Batch: 30	Speed: 571.831427 samples/sec	loss=0.080125	acc=0.973698
+Epoch: 376 learning rate update to 1.000e-04 
+Epoch: 376   Batch: 10	Speed: 304.775050 samples/sec	loss=0.092464	acc=0.968750
+Epoch: 376   Batch: 20	Speed: 571.695516 samples/sec	loss=0.091294	acc=0.970313
+Epoch: 376   Batch: 30	Speed: 571.466463 samples/sec	loss=0.086747	acc=0.970313
+Epoch: 377 learning rate update to 1.000e-04 
+Epoch: 377   Batch: 10	Speed: 296.913416 samples/sec	loss=0.091039	acc=0.974219
+Epoch: 377   Batch: 20	Speed: 570.009800 samples/sec	loss=0.085118	acc=0.973047
+Epoch: 377   Batch: 30	Speed: 571.327077 samples/sec	loss=0.080507	acc=0.974479
+Epoch: 378 learning rate update to 1.000e-04 
+Epoch: 378   Batch: 10	Speed: 290.366630 samples/sec	loss=0.102838	acc=0.969531
+Epoch: 378   Batch: 20	Speed: 570.596958 samples/sec	loss=0.099182	acc=0.968359
+Epoch: 378   Batch: 30	Speed: 570.672895 samples/sec	loss=0.094074	acc=0.968490
+Epoch: 379 learning rate update to 1.000e-04 
+Epoch: 379   Batch: 10	Speed: 301.086090 samples/sec	loss=0.054621	acc=0.982812
+Epoch: 379   Batch: 20	Speed: 570.720032 samples/sec	loss=0.079082	acc=0.975000
+Epoch: 379   Batch: 30	Speed: 571.429177 samples/sec	loss=0.080566	acc=0.974219
+Epoch: 380 learning rate update to 1.000e-04 
+Epoch: 380   Batch: 10	Speed: 315.713580 samples/sec	loss=0.064331	acc=0.978125
+Epoch: 380   Batch: 20	Speed: 570.783197 samples/sec	loss=0.066683	acc=0.975781
+Epoch: 380   Batch: 30	Speed: 571.196205 samples/sec	loss=0.071031	acc=0.974219
+Epoch: 381 learning rate update to 1.000e-04 
+Epoch: 381   Batch: 10	Speed: 295.769155 samples/sec	loss=0.084930	acc=0.975000
+Epoch: 381   Batch: 20	Speed: 570.834600 samples/sec	loss=0.086608	acc=0.970703
+Epoch: 381   Batch: 30	Speed: 570.612423 samples/sec	loss=0.083956	acc=0.972656
+Epoch: 382 learning rate update to 1.000e-04 
+Epoch: 382   Batch: 10	Speed: 294.582253 samples/sec	loss=0.102474	acc=0.965625
+Epoch: 382   Batch: 20	Speed: 569.390633 samples/sec	loss=0.099888	acc=0.966016
+Epoch: 382   Batch: 30	Speed: 571.827286 samples/sec	loss=0.089525	acc=0.969792
+Epoch: 383 learning rate update to 1.000e-04 
+Epoch: 383   Batch: 10	Speed: 319.017575 samples/sec	loss=0.073105	acc=0.972656
+Epoch: 383   Batch: 20	Speed: 569.727254 samples/sec	loss=0.083130	acc=0.971094
+Epoch: 383   Batch: 30	Speed: 571.980566 samples/sec	loss=0.077783	acc=0.973177
+Epoch: 384 learning rate update to 1.000e-04 
+Epoch: 384   Batch: 10	Speed: 332.384321 samples/sec	loss=0.086836	acc=0.971875
+Epoch: 384   Batch: 20	Speed: 570.627100 samples/sec	loss=0.083065	acc=0.973047
+Epoch: 384   Batch: 30	Speed: 572.183381 samples/sec	loss=0.083993	acc=0.971875
+Epoch: 385 learning rate update to 1.000e-04 
+Epoch: 385   Batch: 10	Speed: 285.382557 samples/sec	loss=0.106558	acc=0.964844
+Epoch: 385   Batch: 20	Speed: 571.000649 samples/sec	loss=0.096129	acc=0.969141
+Epoch: 385   Batch: 30	Speed: 571.978312 samples/sec	loss=0.088885	acc=0.970313
+Epoch: 386 learning rate update to 1.000e-04 
+Epoch: 386   Batch: 10	Speed: 310.073578 samples/sec	loss=0.070515	acc=0.978125
+Epoch: 386   Batch: 20	Speed: 571.222946 samples/sec	loss=0.075284	acc=0.975781
+Epoch: 386   Batch: 30	Speed: 571.801889 samples/sec	loss=0.074432	acc=0.975781
+Epoch: 387 learning rate update to 1.000e-04 
+Epoch: 387   Batch: 10	Speed: 321.829592 samples/sec	loss=0.088464	acc=0.968750
+Epoch: 387   Batch: 20	Speed: 571.008179 samples/sec	loss=0.089470	acc=0.971094
+Epoch: 387   Batch: 30	Speed: 570.529712 samples/sec	loss=0.092297	acc=0.969531
+Epoch: 388 learning rate update to 1.000e-04 
+Epoch: 388   Batch: 10	Speed: 290.475864 samples/sec	loss=0.084436	acc=0.971094
+Epoch: 388   Batch: 20	Speed: 524.872177 samples/sec	loss=0.079912	acc=0.972656
+Epoch: 388   Batch: 30	Speed: 572.354608 samples/sec	loss=0.077948	acc=0.973177
+Epoch: 389 learning rate update to 1.000e-04 
+Epoch: 389   Batch: 10	Speed: 302.004850 samples/sec	loss=0.077582	acc=0.972656
+Epoch: 389   Batch: 20	Speed: 571.347871 samples/sec	loss=0.079855	acc=0.971094
+Epoch: 389   Batch: 30	Speed: 571.532349 samples/sec	loss=0.077066	acc=0.972917
+Epoch: 390 learning rate update to 1.000e-04 
+Epoch: 390   Batch: 10	Speed: 289.893566 samples/sec	loss=0.079052	acc=0.973437
+Epoch: 390   Batch: 20	Speed: 571.367025 samples/sec	loss=0.071883	acc=0.976562
+Epoch: 390   Batch: 30	Speed: 572.278895 samples/sec	loss=0.077063	acc=0.973177
+Epoch: 391 learning rate update to 1.000e-04 
+Epoch: 391   Batch: 10	Speed: 293.629514 samples/sec	loss=0.096770	acc=0.969531
+Epoch: 391   Batch: 20	Speed: 571.716763 samples/sec	loss=0.089551	acc=0.972266
+Epoch: 391   Batch: 30	Speed: 571.709518 samples/sec	loss=0.084297	acc=0.973698
+Epoch: 392 learning rate update to 1.000e-04 
+Epoch: 392   Batch: 10	Speed: 301.817226 samples/sec	loss=0.080207	acc=0.969531
+Epoch: 392   Batch: 20	Speed: 569.491559 samples/sec	loss=0.083482	acc=0.969922
+Epoch: 392   Batch: 30	Speed: 572.608069 samples/sec	loss=0.080286	acc=0.970833
+Epoch: 393 learning rate update to 1.000e-04 
+Epoch: 393   Batch: 10	Speed: 295.560735 samples/sec	loss=0.076084	acc=0.977344
+Epoch: 393   Batch: 20	Speed: 568.824515 samples/sec	loss=0.072490	acc=0.978516
+Epoch: 393   Batch: 30	Speed: 563.958398 samples/sec	loss=0.076749	acc=0.974479
+Epoch: 394 learning rate update to 1.000e-04 
+Epoch: 394   Batch: 10	Speed: 317.350535 samples/sec	loss=0.095735	acc=0.966406
+Epoch: 394   Batch: 20	Speed: 569.987348 samples/sec	loss=0.092105	acc=0.968750
+Epoch: 394   Batch: 30	Speed: 572.156245 samples/sec	loss=0.090208	acc=0.969010
+Epoch: 395 learning rate update to 1.000e-04 
+Epoch: 395   Batch: 10	Speed: 306.927897 samples/sec	loss=0.070820	acc=0.978125
+Epoch: 395   Batch: 20	Speed: 570.689031 samples/sec	loss=0.076854	acc=0.975391
+Epoch: 395   Batch: 30	Speed: 572.339049 samples/sec	loss=0.074166	acc=0.975781
+Epoch: 396 learning rate update to 1.000e-04 
+Epoch: 396   Batch: 10	Speed: 299.641350 samples/sec	loss=0.085505	acc=0.974219
+Epoch: 396   Batch: 20	Speed: 570.392418 samples/sec	loss=0.088385	acc=0.972266
+Epoch: 396   Batch: 30	Speed: 572.732500 samples/sec	loss=0.080615	acc=0.974219
+Epoch: 397 learning rate update to 1.000e-04 
+Epoch: 397   Batch: 10	Speed: 327.945114 samples/sec	loss=0.105289	acc=0.960156
+Epoch: 397   Batch: 20	Speed: 570.750611 samples/sec	loss=0.089550	acc=0.967969
+Epoch: 397   Batch: 30	Speed: 571.570135 samples/sec	loss=0.089736	acc=0.969010
+Epoch: 398 learning rate update to 1.000e-04 
+Epoch: 398   Batch: 10	Speed: 297.574122 samples/sec	loss=0.080669	acc=0.970313
+Epoch: 398   Batch: 20	Speed: 571.442497 samples/sec	loss=0.083761	acc=0.972266
+Epoch: 398   Batch: 30	Speed: 571.887772 samples/sec	loss=0.081387	acc=0.974219
+Epoch: 399 learning rate update to 1.000e-04 
+Epoch: 399   Batch: 10	Speed: 301.137362 samples/sec	loss=0.077846	acc=0.973437
+Epoch: 399   Batch: 20	Speed: 570.804861 samples/sec	loss=0.082667	acc=0.969922
+Epoch: 399   Batch: 30	Speed: 572.044803 samples/sec	loss=0.080965	acc=0.971875
+Epoch: 400 learning rate update to 1.000e-04 
+Epoch: 400   Batch: 10	Speed: 316.723090 samples/sec	loss=0.079429	acc=0.975000
+Epoch: 400   Batch: 20	Speed: 569.782217 samples/sec	loss=0.079491	acc=0.974219
+Epoch: 400   Batch: 30	Speed: 572.181125 samples/sec	loss=0.080135	acc=0.973958
+Epoch: 401 learning rate update to 1.000e-04 
+Epoch: 401   Batch: 10	Speed: 323.803762 samples/sec	loss=0.078162	acc=0.977344
+Epoch: 401   Batch: 20	Speed: 542.671638 samples/sec	loss=0.082371	acc=0.974219
+Epoch: 401   Batch: 30	Speed: 572.043523 samples/sec	loss=0.080939	acc=0.974479
+Epoch: 402 learning rate update to 1.000e-04 
+Epoch: 402   Batch: 10	Speed: 320.299256 samples/sec	loss=0.084785	acc=0.975000
+Epoch: 402   Batch: 20	Speed: 570.874904 samples/sec	loss=0.077632	acc=0.973828
+Epoch: 402   Batch: 30	Speed: 571.964662 samples/sec	loss=0.083936	acc=0.971354
+Epoch: 403 learning rate update to 1.000e-04 
+Epoch: 403   Batch: 10	Speed: 309.414640 samples/sec	loss=0.080746	acc=0.972656
+Epoch: 403   Batch: 20	Speed: 570.040122 samples/sec	loss=0.080058	acc=0.973437
+Epoch: 403   Batch: 30	Speed: 572.426863 samples/sec	loss=0.082388	acc=0.972396
+Epoch: 404 learning rate update to 1.000e-04 
+Epoch: 404   Batch: 10	Speed: 285.038538 samples/sec	loss=0.077539	acc=0.978125
+Epoch: 404   Batch: 20	Speed: 563.691879 samples/sec	loss=0.065084	acc=0.981250
+Epoch: 404   Batch: 30	Speed: 572.336303 samples/sec	loss=0.072877	acc=0.977344
+Epoch: 405 learning rate update to 1.000e-04 
+Epoch: 405   Batch: 10	Speed: 320.082667 samples/sec	loss=0.083547	acc=0.973437
+Epoch: 405   Batch: 20	Speed: 570.472301 samples/sec	loss=0.083051	acc=0.973437
+Epoch: 405   Batch: 30	Speed: 572.071501 samples/sec	loss=0.083746	acc=0.972135
+Epoch: 406 learning rate update to 1.000e-04 
+Epoch: 406   Batch: 10	Speed: 307.369893 samples/sec	loss=0.104341	acc=0.967187
+Epoch: 406   Batch: 20	Speed: 570.469694 samples/sec	loss=0.088263	acc=0.972656
+Epoch: 406   Batch: 30	Speed: 572.336364 samples/sec	loss=0.082303	acc=0.975000
+Epoch: 407 learning rate update to 1.000e-04 
+Epoch: 407   Batch: 10	Speed: 269.339589 samples/sec	loss=0.093839	acc=0.969531
+Epoch: 407   Batch: 20	Speed: 570.967249 samples/sec	loss=0.092714	acc=0.967187
+Epoch: 407   Batch: 30	Speed: 571.615959 samples/sec	loss=0.084224	acc=0.970573
+Epoch: 408 learning rate update to 1.000e-04 
+Epoch: 408   Batch: 10	Speed: 307.142735 samples/sec	loss=0.092605	acc=0.967969
+Epoch: 408   Batch: 20	Speed: 568.984813 samples/sec	loss=0.095202	acc=0.966797
+Epoch: 408   Batch: 30	Speed: 571.017532 samples/sec	loss=0.093818	acc=0.968229
+Epoch: 409 learning rate update to 1.000e-04 
+Epoch: 409   Batch: 10	Speed: 304.525625 samples/sec	loss=0.087631	acc=0.968750
+Epoch: 409   Batch: 20	Speed: 568.668705 samples/sec	loss=0.084783	acc=0.969531
+Epoch: 409   Batch: 30	Speed: 572.424056 samples/sec	loss=0.083809	acc=0.971354
+Epoch: 410 learning rate update to 1.000e-04 
+Epoch: 410   Batch: 10	Speed: 294.503233 samples/sec	loss=0.088496	acc=0.972656
+Epoch: 410   Batch: 20	Speed: 571.016803 samples/sec	loss=0.089529	acc=0.971094
+Epoch: 410   Batch: 30	Speed: 572.348384 samples/sec	loss=0.090723	acc=0.970833
+Epoch: 411 learning rate update to 1.000e-04 
+Epoch: 411   Batch: 10	Speed: 315.326918 samples/sec	loss=0.083142	acc=0.975000
+Epoch: 411   Batch: 20	Speed: 567.105040 samples/sec	loss=0.093754	acc=0.968750
+Epoch: 411   Batch: 30	Speed: 571.139572 samples/sec	loss=0.089456	acc=0.968490
+Epoch: 412 learning rate update to 1.000e-04 
+Epoch: 412   Batch: 10	Speed: 322.854212 samples/sec	loss=0.062959	acc=0.978125
+Epoch: 412   Batch: 20	Speed: 571.103301 samples/sec	loss=0.075087	acc=0.977344
+Epoch: 412   Batch: 30	Speed: 571.678470 samples/sec	loss=0.081025	acc=0.975260
+Epoch: 413 learning rate update to 1.000e-04 
+Epoch: 413   Batch: 10	Speed: 269.667635 samples/sec	loss=0.079477	acc=0.972656
+Epoch: 413   Batch: 20	Speed: 570.987045 samples/sec	loss=0.076873	acc=0.976953
+Epoch: 413   Batch: 30	Speed: 572.070587 samples/sec	loss=0.078957	acc=0.975521
+Epoch: 414 learning rate update to 1.000e-04 
+Epoch: 414   Batch: 10	Speed: 285.869478 samples/sec	loss=0.065217	acc=0.978906
+Epoch: 414   Batch: 20	Speed: 571.463057 samples/sec	loss=0.076626	acc=0.974609
+Epoch: 414   Batch: 30	Speed: 571.028586 samples/sec	loss=0.072922	acc=0.976562
+Epoch: 415 learning rate update to 1.000e-04 
+Epoch: 415   Batch: 10	Speed: 254.652963 samples/sec	loss=0.100772	acc=0.968750
+Epoch: 415   Batch: 20	Speed: 571.182228 samples/sec	loss=0.091607	acc=0.969141
+Epoch: 415   Batch: 30	Speed: 571.798113 samples/sec	loss=0.085291	acc=0.970052
+Epoch: 416 learning rate update to 1.000e-04 
+Epoch: 416   Batch: 10	Speed: 312.176522 samples/sec	loss=0.062926	acc=0.978906
+Epoch: 416   Batch: 20	Speed: 570.978240 samples/sec	loss=0.067212	acc=0.976953
+Epoch: 416   Batch: 30	Speed: 571.395180 samples/sec	loss=0.077209	acc=0.974740
+Epoch: 417 learning rate update to 1.000e-04 
+Epoch: 417   Batch: 10	Speed: 288.611585 samples/sec	loss=0.091567	acc=0.967187
+Epoch: 417   Batch: 20	Speed: 569.493674 samples/sec	loss=0.084772	acc=0.970703
+Epoch: 417   Batch: 30	Speed: 572.317206 samples/sec	loss=0.081947	acc=0.974219
+Epoch: 418 learning rate update to 1.000e-04 
+Epoch: 418   Batch: 10	Speed: 313.447725 samples/sec	loss=0.081726	acc=0.975000
+Epoch: 418   Batch: 20	Speed: 568.940736 samples/sec	loss=0.082797	acc=0.975781
+Epoch: 418   Batch: 30	Speed: 571.957532 samples/sec	loss=0.083493	acc=0.974740
+Epoch: 419 learning rate update to 1.000e-04 
+Epoch: 419   Batch: 10	Speed: 316.521441 samples/sec	loss=0.065311	acc=0.978906
+Epoch: 419   Batch: 20	Speed: 570.405387 samples/sec	loss=0.071770	acc=0.977344
+Epoch: 419   Batch: 30	Speed: 571.360458 samples/sec	loss=0.081051	acc=0.975521
+Epoch: 420 learning rate update to 1.000e-04 
+Epoch: 420   Batch: 10	Speed: 293.043794 samples/sec	loss=0.076952	acc=0.977344
+Epoch: 420   Batch: 20	Speed: 571.079366 samples/sec	loss=0.074428	acc=0.978125
+Epoch: 420   Batch: 30	Speed: 571.588695 samples/sec	loss=0.071856	acc=0.977865
+Epoch: 421 learning rate update to 1.000e-04 
+Epoch: 421   Batch: 10	Speed: 306.807765 samples/sec	loss=0.077072	acc=0.973437
+Epoch: 421   Batch: 20	Speed: 571.238141 samples/sec	loss=0.078146	acc=0.974609
+Epoch: 421   Batch: 30	Speed: 571.973619 samples/sec	loss=0.078784	acc=0.975260
+Epoch: 422 learning rate update to 1.000e-04 
+Epoch: 422   Batch: 10	Speed: 315.098818 samples/sec	loss=0.061599	acc=0.980469
+Epoch: 422   Batch: 20	Speed: 569.861082 samples/sec	loss=0.077706	acc=0.976172
+Epoch: 422   Batch: 30	Speed: 570.613515 samples/sec	loss=0.071661	acc=0.978385
+Epoch: 423 learning rate update to 1.000e-04 
+Epoch: 423   Batch: 10	Speed: 300.813823 samples/sec	loss=0.088642	acc=0.968750
+Epoch: 423   Batch: 20	Speed: 558.863242 samples/sec	loss=0.088728	acc=0.968750
+Epoch: 423   Batch: 30	Speed: 571.827956 samples/sec	loss=0.085361	acc=0.969792
+Epoch: 424 learning rate update to 1.000e-04 
+Epoch: 424   Batch: 10	Speed: 301.406070 samples/sec	loss=0.070899	acc=0.975000
+Epoch: 424   Batch: 20	Speed: 494.047379 samples/sec	loss=0.086316	acc=0.970313
+Epoch: 424   Batch: 30	Speed: 571.421210 samples/sec	loss=0.094232	acc=0.968750
+Epoch: 425 learning rate update to 1.000e-04 
+Epoch: 425   Batch: 10	Speed: 315.790221 samples/sec	loss=0.064646	acc=0.980469
+Epoch: 425   Batch: 20	Speed: 570.930332 samples/sec	loss=0.075963	acc=0.977344
+Epoch: 425   Batch: 30	Speed: 570.933064 samples/sec	loss=0.080114	acc=0.973958
+Epoch: 426 learning rate update to 1.000e-04 
+Epoch: 426   Batch: 10	Speed: 297.274221 samples/sec	loss=0.061653	acc=0.982031
+Epoch: 426   Batch: 20	Speed: 571.193896 samples/sec	loss=0.066597	acc=0.977734
+Epoch: 426   Batch: 30	Speed: 572.485706 samples/sec	loss=0.067590	acc=0.977865
+Epoch: 427 learning rate update to 1.000e-04 
+Epoch: 427   Batch: 10	Speed: 302.602331 samples/sec	loss=0.079103	acc=0.978125
+Epoch: 427   Batch: 20	Speed: 570.344366 samples/sec	loss=0.077480	acc=0.974609
+Epoch: 427   Batch: 30	Speed: 570.199107 samples/sec	loss=0.079678	acc=0.974219
+Epoch: 428 learning rate update to 1.000e-04 
+Epoch: 428   Batch: 10	Speed: 323.444913 samples/sec	loss=0.054751	acc=0.982031
+Epoch: 428   Batch: 20	Speed: 569.741462 samples/sec	loss=0.074108	acc=0.975781
+Epoch: 428   Batch: 30	Speed: 571.664835 samples/sec	loss=0.083061	acc=0.972135
+Epoch: 429 learning rate update to 1.000e-04 
+Epoch: 429   Batch: 10	Speed: 283.192519 samples/sec	loss=0.073078	acc=0.979688
+Epoch: 429   Batch: 20	Speed: 554.259587 samples/sec	loss=0.085383	acc=0.972266
+Epoch: 429   Batch: 30	Speed: 571.778565 samples/sec	loss=0.082510	acc=0.973177
+Epoch: 430 learning rate update to 1.000e-04 
+Epoch: 430   Batch: 10	Speed: 335.219534 samples/sec	loss=0.089211	acc=0.975781
+Epoch: 430   Batch: 20	Speed: 570.718272 samples/sec	loss=0.083158	acc=0.975391
+Epoch: 430   Batch: 30	Speed: 571.940106 samples/sec	loss=0.077411	acc=0.976042
+Epoch: 431 learning rate update to 1.000e-04 
+Epoch: 431   Batch: 10	Speed: 318.537465 samples/sec	loss=0.072455	acc=0.976562
+Epoch: 431   Batch: 20	Speed: 523.650517 samples/sec	loss=0.080962	acc=0.973437
+Epoch: 431   Batch: 30	Speed: 571.737159 samples/sec	loss=0.088616	acc=0.971354
+Epoch: 432 learning rate update to 1.000e-04 
+Epoch: 432   Batch: 10	Speed: 316.456700 samples/sec	loss=0.095650	acc=0.966406
+Epoch: 432   Batch: 20	Speed: 570.769604 samples/sec	loss=0.081479	acc=0.969922
+Epoch: 432   Batch: 30	Speed: 570.714086 samples/sec	loss=0.075500	acc=0.973177
+Epoch: 433 learning rate update to 1.000e-04 
+Epoch: 433   Batch: 10	Speed: 322.897922 samples/sec	loss=0.077253	acc=0.974219
+Epoch: 433   Batch: 20	Speed: 560.513658 samples/sec	loss=0.082815	acc=0.970313
+Epoch: 433   Batch: 30	Speed: 571.744527 samples/sec	loss=0.085835	acc=0.970313
+Epoch: 434 learning rate update to 1.000e-04 
+Epoch: 434   Batch: 10	Speed: 305.199376 samples/sec	loss=0.091377	acc=0.973437
+Epoch: 434   Batch: 20	Speed: 569.872938 samples/sec	loss=0.092384	acc=0.971094
+Epoch: 434   Batch: 30	Speed: 561.072787 samples/sec	loss=0.090386	acc=0.972656
+Epoch: 435 learning rate update to 1.000e-04 
+Epoch: 435   Batch: 10	Speed: 294.999400 samples/sec	loss=0.093428	acc=0.971094
+Epoch: 435   Batch: 20	Speed: 569.038246 samples/sec	loss=0.084707	acc=0.972266
+Epoch: 435   Batch: 30	Speed: 571.605370 samples/sec	loss=0.080931	acc=0.973177
+Epoch: 436 learning rate update to 1.000e-04 
+Epoch: 436   Batch: 10	Speed: 299.142376 samples/sec	loss=0.094057	acc=0.970313
+Epoch: 436   Batch: 20	Speed: 568.971426 samples/sec	loss=0.099747	acc=0.967578
+Epoch: 436   Batch: 30	Speed: 551.156729 samples/sec	loss=0.093702	acc=0.969271
+Epoch: 437 learning rate update to 1.000e-04 
+Epoch: 437   Batch: 10	Speed: 313.039171 samples/sec	loss=0.101039	acc=0.966406
+Epoch: 437   Batch: 20	Speed: 571.778991 samples/sec	loss=0.087519	acc=0.971484
+Epoch: 437   Batch: 30	Speed: 572.119723 samples/sec	loss=0.087677	acc=0.970313
+Epoch: 438 learning rate update to 1.000e-04 
+Epoch: 438   Batch: 10	Speed: 286.331061 samples/sec	loss=0.097898	acc=0.968750
+Epoch: 438   Batch: 20	Speed: 561.502452 samples/sec	loss=0.093936	acc=0.968359
+Epoch: 438   Batch: 30	Speed: 571.083679 samples/sec	loss=0.089212	acc=0.972135
+Epoch: 439 learning rate update to 1.000e-04 
+Epoch: 439   Batch: 10	Speed: 325.145693 samples/sec	loss=0.086723	acc=0.973437
+Epoch: 439   Batch: 20	Speed: 570.665312 samples/sec	loss=0.089389	acc=0.970313
+Epoch: 439   Batch: 30	Speed: 570.357817 samples/sec	loss=0.085753	acc=0.971615
+Epoch: 440 learning rate update to 1.000e-04 
+Epoch: 440   Batch: 10	Speed: 312.961689 samples/sec	loss=0.076867	acc=0.975781
+Epoch: 440   Batch: 20	Speed: 570.592167 samples/sec	loss=0.071897	acc=0.977344
+Epoch: 440   Batch: 30	Speed: 571.875649 samples/sec	loss=0.076797	acc=0.976562
+Epoch: 441 learning rate update to 1.000e-04 
+Epoch: 441   Batch: 10	Speed: 323.519875 samples/sec	loss=0.073485	acc=0.978906
+Epoch: 441   Batch: 20	Speed: 570.727373 samples/sec	loss=0.073289	acc=0.976562
+Epoch: 441   Batch: 30	Speed: 571.487815 samples/sec	loss=0.075160	acc=0.975781
+Epoch: 442 learning rate update to 1.000e-04 
+Epoch: 442   Batch: 10	Speed: 318.482666 samples/sec	loss=0.074954	acc=0.976562
+Epoch: 442   Batch: 20	Speed: 571.381254 samples/sec	loss=0.073071	acc=0.977344
+Epoch: 442   Batch: 30	Speed: 571.507647 samples/sec	loss=0.076440	acc=0.976042
+Epoch: 443 learning rate update to 1.000e-04 
+Epoch: 443   Batch: 10	Speed: 332.360884 samples/sec	loss=0.102156	acc=0.971094
+Epoch: 443   Batch: 20	Speed: 566.672861 samples/sec	loss=0.094533	acc=0.970703
+Epoch: 443   Batch: 30	Speed: 571.342216 samples/sec	loss=0.084964	acc=0.973437
+Epoch: 444 learning rate update to 1.000e-04 
+Epoch: 444   Batch: 10	Speed: 322.814668 samples/sec	loss=0.078331	acc=0.973437
+Epoch: 444   Batch: 20	Speed: 568.313059 samples/sec	loss=0.086953	acc=0.971094
+Epoch: 444   Batch: 30	Speed: 570.745029 samples/sec	loss=0.083103	acc=0.971615
+Epoch: 445 learning rate update to 1.000e-04 
+Epoch: 445   Batch: 10	Speed: 279.802007 samples/sec	loss=0.076870	acc=0.978906
+Epoch: 445   Batch: 20	Speed: 571.606952 samples/sec	loss=0.082779	acc=0.975391
+Epoch: 445   Batch: 30	Speed: 571.799758 samples/sec	loss=0.083667	acc=0.973958
+Epoch: 446 learning rate update to 1.000e-04 
+Epoch: 446   Batch: 10	Speed: 305.678551 samples/sec	loss=0.102316	acc=0.971094
+Epoch: 446   Batch: 20	Speed: 570.561484 samples/sec	loss=0.090346	acc=0.972266
+Epoch: 446   Batch: 30	Speed: 564.966885 samples/sec	loss=0.084287	acc=0.973177
+Epoch: 447 learning rate update to 1.000e-04 
+Epoch: 447   Batch: 10	Speed: 305.149607 samples/sec	loss=0.071227	acc=0.976562
+Epoch: 447   Batch: 20	Speed: 570.194444 samples/sec	loss=0.066646	acc=0.978516
+Epoch: 447   Batch: 30	Speed: 572.133014 samples/sec	loss=0.078006	acc=0.973958
+Epoch: 448 learning rate update to 1.000e-04 
+Epoch: 448   Batch: 10	Speed: 295.854692 samples/sec	loss=0.098251	acc=0.971094
+Epoch: 448   Batch: 20	Speed: 571.592346 samples/sec	loss=0.094089	acc=0.969141
+Epoch: 448   Batch: 30	Speed: 571.653330 samples/sec	loss=0.093337	acc=0.968750
+Epoch: 449 learning rate update to 1.000e-04 
+Epoch: 449   Batch: 10	Speed: 287.521477 samples/sec	loss=0.080493	acc=0.973437
+Epoch: 449   Batch: 20	Speed: 568.819272 samples/sec	loss=0.079269	acc=0.974219
+Epoch: 449   Batch: 30	Speed: 571.944249 samples/sec	loss=0.085162	acc=0.972396
+Epoch: 450 learning rate update to 1.000e-04 
+Epoch: 450   Batch: 10	Speed: 300.304321 samples/sec	loss=0.096163	acc=0.966406
+Epoch: 450   Batch: 20	Speed: 570.615577 samples/sec	loss=0.093354	acc=0.968750
+Epoch: 450   Batch: 30	Speed: 572.199115 samples/sec	loss=0.095795	acc=0.969010
+Epoch: 451 learning rate update to 1.000e-04 
+Epoch: 451   Batch: 10	Speed: 306.150399 samples/sec	loss=0.067287	acc=0.982812
+Epoch: 451   Batch: 20	Speed: 570.091755 samples/sec	loss=0.074580	acc=0.976953
+Epoch: 451   Batch: 30	Speed: 571.986356 samples/sec	loss=0.080115	acc=0.975000
+Epoch: 452 learning rate update to 1.000e-04 
+Epoch: 452   Batch: 10	Speed: 295.519492 samples/sec	loss=0.086103	acc=0.967969
+Epoch: 452   Batch: 20	Speed: 570.623522 samples/sec	loss=0.081428	acc=0.970703
+Epoch: 452   Batch: 30	Speed: 571.671713 samples/sec	loss=0.078317	acc=0.972917
+Epoch: 453 learning rate update to 1.000e-04 
+Epoch: 453   Batch: 10	Speed: 291.128674 samples/sec	loss=0.075635	acc=0.975781
+Epoch: 453   Batch: 20	Speed: 570.834843 samples/sec	loss=0.077572	acc=0.974609
+Epoch: 453   Batch: 30	Speed: 565.397119 samples/sec	loss=0.082226	acc=0.972656
+Epoch: 454 learning rate update to 1.000e-04 
+Epoch: 454   Batch: 10	Speed: 281.580610 samples/sec	loss=0.083364	acc=0.978125
+Epoch: 454   Batch: 20	Speed: 543.315338 samples/sec	loss=0.084106	acc=0.973437
+Epoch: 454   Batch: 30	Speed: 571.847264 samples/sec	loss=0.078467	acc=0.973958
+Epoch: 455 learning rate update to 1.000e-04 
+Epoch: 455   Batch: 10	Speed: 314.469111 samples/sec	loss=0.079680	acc=0.970313
+Epoch: 455   Batch: 20	Speed: 571.403269 samples/sec	loss=0.084928	acc=0.969922
+Epoch: 455   Batch: 30	Speed: 563.484452 samples/sec	loss=0.081991	acc=0.971094
+Epoch: 456 learning rate update to 1.000e-04 
+Epoch: 456   Batch: 10	Speed: 276.092466 samples/sec	loss=0.087395	acc=0.971875
+Epoch: 456   Batch: 20	Speed: 571.076450 samples/sec	loss=0.090295	acc=0.971875
+Epoch: 456   Batch: 30	Speed: 572.107530 samples/sec	loss=0.088743	acc=0.971615
+Epoch: 457 learning rate update to 1.000e-04 
+Epoch: 457   Batch: 10	Speed: 316.972261 samples/sec	loss=0.088992	acc=0.969531
+Epoch: 457   Batch: 20	Speed: 563.589507 samples/sec	loss=0.087402	acc=0.971094
+Epoch: 457   Batch: 30	Speed: 572.209117 samples/sec	loss=0.088079	acc=0.971094
+Epoch: 458 learning rate update to 1.000e-04 
+Epoch: 458   Batch: 10	Speed: 331.737405 samples/sec	loss=0.066930	acc=0.982031
+Epoch: 458   Batch: 20	Speed: 569.509079 samples/sec	loss=0.069155	acc=0.977734
+Epoch: 458   Batch: 30	Speed: 570.575127 samples/sec	loss=0.078271	acc=0.975260
+Epoch: 459 learning rate update to 1.000e-04 
+Epoch: 459   Batch: 10	Speed: 283.005454 samples/sec	loss=0.068128	acc=0.979688
+Epoch: 459   Batch: 20	Speed: 562.754525 samples/sec	loss=0.072361	acc=0.976953
+Epoch: 459   Batch: 30	Speed: 572.013048 samples/sec	loss=0.080606	acc=0.973698
+Epoch: 460 learning rate update to 1.000e-04 
+Epoch: 460   Batch: 10	Speed: 296.325002 samples/sec	loss=0.067658	acc=0.975000
+Epoch: 460   Batch: 20	Speed: 570.636804 samples/sec	loss=0.070920	acc=0.975000
+Epoch: 460   Batch: 30	Speed: 572.055104 samples/sec	loss=0.083093	acc=0.969792
+Epoch: 461 learning rate update to 1.000e-04 
+Epoch: 461   Batch: 10	Speed: 270.593807 samples/sec	loss=0.098182	acc=0.965625
+Epoch: 461   Batch: 20	Speed: 571.040672 samples/sec	loss=0.092508	acc=0.968359
+Epoch: 461   Batch: 30	Speed: 571.322152 samples/sec	loss=0.082343	acc=0.971875
+Epoch: 462 learning rate update to 1.000e-04 
+Epoch: 462   Batch: 10	Speed: 280.423314 samples/sec	loss=0.066572	acc=0.978125
+Epoch: 462   Batch: 20	Speed: 570.972714 samples/sec	loss=0.067875	acc=0.977344
+Epoch: 462   Batch: 30	Speed: 572.732928 samples/sec	loss=0.068637	acc=0.977083
+Epoch: 463 learning rate update to 1.000e-04 
+Epoch: 463   Batch: 10	Speed: 301.979981 samples/sec	loss=0.088189	acc=0.969531
+Epoch: 463   Batch: 20	Speed: 571.109680 samples/sec	loss=0.079791	acc=0.975000
+Epoch: 463   Batch: 30	Speed: 572.080706 samples/sec	loss=0.080852	acc=0.973437
+Epoch: 464 learning rate update to 1.000e-04 
+Epoch: 464   Batch: 10	Speed: 276.935750 samples/sec	loss=0.059718	acc=0.982812
+Epoch: 464   Batch: 20	Speed: 569.945898 samples/sec	loss=0.076670	acc=0.977734
+Epoch: 464   Batch: 30	Speed: 571.378335 samples/sec	loss=0.074672	acc=0.976042
+Epoch: 465 learning rate update to 1.000e-04 
+Epoch: 465   Batch: 10	Speed: 291.863484 samples/sec	loss=0.090529	acc=0.971094
+Epoch: 465   Batch: 20	Speed: 571.216808 samples/sec	loss=0.079549	acc=0.975781
+Epoch: 465   Batch: 30	Speed: 572.254495 samples/sec	loss=0.073344	acc=0.977344
+Epoch: 466 learning rate update to 1.000e-04 
+Epoch: 466   Batch: 10	Speed: 279.695435 samples/sec	loss=0.075993	acc=0.977344
+Epoch: 466   Batch: 20	Speed: 548.439027 samples/sec	loss=0.078733	acc=0.977344
+Epoch: 466   Batch: 30	Speed: 572.204847 samples/sec	loss=0.081443	acc=0.976042
+Epoch: 467 learning rate update to 1.000e-04 
+Epoch: 467   Batch: 10	Speed: 315.848538 samples/sec	loss=0.093177	acc=0.968750
+Epoch: 467   Batch: 20	Speed: 570.750793 samples/sec	loss=0.085879	acc=0.973047
+Epoch: 467   Batch: 30	Speed: 571.588512 samples/sec	loss=0.087815	acc=0.973177
+Epoch: 468 learning rate update to 1.000e-04 
+Epoch: 468   Batch: 10	Speed: 301.905211 samples/sec	loss=0.097465	acc=0.959375
+Epoch: 468   Batch: 20	Speed: 568.687198 samples/sec	loss=0.096324	acc=0.962500
+Epoch: 468   Batch: 30	Speed: 572.273221 samples/sec	loss=0.093888	acc=0.964844
+Epoch: 469 learning rate update to 1.000e-04 
+Epoch: 469   Batch: 10	Speed: 303.316711 samples/sec	loss=0.080913	acc=0.974219
+Epoch: 469   Batch: 20	Speed: 569.974519 samples/sec	loss=0.076517	acc=0.974609
+Epoch: 469   Batch: 30	Speed: 572.409408 samples/sec	loss=0.079139	acc=0.973437
+Epoch: 470 learning rate update to 1.000e-04 
+Epoch: 470   Batch: 10	Speed: 291.632250 samples/sec	loss=0.085970	acc=0.973437
+Epoch: 470   Batch: 20	Speed: 570.226542 samples/sec	loss=0.075888	acc=0.976172
+Epoch: 470   Batch: 30	Speed: 572.305554 samples/sec	loss=0.071445	acc=0.977865
+Epoch: 471 learning rate update to 1.000e-04 
+Epoch: 471   Batch: 10	Speed: 269.031927 samples/sec	loss=0.077420	acc=0.976562
+Epoch: 471   Batch: 20	Speed: 570.585375 samples/sec	loss=0.076153	acc=0.975781
+Epoch: 471   Batch: 30	Speed: 571.232367 samples/sec	loss=0.082524	acc=0.974479
+Epoch: 472 learning rate update to 1.000e-04 
+Epoch: 472   Batch: 10	Speed: 312.684922 samples/sec	loss=0.084864	acc=0.967969
+Epoch: 472   Batch: 20	Speed: 569.670186 samples/sec	loss=0.086644	acc=0.969531
+Epoch: 472   Batch: 30	Speed: 571.734602 samples/sec	loss=0.084480	acc=0.971875
+Epoch: 473 learning rate update to 1.000e-04 
+Epoch: 473   Batch: 10	Speed: 311.931333 samples/sec	loss=0.086227	acc=0.973437
+Epoch: 473   Batch: 20	Speed: 569.850315 samples/sec	loss=0.087590	acc=0.973047
+Epoch: 473   Batch: 30	Speed: 570.783925 samples/sec	loss=0.090841	acc=0.971354
+Epoch: 474 learning rate update to 1.000e-04 
+Epoch: 474   Batch: 10	Speed: 296.998648 samples/sec	loss=0.078800	acc=0.975000
+Epoch: 474   Batch: 20	Speed: 568.308307 samples/sec	loss=0.085771	acc=0.971094
+Epoch: 474   Batch: 30	Speed: 571.332853 samples/sec	loss=0.085524	acc=0.972656
+Epoch: 475 learning rate update to 1.000e-04 
+Epoch: 475   Batch: 10	Speed: 314.400825 samples/sec	loss=0.093748	acc=0.967969
+Epoch: 475   Batch: 20	Speed: 571.393842 samples/sec	loss=0.087961	acc=0.970703
+Epoch: 475   Batch: 30	Speed: 571.149111 samples/sec	loss=0.088894	acc=0.970833
+Epoch: 476 learning rate update to 1.000e-04 
+Epoch: 476   Batch: 10	Speed: 283.303522 samples/sec	loss=0.061703	acc=0.978906
+Epoch: 476   Batch: 20	Speed: 569.353980 samples/sec	loss=0.076605	acc=0.972656
+Epoch: 476   Batch: 30	Speed: 571.807127 samples/sec	loss=0.076058	acc=0.973177
+Epoch: 477 learning rate update to 1.000e-04 
+Epoch: 477   Batch: 10	Speed: 300.556534 samples/sec	loss=0.075184	acc=0.976562
+Epoch: 477   Batch: 20	Speed: 569.897316 samples/sec	loss=0.069099	acc=0.978906
+Epoch: 477   Batch: 30	Speed: 571.790257 samples/sec	loss=0.074888	acc=0.975260
+Epoch: 478 learning rate update to 1.000e-04 
+Epoch: 478   Batch: 10	Speed: 302.824749 samples/sec	loss=0.076639	acc=0.977344
+Epoch: 478   Batch: 20	Speed: 570.732651 samples/sec	loss=0.081815	acc=0.975000
+Epoch: 478   Batch: 30	Speed: 571.840625 samples/sec	loss=0.078353	acc=0.975000
+Epoch: 479 learning rate update to 1.000e-04 
+Epoch: 479   Batch: 10	Speed: 312.120206 samples/sec	loss=0.092558	acc=0.968750
+Epoch: 479   Batch: 20	Speed: 570.415629 samples/sec	loss=0.085676	acc=0.969531
+Epoch: 479   Batch: 30	Speed: 570.690123 samples/sec	loss=0.082074	acc=0.971875
+Epoch: 480 learning rate update to 1.000e-04 
+Epoch: 480   Batch: 10	Speed: 307.373905 samples/sec	loss=0.069581	acc=0.976562
+Epoch: 480   Batch: 20	Speed: 571.505579 samples/sec	loss=0.077188	acc=0.974219
+Epoch: 480   Batch: 30	Speed: 571.453933 samples/sec	loss=0.074072	acc=0.974740
+Epoch: 481 learning rate update to 1.000e-04 
+Epoch: 481   Batch: 10	Speed: 281.752561 samples/sec	loss=0.076524	acc=0.975000
+Epoch: 481   Batch: 20	Speed: 569.593005 samples/sec	loss=0.093087	acc=0.969141
+Epoch: 481   Batch: 30	Speed: 571.776312 samples/sec	loss=0.088940	acc=0.970573
+Epoch: 482 learning rate update to 1.000e-04 
+Epoch: 482   Batch: 10	Speed: 319.606312 samples/sec	loss=0.062098	acc=0.982812
+Epoch: 482   Batch: 20	Speed: 571.431610 samples/sec	loss=0.075478	acc=0.975391
+Epoch: 482   Batch: 30	Speed: 572.124540 samples/sec	loss=0.077962	acc=0.974219
+Epoch: 483 learning rate update to 1.000e-04 
+Epoch: 483   Batch: 10	Speed: 304.756694 samples/sec	loss=0.093163	acc=0.970313
+Epoch: 483   Batch: 20	Speed: 569.519107 samples/sec	loss=0.084210	acc=0.975781
+Epoch: 483   Batch: 30	Speed: 564.899116 samples/sec	loss=0.081120	acc=0.975781
+Epoch: 484 learning rate update to 1.000e-04 
+Epoch: 484   Batch: 10	Speed: 312.370054 samples/sec	loss=0.090860	acc=0.972656
+Epoch: 484   Batch: 20	Speed: 570.916307 samples/sec	loss=0.090346	acc=0.971875
+Epoch: 484   Batch: 30	Speed: 570.843037 samples/sec	loss=0.083755	acc=0.974219
+Epoch: 485 learning rate update to 1.000e-04 
+Epoch: 485   Batch: 10	Speed: 280.345910 samples/sec	loss=0.067486	acc=0.978125
+Epoch: 485   Batch: 20	Speed: 567.337863 samples/sec	loss=0.069491	acc=0.978516
+Epoch: 485   Batch: 30	Speed: 571.552549 samples/sec	loss=0.084968	acc=0.970573
+Epoch: 486 learning rate update to 1.000e-04 
+Epoch: 486   Batch: 10	Speed: 312.954155 samples/sec	loss=0.107349	acc=0.963281
+Epoch: 486   Batch: 20	Speed: 570.855359 samples/sec	loss=0.089392	acc=0.968750
+Epoch: 486   Batch: 30	Speed: 572.065527 samples/sec	loss=0.090600	acc=0.969271
+Epoch: 487 learning rate update to 1.000e-04 
+Epoch: 487   Batch: 10	Speed: 320.213365 samples/sec	loss=0.100432	acc=0.968750
+Epoch: 487   Batch: 20	Speed: 464.890961 samples/sec	loss=0.092639	acc=0.968359
+Epoch: 487   Batch: 30	Speed: 572.279871 samples/sec	loss=0.085822	acc=0.970313
+Epoch: 488 learning rate update to 1.000e-04 
+Epoch: 488   Batch: 10	Speed: 334.492904 samples/sec	loss=0.074657	acc=0.972656
+Epoch: 488   Batch: 20	Speed: 570.520557 samples/sec	loss=0.081168	acc=0.971094
+Epoch: 488   Batch: 30	Speed: 570.349880 samples/sec	loss=0.077393	acc=0.973437
+Epoch: 489 learning rate update to 1.000e-04 
+Epoch: 489   Batch: 10	Speed: 316.978044 samples/sec	loss=0.074263	acc=0.977344
+Epoch: 489   Batch: 20	Speed: 570.509947 samples/sec	loss=0.073009	acc=0.977344
+Epoch: 489   Batch: 30	Speed: 572.206250 samples/sec	loss=0.078501	acc=0.975260
+Epoch: 490 learning rate update to 1.000e-04 
+Epoch: 490   Batch: 10	Speed: 288.226484 samples/sec	loss=0.074544	acc=0.973437
+Epoch: 490   Batch: 20	Speed: 569.820679 samples/sec	loss=0.081594	acc=0.973047
+Epoch: 490   Batch: 30	Speed: 571.931637 samples/sec	loss=0.080623	acc=0.972656
+Epoch: 491 learning rate update to 1.000e-04 
+Epoch: 491   Batch: 10	Speed: 310.505236 samples/sec	loss=0.081664	acc=0.974219
+Epoch: 491   Batch: 20	Speed: 571.077422 samples/sec	loss=0.082321	acc=0.973047
+Epoch: 491   Batch: 30	Speed: 571.878451 samples/sec	loss=0.077778	acc=0.974219
+Epoch: 492 learning rate update to 1.000e-04 
+Epoch: 492   Batch: 10	Speed: 297.410166 samples/sec	loss=0.078413	acc=0.975000
+Epoch: 492   Batch: 20	Speed: 570.476726 samples/sec	loss=0.073629	acc=0.975781
+Epoch: 492   Batch: 30	Speed: 570.440175 samples/sec	loss=0.080492	acc=0.972917
+Epoch: 493 learning rate update to 1.000e-04 
+Epoch: 493   Batch: 10	Speed: 307.858402 samples/sec	loss=0.082981	acc=0.971094
+Epoch: 493   Batch: 20	Speed: 569.988861 samples/sec	loss=0.084198	acc=0.969922
+Epoch: 493   Batch: 30	Speed: 571.120433 samples/sec	loss=0.084236	acc=0.970833
+Epoch: 494 learning rate update to 1.000e-04 
+Epoch: 494   Batch: 10	Speed: 314.626901 samples/sec	loss=0.093886	acc=0.971094
+Epoch: 494   Batch: 20	Speed: 561.578220 samples/sec	loss=0.089591	acc=0.972266
+Epoch: 494   Batch: 30	Speed: 571.680175 samples/sec	loss=0.087003	acc=0.973437
+Epoch: 495 learning rate update to 1.000e-04 
+Epoch: 495   Batch: 10	Speed: 322.125285 samples/sec	loss=0.084566	acc=0.975000
+Epoch: 495   Batch: 20	Speed: 566.954421 samples/sec	loss=0.080685	acc=0.975000
+Epoch: 495   Batch: 30	Speed: 571.143521 samples/sec	loss=0.081715	acc=0.974219
+Epoch: 496 learning rate update to 1.000e-04 
+Epoch: 496   Batch: 10	Speed: 332.993300 samples/sec	loss=0.102931	acc=0.967969
+Epoch: 496   Batch: 20	Speed: 570.528984 samples/sec	loss=0.091289	acc=0.970313
+Epoch: 496   Batch: 30	Speed: 571.577315 samples/sec	loss=0.083690	acc=0.973698
+Epoch: 497 learning rate update to 1.000e-04 
+Epoch: 497   Batch: 10	Speed: 321.902958 samples/sec	loss=0.075694	acc=0.974219
+Epoch: 497   Batch: 20	Speed: 561.611529 samples/sec	loss=0.086280	acc=0.971484
+Epoch: 497   Batch: 30	Speed: 571.528272 samples/sec	loss=0.084652	acc=0.971615
+Epoch: 498 learning rate update to 1.000e-04 
+Epoch: 498   Batch: 10	Speed: 319.874431 samples/sec	loss=0.083061	acc=0.972656
+Epoch: 498   Batch: 20	Speed: 569.616151 samples/sec	loss=0.079280	acc=0.973828
+Epoch: 498   Batch: 30	Speed: 571.431914 samples/sec	loss=0.085727	acc=0.971354
+Epoch: 499 learning rate update to 1.000e-04 
+Epoch: 499   Batch: 10	Speed: 318.319797 samples/sec	loss=0.069303	acc=0.975000
+Epoch: 499   Batch: 20	Speed: 570.009558 samples/sec	loss=0.085408	acc=0.972266
+Epoch: 499   Batch: 30	Speed: 572.251750 samples/sec	loss=0.085367	acc=0.971615
+Epoch: 500 learning rate update to 1.000e-04 
+Epoch: 500   Batch: 10	Speed: 285.918348 samples/sec	loss=0.062804	acc=0.981250
+Epoch: 500   Batch: 20	Speed: 571.109194 samples/sec	loss=0.078110	acc=0.977344
+Epoch: 500   Batch: 30	Speed: 570.790418 samples/sec	loss=0.079371	acc=0.975521
+Epoch: 501 learning rate update to 1.000e-04 
+Epoch: 501   Batch: 10	Speed: 283.213538 samples/sec	loss=0.067136	acc=0.975781
+Epoch: 501   Batch: 20	Speed: 570.786716 samples/sec	loss=0.065616	acc=0.976172
+Epoch: 501   Batch: 30	Speed: 571.835813 samples/sec	loss=0.071367	acc=0.975781
+Epoch: 502 learning rate update to 1.000e-04 
+Epoch: 502   Batch: 10	Speed: 312.867999 samples/sec	loss=0.063234	acc=0.979688
+Epoch: 502   Batch: 20	Speed: 569.860658 samples/sec	loss=0.069612	acc=0.977734
+Epoch: 502   Batch: 30	Speed: 572.125515 samples/sec	loss=0.072089	acc=0.977083
+Epoch: 503 learning rate update to 1.000e-04 
+Epoch: 503   Batch: 10	Speed: 269.047108 samples/sec	loss=0.080048	acc=0.974219
+Epoch: 503   Batch: 20	Speed: 569.103090 samples/sec	loss=0.080196	acc=0.975000
+Epoch: 503   Batch: 30	Speed: 572.055348 samples/sec	loss=0.077432	acc=0.975781
+Epoch: 504 learning rate update to 1.000e-04 
+Epoch: 504   Batch: 10	Speed: 332.220064 samples/sec	loss=0.090356	acc=0.968750
+Epoch: 504   Batch: 20	Speed: 570.767480 samples/sec	loss=0.082388	acc=0.972266
+Epoch: 504   Batch: 30	Speed: 571.559060 samples/sec	loss=0.085514	acc=0.970573
+Epoch: 505 learning rate update to 1.000e-04 
+Epoch: 505   Batch: 10	Speed: 296.183528 samples/sec	loss=0.083263	acc=0.968750
+Epoch: 505   Batch: 20	Speed: 570.652635 samples/sec	loss=0.091398	acc=0.966797
+Epoch: 505   Batch: 30	Speed: 571.245313 samples/sec	loss=0.087230	acc=0.970573
+Epoch: 506 learning rate update to 1.000e-04 
+Epoch: 506   Batch: 10	Speed: 324.860019 samples/sec	loss=0.067390	acc=0.976562
+Epoch: 506   Batch: 20	Speed: 570.644204 samples/sec	loss=0.059293	acc=0.980078
+Epoch: 506   Batch: 30	Speed: 572.449752 samples/sec	loss=0.068049	acc=0.978125
+Epoch: 507 learning rate update to 1.000e-04 
+Epoch: 507   Batch: 10	Speed: 276.708244 samples/sec	loss=0.083445	acc=0.970313
+Epoch: 507   Batch: 20	Speed: 571.187941 samples/sec	loss=0.081818	acc=0.972266
+Epoch: 507   Batch: 30	Speed: 571.952414 samples/sec	loss=0.078709	acc=0.973698
+Epoch: 508 learning rate update to 1.000e-04 
+Epoch: 508   Batch: 10	Speed: 306.269965 samples/sec	loss=0.079037	acc=0.973437
+Epoch: 508   Batch: 20	Speed: 569.908085 samples/sec	loss=0.071140	acc=0.976953
+Epoch: 508   Batch: 30	Speed: 572.285117 samples/sec	loss=0.071687	acc=0.976562
+Epoch: 509 learning rate update to 1.000e-04 
+Epoch: 509   Batch: 10	Speed: 320.084651 samples/sec	loss=0.085636	acc=0.974219
+Epoch: 509   Batch: 20	Speed: 571.095039 samples/sec	loss=0.089056	acc=0.973047
+Epoch: 509   Batch: 30	Speed: 571.150083 samples/sec	loss=0.081575	acc=0.974479
+Epoch: 510 learning rate update to 1.000e-04 
+Epoch: 510   Batch: 10	Speed: 296.697068 samples/sec	loss=0.082363	acc=0.976562
+Epoch: 510   Batch: 20	Speed: 568.879606 samples/sec	loss=0.083283	acc=0.971875
+Epoch: 510   Batch: 30	Speed: 571.566605 samples/sec	loss=0.081290	acc=0.972135
+Epoch: 511 learning rate update to 1.000e-04 
+Epoch: 511   Batch: 10	Speed: 319.132170 samples/sec	loss=0.080901	acc=0.972656
+Epoch: 511   Batch: 20	Speed: 570.939014 samples/sec	loss=0.083620	acc=0.973437
+Epoch: 511   Batch: 30	Speed: 571.672200 samples/sec	loss=0.076214	acc=0.975521
+Epoch: 512 learning rate update to 1.000e-04 
+Epoch: 512   Batch: 10	Speed: 315.926118 samples/sec	loss=0.069587	acc=0.976562
+Epoch: 512   Batch: 20	Speed: 568.910169 samples/sec	loss=0.078067	acc=0.973437
+Epoch: 512   Batch: 30	Speed: 571.515861 samples/sec	loss=0.075965	acc=0.975260
+Epoch: 513 learning rate update to 1.000e-04 
+Epoch: 513   Batch: 10	Speed: 314.011566 samples/sec	loss=0.067579	acc=0.982031
+Epoch: 513   Batch: 20	Speed: 562.788622 samples/sec	loss=0.072526	acc=0.977344
+Epoch: 513   Batch: 30	Speed: 570.787566 samples/sec	loss=0.071683	acc=0.976823
+Epoch: 514 learning rate update to 1.000e-04 
+Epoch: 514   Batch: 10	Speed: 296.159265 samples/sec	loss=0.071682	acc=0.977344
+Epoch: 514   Batch: 20	Speed: 569.161191 samples/sec	loss=0.083759	acc=0.970703
+Epoch: 514   Batch: 30	Speed: 572.242479 samples/sec	loss=0.080732	acc=0.971875
+Epoch: 515 learning rate update to 1.000e-04 
+Epoch: 515   Batch: 10	Speed: 305.346574 samples/sec	loss=0.082672	acc=0.972656
+Epoch: 515   Batch: 20	Speed: 570.325705 samples/sec	loss=0.079954	acc=0.973828
+Epoch: 515   Batch: 30	Speed: 571.192438 samples/sec	loss=0.075999	acc=0.974740
+Epoch: 516 learning rate update to 1.000e-04 
+Epoch: 516   Batch: 10	Speed: 292.403222 samples/sec	loss=0.081560	acc=0.975000
+Epoch: 516   Batch: 20	Speed: 567.952511 samples/sec	loss=0.096152	acc=0.971094
+Epoch: 516   Batch: 30	Speed: 571.861517 samples/sec	loss=0.089133	acc=0.971094
+Epoch: 517 learning rate update to 1.000e-04 
+Epoch: 517   Batch: 10	Speed: 288.923824 samples/sec	loss=0.092555	acc=0.971875
+Epoch: 517   Batch: 20	Speed: 569.132833 samples/sec	loss=0.095876	acc=0.971484
+Epoch: 517   Batch: 30	Speed: 571.864685 samples/sec	loss=0.092195	acc=0.971094
+Epoch: 518 learning rate update to 1.000e-04 
+Epoch: 518   Batch: 10	Speed: 310.332985 samples/sec	loss=0.090410	acc=0.971875
+Epoch: 518   Batch: 20	Speed: 571.101417 samples/sec	loss=0.082527	acc=0.974219
+Epoch: 518   Batch: 30	Speed: 572.160026 samples/sec	loss=0.081977	acc=0.974740
+Epoch: 519 learning rate update to 1.000e-04 
+Epoch: 519   Batch: 10	Speed: 308.227096 samples/sec	loss=0.074374	acc=0.976562
+Epoch: 519   Batch: 20	Speed: 571.330056 samples/sec	loss=0.070316	acc=0.977344
+Epoch: 519   Batch: 30	Speed: 570.929968 samples/sec	loss=0.071694	acc=0.976823
+Epoch: 520 learning rate update to 1.000e-04 
+Epoch: 520   Batch: 10	Speed: 302.190582 samples/sec	loss=0.084351	acc=0.971094
+Epoch: 520   Batch: 20	Speed: 571.231941 samples/sec	loss=0.086752	acc=0.969922
+Epoch: 520   Batch: 30	Speed: 572.611977 samples/sec	loss=0.081222	acc=0.972396
+Epoch: 521 learning rate update to 1.000e-04 
+Epoch: 521   Batch: 10	Speed: 311.648949 samples/sec	loss=0.081178	acc=0.978125
+Epoch: 521   Batch: 20	Speed: 570.929846 samples/sec	loss=0.083782	acc=0.974219
+Epoch: 521   Batch: 30	Speed: 571.118003 samples/sec	loss=0.086357	acc=0.972135
+Epoch: 522 learning rate update to 1.000e-04 
+Epoch: 522   Batch: 10	Speed: 331.590087 samples/sec	loss=0.078714	acc=0.974219
+Epoch: 522   Batch: 20	Speed: 570.727555 samples/sec	loss=0.086328	acc=0.971094
+Epoch: 522   Batch: 30	Speed: 572.311106 samples/sec	loss=0.085092	acc=0.972135
+Epoch: 523 learning rate update to 1.000e-04 
+Epoch: 523   Batch: 10	Speed: 303.886988 samples/sec	loss=0.063279	acc=0.980469
+Epoch: 523   Batch: 20	Speed: 569.699867 samples/sec	loss=0.069786	acc=0.977734
+Epoch: 523   Batch: 30	Speed: 571.382105 samples/sec	loss=0.076845	acc=0.974740
+Epoch: 524 learning rate update to 1.000e-04 
+Epoch: 524   Batch: 10	Speed: 279.425818 samples/sec	loss=0.083019	acc=0.973437
+Epoch: 524   Batch: 20	Speed: 569.045664 samples/sec	loss=0.082593	acc=0.970703
+Epoch: 524   Batch: 30	Speed: 565.732967 samples/sec	loss=0.076480	acc=0.973437
+Epoch: 525 learning rate update to 1.000e-04 
+Epoch: 525   Batch: 10	Speed: 296.681591 samples/sec	loss=0.071930	acc=0.978125
+Epoch: 525   Batch: 20	Speed: 569.104417 samples/sec	loss=0.075263	acc=0.976562
+Epoch: 525   Batch: 30	Speed: 571.120555 samples/sec	loss=0.080681	acc=0.973437
+Epoch: 526 learning rate update to 1.000e-04 
+Epoch: 526   Batch: 10	Speed: 311.436326 samples/sec	loss=0.088651	acc=0.968750
+Epoch: 526   Batch: 20	Speed: 570.419629 samples/sec	loss=0.073255	acc=0.974219
+Epoch: 526   Batch: 30	Speed: 564.031037 samples/sec	loss=0.074084	acc=0.974479
+Epoch: 527 learning rate update to 1.000e-04 
+Epoch: 527   Batch: 10	Speed: 298.034433 samples/sec	loss=0.104735	acc=0.968750
+Epoch: 527   Batch: 20	Speed: 570.206495 samples/sec	loss=0.095719	acc=0.970703
+Epoch: 527   Batch: 30	Speed: 571.548351 samples/sec	loss=0.090929	acc=0.971875
+Epoch: 528 learning rate update to 1.000e-04 
+Epoch: 528   Batch: 10	Speed: 274.827223 samples/sec	loss=0.087490	acc=0.968750
+Epoch: 528   Batch: 20	Speed: 561.572169 samples/sec	loss=0.074994	acc=0.973828
+Epoch: 528   Batch: 30	Speed: 572.150819 samples/sec	loss=0.081154	acc=0.972135
+Epoch: 529 learning rate update to 1.000e-04 
+Epoch: 529   Batch: 10	Speed: 297.172497 samples/sec	loss=0.094876	acc=0.967187
+Epoch: 529   Batch: 20	Speed: 556.229363 samples/sec	loss=0.086707	acc=0.970313
+Epoch: 529   Batch: 30	Speed: 570.559968 samples/sec	loss=0.085083	acc=0.972135
+Epoch: 530 learning rate update to 1.000e-04 
+Epoch: 530   Batch: 10	Speed: 290.384157 samples/sec	loss=0.072305	acc=0.978906
+Epoch: 530   Batch: 20	Speed: 566.868397 samples/sec	loss=0.073941	acc=0.978125
+Epoch: 530   Batch: 30	Speed: 571.894047 samples/sec	loss=0.080884	acc=0.975000
+Epoch: 531 learning rate update to 1.000e-04 
+Epoch: 531   Batch: 10	Speed: 332.273297 samples/sec	loss=0.065671	acc=0.981250
+Epoch: 531   Batch: 20	Speed: 568.794082 samples/sec	loss=0.062032	acc=0.981250
+Epoch: 531   Batch: 30	Speed: 571.550176 samples/sec	loss=0.070820	acc=0.977083
+Epoch: 532 learning rate update to 1.000e-04 
+Epoch: 532   Batch: 10	Speed: 316.407854 samples/sec	loss=0.079115	acc=0.971875
+Epoch: 532   Batch: 20	Speed: 502.435726 samples/sec	loss=0.077000	acc=0.971875
+Epoch: 532   Batch: 30	Speed: 571.981176 samples/sec	loss=0.084447	acc=0.970052
+Epoch: 533 learning rate update to 1.000e-04 
+Epoch: 533   Batch: 10	Speed: 300.449356 samples/sec	loss=0.073408	acc=0.978906
+Epoch: 533   Batch: 20	Speed: 568.940736 samples/sec	loss=0.073349	acc=0.976953
+Epoch: 533   Batch: 30	Speed: 571.820952 samples/sec	loss=0.077613	acc=0.975000
+Epoch: 534 learning rate update to 1.000e-04 
+Epoch: 534   Batch: 10	Speed: 317.927067 samples/sec	loss=0.098271	acc=0.967969
+Epoch: 534   Batch: 20	Speed: 571.602388 samples/sec	loss=0.082384	acc=0.971875
+Epoch: 534   Batch: 30	Speed: 572.104420 samples/sec	loss=0.082379	acc=0.973177
+Epoch: 535 learning rate update to 1.000e-04 
+Epoch: 535   Batch: 10	Speed: 321.037748 samples/sec	loss=0.071245	acc=0.978125
+Epoch: 535   Batch: 20	Speed: 571.036542 samples/sec	loss=0.071814	acc=0.978516
+Epoch: 535   Batch: 30	Speed: 571.120129 samples/sec	loss=0.071613	acc=0.977865
+Epoch: 536 learning rate update to 1.000e-04 
+Epoch: 536   Batch: 10	Speed: 307.199133 samples/sec	loss=0.096261	acc=0.968750
+Epoch: 536   Batch: 20	Speed: 571.332670 samples/sec	loss=0.089350	acc=0.969531
+Epoch: 536   Batch: 30	Speed: 565.168920 samples/sec	loss=0.082823	acc=0.972396
+Epoch: 537 learning rate update to 1.000e-04 
+Epoch: 537   Batch: 10	Speed: 303.329238 samples/sec	loss=0.096476	acc=0.967969
+Epoch: 537   Batch: 20	Speed: 571.124565 samples/sec	loss=0.086244	acc=0.973437
+Epoch: 537   Batch: 30	Speed: 571.754208 samples/sec	loss=0.081095	acc=0.974740
+Epoch: 538 learning rate update to 1.000e-04 
+Epoch: 538   Batch: 10	Speed: 326.207130 samples/sec	loss=0.082637	acc=0.972656
+Epoch: 538   Batch: 20	Speed: 568.953156 samples/sec	loss=0.081271	acc=0.973047
+Epoch: 538   Batch: 30	Speed: 572.017010 samples/sec	loss=0.084485	acc=0.971615
+Epoch: 539 learning rate update to 1.000e-04 
+Epoch: 539   Batch: 10	Speed: 290.725040 samples/sec	loss=0.073783	acc=0.972656
+Epoch: 539   Batch: 20	Speed: 570.331703 samples/sec	loss=0.067605	acc=0.975391
+Epoch: 539   Batch: 30	Speed: 571.753904 samples/sec	loss=0.069655	acc=0.975521
+Epoch: 540 learning rate update to 1.000e-04 
+Epoch: 540   Batch: 10	Speed: 280.200164 samples/sec	loss=0.102084	acc=0.963281
+Epoch: 540   Batch: 20	Speed: 569.593126 samples/sec	loss=0.082582	acc=0.973047
+Epoch: 540   Batch: 30	Speed: 571.913846 samples/sec	loss=0.086427	acc=0.973698
+Epoch: 541 learning rate update to 1.000e-04 
+Epoch: 541   Batch: 10	Speed: 300.239361 samples/sec	loss=0.072288	acc=0.978125
+Epoch: 541   Batch: 20	Speed: 568.549525 samples/sec	loss=0.083251	acc=0.974219
+Epoch: 541   Batch: 30	Speed: 569.836162 samples/sec	loss=0.077376	acc=0.975781
+Epoch: 542 learning rate update to 1.000e-04 
+Epoch: 542   Batch: 10	Speed: 321.832139 samples/sec	loss=0.082579	acc=0.975000
+Epoch: 542   Batch: 20	Speed: 570.536502 samples/sec	loss=0.085327	acc=0.974609
+Epoch: 542   Batch: 30	Speed: 571.883081 samples/sec	loss=0.085743	acc=0.972396
+Epoch: 543 learning rate update to 1.000e-04 
+Epoch: 543   Batch: 10	Speed: 317.529784 samples/sec	loss=0.098102	acc=0.965625
+Epoch: 543   Batch: 20	Speed: 570.663432 samples/sec	loss=0.092841	acc=0.970703
+Epoch: 543   Batch: 30	Speed: 564.469698 samples/sec	loss=0.084356	acc=0.972656
+Epoch: 544 learning rate update to 1.000e-04 
+Epoch: 544   Batch: 10	Speed: 280.822803 samples/sec	loss=0.076820	acc=0.975000
+Epoch: 544   Batch: 20	Speed: 570.773427 samples/sec	loss=0.074085	acc=0.976172
+Epoch: 544   Batch: 30	Speed: 571.595937 samples/sec	loss=0.070476	acc=0.977865
+Epoch: 545 learning rate update to 1.000e-04 
+Epoch: 545   Batch: 10	Speed: 324.298774 samples/sec	loss=0.088045	acc=0.970313
+Epoch: 545   Batch: 20	Speed: 570.785138 samples/sec	loss=0.089294	acc=0.972266
+Epoch: 545   Batch: 30	Speed: 564.280321 samples/sec	loss=0.082934	acc=0.974479
+Epoch: 546 learning rate update to 1.000e-04 
+Epoch: 546   Batch: 10	Speed: 309.947929 samples/sec	loss=0.083626	acc=0.971094
+Epoch: 546   Batch: 20	Speed: 568.977095 samples/sec	loss=0.083790	acc=0.971484
+Epoch: 546   Batch: 30	Speed: 570.154417 samples/sec	loss=0.080480	acc=0.973177
+Epoch: 547 learning rate update to 1.000e-04 
+Epoch: 547   Batch: 10	Speed: 335.556589 samples/sec	loss=0.074407	acc=0.972656
+Epoch: 547   Batch: 20	Speed: 556.805380 samples/sec	loss=0.075159	acc=0.972656
+Epoch: 547   Batch: 30	Speed: 572.016400 samples/sec	loss=0.074545	acc=0.973437
+Epoch: 548 learning rate update to 1.000e-04 
+Epoch: 548   Batch: 10	Speed: 296.575323 samples/sec	loss=0.076542	acc=0.974219
+Epoch: 548   Batch: 20	Speed: 571.022087 samples/sec	loss=0.081771	acc=0.971094
+Epoch: 548   Batch: 30	Speed: 572.025299 samples/sec	loss=0.083696	acc=0.971615
+Epoch: 549 learning rate update to 1.000e-04 
+Epoch: 549   Batch: 10	Speed: 300.638617 samples/sec	loss=0.081547	acc=0.968750
+Epoch: 549   Batch: 20	Speed: 562.530340 samples/sec	loss=0.076992	acc=0.972266
+Epoch: 549   Batch: 30	Speed: 572.688512 samples/sec	loss=0.070233	acc=0.975521
+Epoch: 550 learning rate update to 1.000e-04 
+Epoch: 550   Batch: 10	Speed: 316.263792 samples/sec	loss=0.082142	acc=0.973437
+Epoch: 550   Batch: 20	Speed: 570.072081 samples/sec	loss=0.081973	acc=0.974219
+Epoch: 550   Batch: 30	Speed: 571.815653 samples/sec	loss=0.082119	acc=0.973177
+Epoch: 551 learning rate update to 1.000e-04 
+Epoch: 551   Batch: 10	Speed: 264.734403 samples/sec	loss=0.056414	acc=0.984375
+Epoch: 551   Batch: 20	Speed: 571.259780 samples/sec	loss=0.071018	acc=0.976953
+Epoch: 551   Batch: 30	Speed: 571.038850 samples/sec	loss=0.070916	acc=0.976823
+Epoch: 552 learning rate update to 1.000e-04 
+Epoch: 552   Batch: 10	Speed: 314.249792 samples/sec	loss=0.076488	acc=0.975000
+Epoch: 552   Batch: 20	Speed: 550.888547 samples/sec	loss=0.072327	acc=0.978125
+Epoch: 552   Batch: 30	Speed: 571.125294 samples/sec	loss=0.074203	acc=0.977083
+Epoch: 553 learning rate update to 1.000e-04 
+Epoch: 553   Batch: 10	Speed: 306.052787 samples/sec	loss=0.063314	acc=0.978906
+Epoch: 553   Batch: 20	Speed: 570.960873 samples/sec	loss=0.067392	acc=0.978516
+Epoch: 553   Batch: 30	Speed: 572.019813 samples/sec	loss=0.067789	acc=0.978385
+Epoch: 554 learning rate update to 1.000e-04 
+Epoch: 554   Batch: 10	Speed: 309.720681 samples/sec	loss=0.081130	acc=0.970313
+Epoch: 554   Batch: 20	Speed: 571.499191 samples/sec	loss=0.081113	acc=0.970313
+Epoch: 554   Batch: 30	Speed: 572.287374 samples/sec	loss=0.088354	acc=0.969271
+Epoch: 555 learning rate update to 1.000e-04 
+Epoch: 555   Batch: 10	Speed: 310.604003 samples/sec	loss=0.068586	acc=0.975781
+Epoch: 555   Batch: 20	Speed: 569.957455 samples/sec	loss=0.080111	acc=0.973437
+Epoch: 555   Batch: 30	Speed: 572.230707 samples/sec	loss=0.079108	acc=0.974479
+Epoch: 556 learning rate update to 1.000e-04 
+Epoch: 556   Batch: 10	Speed: 318.132322 samples/sec	loss=0.091758	acc=0.971094
+Epoch: 556   Batch: 20	Speed: 570.668588 samples/sec	loss=0.082665	acc=0.974609
+Epoch: 556   Batch: 30	Speed: 571.314674 samples/sec	loss=0.082501	acc=0.972917
+Epoch: 557 learning rate update to 1.000e-04 
+Epoch: 557   Batch: 10	Speed: 278.355070 samples/sec	loss=0.056949	acc=0.980469
+Epoch: 557   Batch: 20	Speed: 570.288204 samples/sec	loss=0.062084	acc=0.980469
+Epoch: 557   Batch: 30	Speed: 572.341795 samples/sec	loss=0.066221	acc=0.979167
+Epoch: 558 learning rate update to 1.000e-04 
+Epoch: 558   Batch: 10	Speed: 297.685943 samples/sec	loss=0.076904	acc=0.975000
+Epoch: 558   Batch: 20	Speed: 568.968170 samples/sec	loss=0.078050	acc=0.973828
+Epoch: 558   Batch: 30	Speed: 540.525187 samples/sec	loss=0.084276	acc=0.972917
+Epoch: 559 learning rate update to 1.000e-04 
+Epoch: 559   Batch: 10	Speed: 303.307338 samples/sec	loss=0.073592	acc=0.977344
+Epoch: 559   Batch: 20	Speed: 528.990175 samples/sec	loss=0.072655	acc=0.976562
+Epoch: 559   Batch: 30	Speed: 572.016035 samples/sec	loss=0.078187	acc=0.974219
+Epoch: 560 learning rate update to 1.000e-04 
+Epoch: 560   Batch: 10	Speed: 323.909999 samples/sec	loss=0.079960	acc=0.977344
+Epoch: 560   Batch: 20	Speed: 569.353437 samples/sec	loss=0.083428	acc=0.973828
+Epoch: 560   Batch: 30	Speed: 569.744062 samples/sec	loss=0.081740	acc=0.973698
+Epoch: 561 learning rate update to 1.000e-04 
+Epoch: 561   Batch: 10	Speed: 314.519313 samples/sec	loss=0.091332	acc=0.970313
+Epoch: 561   Batch: 20	Speed: 568.640336 samples/sec	loss=0.081766	acc=0.973828
+Epoch: 561   Batch: 30	Speed: 571.883873 samples/sec	loss=0.081462	acc=0.973437
+Epoch: 562 learning rate update to 1.000e-04 
+Epoch: 562   Batch: 10	Speed: 288.888269 samples/sec	loss=0.079877	acc=0.974219
+Epoch: 562   Batch: 20	Speed: 570.972471 samples/sec	loss=0.070529	acc=0.979688
+Epoch: 562   Batch: 30	Speed: 572.413924 samples/sec	loss=0.071500	acc=0.978125
+Epoch: 563 learning rate update to 1.000e-04 
+Epoch: 563   Batch: 10	Speed: 301.589795 samples/sec	loss=0.080883	acc=0.975781
+Epoch: 563   Batch: 20	Speed: 569.101280 samples/sec	loss=0.082551	acc=0.975391
+Epoch: 563   Batch: 30	Speed: 571.825824 samples/sec	loss=0.081994	acc=0.975000
+Epoch: 564 learning rate update to 1.000e-04 
+Epoch: 564   Batch: 10	Speed: 294.367641 samples/sec	loss=0.100001	acc=0.968750
+Epoch: 564   Batch: 20	Speed: 571.394937 samples/sec	loss=0.090646	acc=0.971484
+Epoch: 564   Batch: 30	Speed: 571.977519 samples/sec	loss=0.087489	acc=0.973437
+Epoch: 565 learning rate update to 1.000e-04 
+Epoch: 565   Batch: 10	Speed: 308.705520 samples/sec	loss=0.064076	acc=0.976562
+Epoch: 565   Batch: 20	Speed: 570.824222 samples/sec	loss=0.070169	acc=0.975000
+Epoch: 565   Batch: 30	Speed: 572.680388 samples/sec	loss=0.072096	acc=0.975260
+Epoch: 566 learning rate update to 1.000e-04 
+Epoch: 566   Batch: 10	Speed: 298.557090 samples/sec	loss=0.068909	acc=0.978125
+Epoch: 566   Batch: 20	Speed: 569.705852 samples/sec	loss=0.071682	acc=0.976562
+Epoch: 566   Batch: 30	Speed: 571.716641 samples/sec	loss=0.075230	acc=0.974479
+Epoch: 567 learning rate update to 1.000e-04 
+Epoch: 567   Batch: 10	Speed: 305.125674 samples/sec	loss=0.081049	acc=0.978906
+Epoch: 567   Batch: 20	Speed: 569.925146 samples/sec	loss=0.080613	acc=0.975781
+Epoch: 567   Batch: 30	Speed: 572.157404 samples/sec	loss=0.074951	acc=0.976562
+Epoch: 568 learning rate update to 1.000e-04 
+Epoch: 568   Batch: 10	Speed: 318.192111 samples/sec	loss=0.086662	acc=0.976562
+Epoch: 568   Batch: 20	Speed: 497.674331 samples/sec	loss=0.067277	acc=0.979688
+Epoch: 568   Batch: 30	Speed: 572.259070 samples/sec	loss=0.072270	acc=0.976302
+Epoch: 569 learning rate update to 1.000e-04 
+Epoch: 569   Batch: 10	Speed: 294.124415 samples/sec	loss=0.082053	acc=0.969531
+Epoch: 569   Batch: 20	Speed: 570.429569 samples/sec	loss=0.065886	acc=0.974609
+Epoch: 569   Batch: 30	Speed: 570.849289 samples/sec	loss=0.071296	acc=0.975260
+Epoch: 570 learning rate update to 1.000e-04 
+Epoch: 570   Batch: 10	Speed: 321.861852 samples/sec	loss=0.067674	acc=0.980469
+Epoch: 570   Batch: 20	Speed: 570.638866 samples/sec	loss=0.078198	acc=0.975000
+Epoch: 570   Batch: 30	Speed: 572.207836 samples/sec	loss=0.075253	acc=0.975000
+Epoch: 571 learning rate update to 1.000e-04 
+Epoch: 571   Batch: 10	Speed: 313.191948 samples/sec	loss=0.077802	acc=0.975000
+Epoch: 571   Batch: 20	Speed: 571.020690 samples/sec	loss=0.069763	acc=0.978125
+Epoch: 571   Batch: 30	Speed: 572.155697 samples/sec	loss=0.071446	acc=0.976302
+Epoch: 572 learning rate update to 1.000e-04 
+Epoch: 572   Batch: 10	Speed: 298.529017 samples/sec	loss=0.098695	acc=0.967187
+Epoch: 572   Batch: 20	Speed: 570.431266 samples/sec	loss=0.088299	acc=0.969922
+Epoch: 572   Batch: 30	Speed: 572.170270 samples/sec	loss=0.083323	acc=0.972656
+Epoch: 573 learning rate update to 1.000e-04 
+Epoch: 573   Batch: 10	Speed: 293.134356 samples/sec	loss=0.075740	acc=0.972656
+Epoch: 573   Batch: 20	Speed: 568.475477 samples/sec	loss=0.068225	acc=0.975000
+Epoch: 573   Batch: 30	Speed: 560.416883 samples/sec	loss=0.072363	acc=0.975000
+Epoch: 574 learning rate update to 1.000e-04 
+Epoch: 574   Batch: 10	Speed: 306.174546 samples/sec	loss=0.080850	acc=0.965625
+Epoch: 574   Batch: 20	Speed: 571.568492 samples/sec	loss=0.084867	acc=0.967578
+Epoch: 574   Batch: 30	Speed: 571.643774 samples/sec	loss=0.080089	acc=0.971094
+Epoch: 575 learning rate update to 1.000e-04 
+Epoch: 575   Batch: 10	Speed: 282.384354 samples/sec	loss=0.071724	acc=0.978906
+Epoch: 575   Batch: 20	Speed: 570.518617 samples/sec	loss=0.068631	acc=0.977734
+Epoch: 575   Batch: 30	Speed: 571.384781 samples/sec	loss=0.066378	acc=0.978385
+Epoch: 576 learning rate update to 1.000e-04 
+Epoch: 576   Batch: 10	Speed: 330.014271 samples/sec	loss=0.074746	acc=0.975781
+Epoch: 576   Batch: 20	Speed: 571.140666 samples/sec	loss=0.076408	acc=0.975000
+Epoch: 576   Batch: 30	Speed: 571.549811 samples/sec	loss=0.079195	acc=0.972917
+Epoch: 577 learning rate update to 1.000e-04 
+Epoch: 577   Batch: 10	Speed: 298.581531 samples/sec	loss=0.068030	acc=0.976562
+Epoch: 577   Batch: 20	Speed: 490.162808 samples/sec	loss=0.078749	acc=0.974219
+Epoch: 577   Batch: 30	Speed: 571.876624 samples/sec	loss=0.084630	acc=0.972135
+Epoch: 578 learning rate update to 1.000e-04 
+Epoch: 578   Batch: 10	Speed: 285.165033 samples/sec	loss=0.088984	acc=0.967969
+Epoch: 578   Batch: 20	Speed: 570.441691 samples/sec	loss=0.080655	acc=0.970703
+Epoch: 578   Batch: 30	Speed: 572.374074 samples/sec	loss=0.076838	acc=0.972656
+Epoch: 579 learning rate update to 1.000e-04 
+Epoch: 579   Batch: 10	Speed: 306.343766 samples/sec	loss=0.078804	acc=0.971875
+Epoch: 579   Batch: 20	Speed: 569.633134 samples/sec	loss=0.075102	acc=0.975391
+Epoch: 579   Batch: 30	Speed: 571.482644 samples/sec	loss=0.073653	acc=0.976302
+Epoch: 580 learning rate update to 1.000e-04 
+Epoch: 580   Batch: 10	Speed: 321.626053 samples/sec	loss=0.092423	acc=0.968750
+Epoch: 580   Batch: 20	Speed: 570.964213 samples/sec	loss=0.089330	acc=0.969922
+Epoch: 580   Batch: 30	Speed: 571.451804 samples/sec	loss=0.086745	acc=0.972135
+Epoch: 581 learning rate update to 1.000e-04 
+Epoch: 581   Batch: 10	Speed: 310.720923 samples/sec	loss=0.062164	acc=0.982031
+Epoch: 581   Batch: 20	Speed: 489.325100 samples/sec	loss=0.065863	acc=0.979297
+Epoch: 581   Batch: 30	Speed: 572.198932 samples/sec	loss=0.069105	acc=0.978125
+Epoch: 582 learning rate update to 1.000e-04 
+Epoch: 582   Batch: 10	Speed: 314.529743 samples/sec	loss=0.072837	acc=0.975000
+Epoch: 582   Batch: 20	Speed: 570.350970 samples/sec	loss=0.084543	acc=0.971484
+Epoch: 582   Batch: 30	Speed: 571.782828 samples/sec	loss=0.090847	acc=0.970313
+Epoch: 583 learning rate update to 1.000e-04 
+Epoch: 583   Batch: 10	Speed: 306.416694 samples/sec	loss=0.073458	acc=0.978125
+Epoch: 583   Batch: 20	Speed: 571.061567 samples/sec	loss=0.072861	acc=0.977344
+Epoch: 583   Batch: 30	Speed: 571.391349 samples/sec	loss=0.073151	acc=0.974740
+Epoch: 584 learning rate update to 1.000e-04 
+Epoch: 584   Batch: 10	Speed: 330.731821 samples/sec	loss=0.075525	acc=0.969531
+Epoch: 584   Batch: 20	Speed: 560.792292 samples/sec	loss=0.077720	acc=0.970313
+Epoch: 584   Batch: 30	Speed: 570.482424 samples/sec	loss=0.078559	acc=0.970052
+Epoch: 585 learning rate update to 1.000e-04 
+Epoch: 585   Batch: 10	Speed: 320.136395 samples/sec	loss=0.069376	acc=0.982812
+Epoch: 585   Batch: 20	Speed: 571.525413 samples/sec	loss=0.079095	acc=0.975391
+Epoch: 585   Batch: 30	Speed: 571.716519 samples/sec	loss=0.082041	acc=0.973958
+Epoch: 586 learning rate update to 1.000e-04 
+Epoch: 586   Batch: 10	Speed: 320.685996 samples/sec	loss=0.082753	acc=0.973437
+Epoch: 586   Batch: 20	Speed: 570.680235 samples/sec	loss=0.075619	acc=0.974609
+Epoch: 586   Batch: 30	Speed: 521.949828 samples/sec	loss=0.071017	acc=0.976823
+Epoch: 587 learning rate update to 1.000e-04 
+Epoch: 587   Batch: 10	Speed: 305.288529 samples/sec	loss=0.068857	acc=0.979688
+Epoch: 587   Batch: 20	Speed: 569.366720 samples/sec	loss=0.066855	acc=0.979297
+Epoch: 587   Batch: 30	Speed: 571.528820 samples/sec	loss=0.071730	acc=0.976302
+Epoch: 588 learning rate update to 1.000e-04 
+Epoch: 588   Batch: 10	Speed: 297.536439 samples/sec	loss=0.084426	acc=0.968750
+Epoch: 588   Batch: 20	Speed: 571.247137 samples/sec	loss=0.085804	acc=0.970703
+Epoch: 588   Batch: 30	Speed: 572.424422 samples/sec	loss=0.078042	acc=0.973177
+Epoch: 589 learning rate update to 1.000e-04 
+Epoch: 589   Batch: 10	Speed: 272.489044 samples/sec	loss=0.091212	acc=0.965625
+Epoch: 589   Batch: 20	Speed: 568.544768 samples/sec	loss=0.081853	acc=0.967969
+Epoch: 589   Batch: 30	Speed: 571.519328 samples/sec	loss=0.081951	acc=0.969271
+Epoch: 590 learning rate update to 1.000e-04 
+Epoch: 590   Batch: 10	Speed: 303.033811 samples/sec	loss=0.102822	acc=0.967969
+Epoch: 590   Batch: 20	Speed: 569.820437 samples/sec	loss=0.084054	acc=0.973047
+Epoch: 590   Batch: 30	Speed: 571.914334 samples/sec	loss=0.081717	acc=0.974219
+Epoch: 591 learning rate update to 1.000e-04 
+Epoch: 591   Batch: 10	Speed: 298.197605 samples/sec	loss=0.078319	acc=0.973437
+Epoch: 591   Batch: 20	Speed: 570.433569 samples/sec	loss=0.080289	acc=0.971875
+Epoch: 591   Batch: 30	Speed: 571.553279 samples/sec	loss=0.076796	acc=0.973698
+Epoch: 592 learning rate update to 1.000e-04 
+Epoch: 592   Batch: 10	Speed: 277.025261 samples/sec	loss=0.086875	acc=0.971094
+Epoch: 592   Batch: 20	Speed: 570.775490 samples/sec	loss=0.076860	acc=0.974219
+Epoch: 592   Batch: 30	Speed: 572.568680 samples/sec	loss=0.080619	acc=0.973437
+Epoch: 593 learning rate update to 1.000e-04 
+Epoch: 593   Batch: 10	Speed: 318.423787 samples/sec	loss=0.089951	acc=0.967969
+Epoch: 593   Batch: 20	Speed: 570.678051 samples/sec	loss=0.084480	acc=0.971875
+Epoch: 593   Batch: 30	Speed: 571.485990 samples/sec	loss=0.086500	acc=0.971094
+Epoch: 594 learning rate update to 1.000e-04 
+Epoch: 594   Batch: 10	Speed: 308.862873 samples/sec	loss=0.073383	acc=0.976562
+Epoch: 594   Batch: 20	Speed: 571.279171 samples/sec	loss=0.074772	acc=0.974219
+Epoch: 594   Batch: 30	Speed: 572.397752 samples/sec	loss=0.073592	acc=0.975000
+Epoch: 595 learning rate update to 1.000e-04 
+Epoch: 595   Batch: 10	Speed: 315.415378 samples/sec	loss=0.077927	acc=0.975000
+Epoch: 595   Batch: 20	Speed: 569.121852 samples/sec	loss=0.072416	acc=0.978516
+Epoch: 595   Batch: 30	Speed: 571.322091 samples/sec	loss=0.078029	acc=0.975000
+Epoch: 596 learning rate update to 1.000e-04 
+Epoch: 596   Batch: 10	Speed: 305.669466 samples/sec	loss=0.081812	acc=0.974219
+Epoch: 596   Batch: 20	Speed: 571.385450 samples/sec	loss=0.083193	acc=0.972656
+Epoch: 596   Batch: 30	Speed: 572.244613 samples/sec	loss=0.079973	acc=0.973437
+Epoch: 597 learning rate update to 1.000e-04 
+Epoch: 597   Batch: 10	Speed: 308.818279 samples/sec	loss=0.086005	acc=0.975000
+Epoch: 597   Batch: 20	Speed: 571.848238 samples/sec	loss=0.086564	acc=0.974219
+Epoch: 597   Batch: 30	Speed: 571.487146 samples/sec	loss=0.084623	acc=0.974219
+Epoch: 598 learning rate update to 1.000e-04 
+Epoch: 598   Batch: 10	Speed: 313.713195 samples/sec	loss=0.086162	acc=0.971875
+Epoch: 598   Batch: 20	Speed: 570.477150 samples/sec	loss=0.087805	acc=0.971875
+Epoch: 598   Batch: 30	Speed: 570.414902 samples/sec	loss=0.083492	acc=0.973177
+Epoch: 599 learning rate update to 1.000e-04 
+Epoch: 599   Batch: 10	Speed: 303.799787 samples/sec	loss=0.093164	acc=0.967187
+Epoch: 599   Batch: 20	Speed: 570.719425 samples/sec	loss=0.087074	acc=0.968359
+Epoch: 599   Batch: 30	Speed: 571.419689 samples/sec	loss=0.085846	acc=0.969531
